@@ -1,55 +1,67 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <title>Carte des lieux de stage</title>
-    <style>
-      #map {
-        height: 100vh;
-        width: 100%;
-      }
-    </style>
-  </head>
+<head>
+  <meta charset="utf-8" />
+  <title>Carte des lieux de stage</title>
 
-  <body>
-    <div id="map"></div>
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
 
-    <script>
-      async function initMap() {
-        const map = new google.maps.Map(document.getElementById("map"), {
-          center: { lat: 45.4397, lng: 4.3872 }, // Saint-Étienne
-          zoom: 12,
-        });
+  <style>
+    #map {
+      height: 100vh;
+      width: 100%;
+    }
+  </style>
+</head>
 
-        const couleurs = {
-          informatique: "blue",
-          electronique: "red",
-          reseau: "green",
-          autre: "purple",
-        };
+<body>
+  <div id="map"></div>
 
-        const response = await fetch("data/stages.json");
-        const stages = await response.json();
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
-        stages.forEach((stage) => {
-          new google.maps.Marker({
-            position: { lat: stage.lat, lng: stage.lng },
-            map,
-            title: stage.nom,
-            icon: {
-              path: google.maps.SymbolPath.CIRCLE,
-              scale: 8,
-              fillColor: couleurs[stage.categorie] || "black",
-              fillOpacity: 0.9,
-              strokeWeight: 1,
-              strokeColor: "white",
-            },
-          });
-        });
-      }
-    </script>
+  <script>
+    async function initMap() {
+      // Carte centrée sur Saint-Étienne
+      const map = L.map('map').setView([45.4397, 4.3872], 12);
 
-    <!-- Remplace YOUR_API_KEY par ta clé Google Maps -->
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap"></script>
-  </body>
+      // Fond de carte OpenStreetMap
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '© OpenStreetMap'
+      }).addTo(map);
+
+      // Couleurs par catégorie
+      const couleurs = {
+        informatique: "blue",
+        electronique: "red",
+        reseau: "green",
+        autre: "purple"
+      };
+
+      // Chargement des données
+      const response = await fetch("data/stages.json");
+      const stages = await response.json();
+
+      stages.forEach(stage => {
+        const color = couleurs[stage.categorie] || "black";
+
+        // Création d'un marqueur coloré
+        const marker = L.circleMarker([stage.lat, stage.lng], {
+          radius: 8,
+          fillColor: color,
+          color: "white",
+          weight: 2,
+          opacity: 1,
+          fillOpacity: 0.9
+        }).addTo(map);
+
+        marker.bindPopup(`<b>${stage.nom}</b><br>${stage.categorie}`);
+      });
+    }
+
+    initMap();
+  </script>
+</body>
 </html>
