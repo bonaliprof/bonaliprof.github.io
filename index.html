@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Carte des lieux de stage</title>
+    <style>
+      #map {
+        height: 100vh;
+        width: 100%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="map"></div>
+
+    <script>
+      async function initMap() {
+        const map = new google.maps.Map(document.getElementById("map"), {
+          center: { lat: 45.4397, lng: 4.3872 }, // Saint-Étienne
+          zoom: 12,
+        });
+
+        const couleurs = {
+          informatique: "blue",
+          electronique: "red",
+          reseau: "green",
+          autre: "purple",
+        };
+
+        const response = await fetch("data/stages.json");
+        const stages = await response.json();
+
+        stages.forEach((stage) => {
+          new google.maps.Marker({
+            position: { lat: stage.lat, lng: stage.lng },
+            map,
+            title: stage.nom,
+            icon: {
+              path: google.maps.SymbolPath.CIRCLE,
+              scale: 8,
+              fillColor: couleurs[stage.categorie] || "black",
+              fillOpacity: 0.9,
+              strokeWeight: 1,
+              strokeColor: "white",
+            },
+          });
+        });
+      }
+    </script>
+
+    <!-- Remplace YOUR_API_KEY par ta clé Google Maps -->
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap"></script>
+  </body>
+</html>
