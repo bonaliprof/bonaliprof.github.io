@@ -10,8 +10,8 @@
     "nom": "INEO PACA",
     "categorie": "electricite / electrotechnique",
     "adresse_complete": "255 rue Georges Claude, pôle d'activité Aix en Pce 13797 AIX-EN-PROVENCE CEDEX3",
-    "lat": null,
-    "lng": null
+    "lat": 43.29275,
+    "lng": 5.22573
   },
   {
     "nom": "ENEDIS",
@@ -633,9 +633,8 @@
     "nom": "Naouy Andy",
     "categorie": "electricite / electrotechnique",
     "adresse_complete": "7 Chemin de la pleine 13120 GARDANNE",
-    "lat": null,
-    "lng": null,
-    "geocodage_erreur": "HTTP Error 504: Gateway Timeout"
+    "lat": 43.2654,
+    "lng": 5.27296,
   },
   {
     "nom": "PAT Elec",
@@ -1422,13 +1421,6 @@
     "lng": 5.37837
   },
   {
-    "nom": "Eurodisney Associés SAS",
-    "categorie": "electricite / electrotechnique",
-    "adresse_complete": "Territoire 1, BP100 77777 MARNE LA VALLEE",
-    "lat": null,
-    "lng": null
-  },
-  {
     "nom": "METAPROD",
     "categorie": "audiovisuel / multimedia",
     "adresse_complete": "117 rue Saint Jacques 13006 Marseille 6e Arrondissement",
@@ -1502,8 +1494,8 @@
     "nom": "DDSIS 13",
     "categorie": "informatique",
     "adresse_complete": "1, AVENUE BOISBAUDRAN, ZI DE LA DELORME, CEDEX 15 13326 MARSEILLE",
-    "lat": null,
-    "lng": null
+    "lat": 43.20229,
+    "lng": 5.22160
   },
   {
     "nom": "SDIS13 MARSEILLE 15ème",
