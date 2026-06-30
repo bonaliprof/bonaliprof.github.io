@@ -1,27 +1,41 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 <head>
   <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Carte des lieux de stage</title>
 
-  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 
   <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+
     #map {
       height: 100vh;
       width: 100%;
     }
   </style>
 </head>
-
 <body>
   <div id="map"></div>
 
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
   <script>
-    async function initMap() {
+    async function loadJson(url) {
+      const response = await fetch(url);
 
+      if (!response.ok) {
+        throw new Error(`${url} introuvable : HTTP ${response.status}`);
+      }
+
+      return response.json();
+    }
+
+    async function initMap() {
       const map = L.map('map').setView([43.4523, 5.4698], 12);
 
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -29,48 +43,65 @@
         attribution: '© OpenStreetMap'
       }).addTo(map);
 
-      // Chargement des deux JSON
-      const geo = await fetch("data/stages_geocode.json").then(r => r.json());
-      const full = await fetch("data/stages_full.json").then(r => r.json());
+      // Les deux JSON sont placés à côté de index.html.
+      const geo = await loadJson('./stages_geocode.json');
+      const full = await loadJson('./stages_full.json');
 
-      // Couleurs par catégorie
       const couleurs = {
-        "informatique": "#007bff",
-        "electricite / electrotechnique": "#ff8c00",
-        "electricite": "#ff8c00",
-        "ciel": "#ff8c00",
-        "telecom / fibre": "#e91e63",
-        "electronique / robotique": "#9c27b0",
-        "securite / courant faible": "#4caf50",
-        "autre": "#9e9e9e"
+        'informatique': '#007bff',
+        'electricite / electrotechnique': '#ff8c00',
+        'electricite': '#ff8c00',
+        'ciel': '#ff8c00',
+        'telecom / fibre': '#e91e63',
+        'electronique / robotique': '#9c27b0',
+        'securite / courant faible': '#4caf50',
+        'autre': '#9e9e9e'
       };
 
+      const fullByName = new Map(full.map(e => [e.nom, e]));
+      const markers = [];
 
       geo.forEach(stage => {
+        if (typeof stage.lat !== 'number' || typeof stage.lng !== 'number') {
+          console.warn('Coordonnées invalides ignorées :', stage);
+          return;
+        }
 
-        const info = full.find(e => e.nom === stage.nom);
+        const info = fullByName.get(stage.nom) || {};
 
         const marker = L.circleMarker([stage.lat, stage.lng], {
           radius: 8,
-          fillColor: couleurs[stage.categorie] || couleurs["autre"],
-          color: "white",
+          fillColor: couleurs[stage.categorie] || couleurs.autre,
+          color: 'white',
           weight: 2,
           opacity: 1,
           fillOpacity: 0.9
         }).addTo(map);
 
         marker.bindPopup(`
-          <b>${info.nom}</b><br>
-          ${info.activite || ""}<br><br>
-          📍 ${info.adresse}, ${info.code_postal} ${info.ville}<br>
-          📞 ${info.telephone || "Non renseigné"}<br>
-          📧 ${info.email || "Non renseigné"}<br><br>
-          👤 ${info.responsable_prenom || ""} ${info.responsable_nom || ""} (${info.responsable_fonction || ""})
+          <b>${info.nom || stage.nom}</b><br>
+          ${info.activite_metier || ''}<br><br>
+          📍 ${info.adresse || stage.adresse_complete || ''}${info.code_postal ? ', ' + info.code_postal : ''} ${info.ville || ''}<br>
+          📞 ${info.telephone || 'Non renseigné'}<br>
+          📧 ${info.email || 'Non renseigné'}<br><br>
+          👤 ${info.responsable_prenom || ''} ${info.responsable_nom || ''} ${info.responsable_fonction ? '(' + info.responsable_fonction + ')' : ''}
         `);
+
+        markers.push(marker);
       });
+
+      if (markers.length > 0) {
+        const group = L.featureGroup(markers);
+        map.fitBounds(group.getBounds().pad(0.15));
+      }
+
+      console.log(`${markers.length} points affichés sur la carte.`);
     }
 
-    initMap();
+    initMap().catch(error => {
+      console.error('Erreur pendant le chargement de la carte :', error);
+      alert('Erreur pendant le chargement de la carte. Regarde la console du navigateur avec F12.');
+    });
   </script>
 </body>
 </html>
