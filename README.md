@@ -37,3 +37,9 @@ stages/stages_geocode.json
 ```
 
 Attention : GitHub Pages est public. Ne pas publier de données personnelles, de numéros mobiles, de listes d’élèves ou de documents remplis.
+
+## Ressources par professeur
+
+Les pages `premiere/index.html` et `terminale/index.html` contiennent un bloc "Choisir un professeur".
+- BONALI et THAUVIN pointent vers des sections internes de la page.
+- BOUALAM pointe vers un lien Padlet à renseigner : chercher `TODO : remplacer # par le lien Padlet exact de M. Boualam` puis remplacer `href="#"` par l'URL du Padlet.
