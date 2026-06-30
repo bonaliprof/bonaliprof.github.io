@@ -1,0 +1,2632 @@
+[
+  {
+    "nom": "SELFI SAS",
+    "categorie": "informatique",
+    "adresse_complete": "17 AVENUE CÉLESTIN BARTHÉLÉMY 13710 FUVEAU",
+    "lat": 43.453617,
+    "lng": 5.559833,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "INEO PACA",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "255 rue Georges Claude, pôle d'activité Aix en Pce 13797 AIX-EN-PROVENCE CEDEX3",
+    "lat": 43.29275,
+    "lng": 5.22573,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ENEDIS",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "269 avenue Roger SALENGRO 13015 Marseille 15e Arrondissement",
+    "lat": 43.322075,
+    "lng": 5.367608,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Orange unité intervention Prov.Rhô.Med.",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "93 rue Félix PYAT 13003 MARSEILLE",
+    "lat": 43.31605,
+    "lng": 5.374292,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SNEF",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "217 avenue Francis PERRIN 13790 ROUSSET",
+    "lat": 43.465956,
+    "lng": 5.608154,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Automatisme Thermique Electrique",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "55 Avenue Marius Joly 13530 TRETS",
+    "lat": 43.445428,
+    "lng": 5.689244,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Enedis",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "30 rue Nogarette 13013 MARSEILLE",
+    "lat": 43.331574,
+    "lng": 5.409261,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ENGIE INEO",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "75 route du guigonnet 13270 FOS-SUR-MER",
+    "lat": 43.449626,
+    "lng": 4.93472,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "GERARD VALENTE ELECTRICITE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "1 CLOS ARAGON CHEMIN ESTREC 13120 GARDANNE",
+    "lat": 43.451365,
+    "lng": 5.479646,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Hesperia informatique",
+    "categorie": "informatique",
+    "adresse_complete": "2 Rue Odette Jasse 13015 MARSEILLE",
+    "lat": 43.342957,
+    "lng": 5.370218,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "S.S.B. TELECOM",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "275 RUE LAGREMEUSE 13100 AIX EN PROVENCE",
+    "lat": 43.483556,
+    "lng": 5.345335,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Centre Hospitalier Montperrin",
+    "categorie": "informatique",
+    "adresse_complete": "109 avenue du Petit Barthélémy 13617 AIX EN PROVENCE",
+    "lat": 43.522452,
+    "lng": 5.438208,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "STMICRO electronics",
+    "categorie": "electronique / robotique",
+    "adresse_complete": "190 Avenue Celestin Coq, Zone industrielle Peynier Rousset 13106 ROUSSET",
+    "lat": 43.473881,
+    "lng": 5.599805,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "INEO PROVENCE & COTE AZUR SNC",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "ZI Avon, 368 chemin de l'oratoire de Bouc 13120 GARDANNE",
+    "lat": 43.44558,
+    "lng": 5.453256,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "AXIANS",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "148 traverse de Lamartine 13001 MARSEILLE",
+    "lat": 43.301697,
+    "lng": 5.378691,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SARL électricité Brenguier",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "79 avenue de la tour 83490 LE MUY",
+    "lat": 43.473434,
+    "lng": 6.57012,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Thiercelin informatique",
+    "categorie": "informatique",
+    "adresse_complete": "2319 route de Vaugines 84160 CADENET",
+    "lat": 43.768545,
+    "lng": 5.407211,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Groupe SNEF",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "ZI la feuillane, lot 74 13270 FOS-SUR-MER",
+    "lat": 43.474596,
+    "lng": 4.890877,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Orange France l'Ensoleillé",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "305 Rue Maurice Aicardi-Lejard 13090 AIX EN PROVENCE",
+    "lat": 43.515115,
+    "lng": 5.427238,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ORANGE",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "14 impasse des freres Pratesi, site aix bouffan 13090 AIX EN PROVENCE",
+    "lat": 43.526491,
+    "lng": 5.425538,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "COQUILLAT ENTREPRISE SAS",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "5 rue des cigales 13640 LA ROQUE-D'ANTHERON",
+    "lat": 43.719458,
+    "lng": 5.303016,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SNCF Sérvice informatique",
+    "categorie": "informatique",
+    "adresse_complete": "Marseille, SNCF 574, 37 Rue guibal 13003 Marseille 3e Arrondissement",
+    "lat": 43.308576,
+    "lng": 5.388855,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SPIE Industrie & Tertiaire – division Industrie",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "510 rue René Descarte 13594 AIX-EN-PROVENCE CEDEX3",
+    "lat": 43.493188,
+    "lng": 5.34569,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "FP SOLUTION FIBRE",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "148 allée du Mont Ventoux 13300 SALON-DE-PROVENCE",
+    "lat": 43.655519,
+    "lng": 5.098499,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "NT Fibre optique",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "994 D Avenue du générald e Gaulle 13109 SIMIANE-COLLONGUE",
+    "lat": 43.434263,
+    "lng": 5.429535,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "AVENIR ALARME",
+    "categorie": "securite / courant faible",
+    "adresse_complete": "35 chemin de Pierredon 13510 Éguilles",
+    "lat": 43.553316,
+    "lng": 5.364652,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SNEF Maintenance",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "ZA Jean Monnet Nord, 6 avenue de Bruxelles 83500 LA SEYNE-SUR-MER",
+    "lat": 43.113027,
+    "lng": 5.851436,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "HARIBO",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "67 BD DU CAPITAINE GEZE 13014 MARSEILLE",
+    "lat": 43.331575,
+    "lng": 5.375962,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "INEO PCA",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "165 rue Georges Claude, CS 20333 13799 AIX-EN-PROVENCE CEDEX3",
+    "lat": 43.490915,
+    "lng": 5.382438,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "BLEU ELECTRIQUE/ CCEI",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "21 RUE HENRI ET ANTOINE MAURRAS, ZAC SAUMATY-SEON 13016 MARSEILLE",
+    "lat": 43.354643,
+    "lng": 5.327499,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "BLEU ELECTRIQUE/ CCEI",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "21 RUE HENRI ET ANTOINE MAURRAS, ZAC SAUMATY-SEON 13016 MARSEILLE",
+    "lat": 43.354643,
+    "lng": 5.327499,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "INEO PROVENCE & COTE AZUR SNC",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "Centre travaux Fos sur mer, 75 route de guigonnet 13270 FOS-SUR-MER",
+    "lat": 43.449626,
+    "lng": 4.93472,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "DFT Informatique",
+    "categorie": "informatique",
+    "adresse_complete": "21 avenue de la Doulia 13112 LA DESTROUSSE",
+    "lat": 43.377481,
+    "lng": 5.595334,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "FAST TELECOM",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "41 CHEMIN DE LA COMMANDERIE, BAT A1 13015 MARSEILLE",
+    "lat": 43.340295,
+    "lng": 5.36254,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Hardware informatique",
+    "categorie": "informatique",
+    "adresse_complete": "57 avenue de nice 13120 GARDANNE",
+    "lat": 43.463984,
+    "lng": 5.484778,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "THALES DMS FRANCE",
+    "categorie": "electronique / robotique",
+    "adresse_complete": "525 avenue du pic de Bretagne, CS 12023 13420 GEMENOS",
+    "lat": 43.282036,
+    "lng": 5.614795,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SASU Valente Electricité générale",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "1 clos Aragon Chemin Estrec 13120 GARDANNE",
+    "lat": 43.451365,
+    "lng": 5.479646,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "INEO NUCLEAIRE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "6 RUE ALEXANDER FLEMING 69007 LYON",
+    "lat": 45.726567,
+    "lng": 4.823033,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "INEO NUCLEAIRE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "EQUANS, 5 impasse Georges Besse 13115 SAINT PAUL LEZ DURANCE",
+    "lat": 43.692539,
+    "lng": 5.733464,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Société Aubagnaise d'Électricité SAE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "2545 chemin de Bassan 13390 AURIOL",
+    "lat": 43.345584,
+    "lng": 5.629145,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "AUTOMATISME ELEC SARL",
+    "categorie": "ciel",
+    "adresse_complete": "505 AVENUE DE LA MAXIMINOISE 83400 SAINT MAXIMIN",
+    "lat": 43.455533,
+    "lng": 5.84423,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Hopital Croix Rousse - structure informatique",
+    "categorie": "informatique",
+    "adresse_complete": "103 grand rue de la croix rousse, Bat D - 3ème étage 69004 LYON",
+    "lat": 45.781808,
+    "lng": 4.832686,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "GC ALARME",
+    "categorie": "securite / courant faible",
+    "adresse_complete": "245 Chemin du chateau 13119 SAINT-SAVOURNIN",
+    "lat": 43.409929,
+    "lng": 5.530245,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ORANGE Marseille",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "93 rue Félix Pyat 13001 MARSEILLE",
+    "lat": 43.31605,
+    "lng": 5.374292,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "DSI FRANCE TRAVAIL",
+    "categorie": "informatique",
+    "adresse_complete": "180 rue René Descartes, Le Millenium A 13080 AIX-EN-PROVENCE",
+    "lat": 43.494906,
+    "lng": 5.344753,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "BNS REPARATION",
+    "categorie": "informatique",
+    "adresse_complete": "81 AVENUE CAMILLE PELLETAN 13003 Marseille 3e Arrondissement",
+    "lat": 43.306059,
+    "lng": 5.373225,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ENTREPRISE DE TRAVAUX D'ELECTRICITE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "154 ROUTE DE L’AMELAU 13580 LA FARE-LES-OLIVIERS",
+    "lat": 43.552176,
+    "lng": 5.21299,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "GIRAUD MATHIS ELECTRICITE GENERALE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "512 CHEMIN DU COLLET BLANC 13320 BOUC-BEL-AIR",
+    "lat": 43.450788,
+    "lng": 5.442244,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SMI INFORMATIQUE",
+    "categorie": "informatique",
+    "adresse_complete": "505 avenue de la maximinoise 83470 SAINT-MAXIMIN-LA-SAINTE-BAUME",
+    "lat": 43.455533,
+    "lng": 5.84423,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Anthony Reina Electricité",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "8 rue des Tanneries 83119 BRUE-AURIAC",
+    "lat": 43.527353,
+    "lng": 5.946534,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ELECTRICITE NAVALE INDUSTRIELLE E.N.I.",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "PORTE 4 FORME 9, PORT AUTONOME DE MARSEILLE 13016 MARSEILLE 16EME",
+    "lat": 43.361217,
+    "lng": 5.314736,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ENEDIS AIX",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "445 RUE ANDRE AMPERE 13080 AIX-EN-PROVENCE",
+    "lat": 43.481425,
+    "lng": 5.418875,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "C.S.T. ELECTRICITE COORDINATION ET SUIVI DES TRAVAUX EN ELECTRICITE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "415 AVENUE DES CHABAUDS 13320 BOUC-BEL-AIR",
+    "lat": 43.433956,
+    "lng": 5.396842,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "EIDI INFORMATIQUE",
+    "categorie": "informatique",
+    "adresse_complete": "1 AVENUE JEAN MONNET 13410 LAMBESC",
+    "lat": 43.648176,
+    "lng": 5.259376,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "HD Electricité",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "ZA La Gardonne, 13 Boulevard Ventadouiro 13300 SALON-DE-PROVENCE",
+    "lat": 43.62735,
+    "lng": 5.096571,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "DALKIA VITROLLES",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "Site ST Microelectronics, 190 AVENUE CELESTIN COQ 13790 ROUSSET",
+    "lat": 43.473881,
+    "lng": 5.599805,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Panzani",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "136, route de la Valentine 13011 MARSEILLE",
+    "lat": 43.28963,
+    "lng": 5.468398,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "KOIOS",
+    "categorie": "informatique",
+    "adresse_complete": "8 Rue du Puits Juif 13100 AIX-EN-PROVENCE CEDEX",
+    "lat": 43.53011,
+    "lng": 5.449188,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "AEG",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "702 route des vignerons 13112 LA DESTROUSSE",
+    "lat": 43.38376,
+    "lng": 5.602443,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ATEC ELECTRIQUE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "251 AV DE LA DOULIA 13112 LA DESTROUSSE",
+    "lat": 43.377481,
+    "lng": 5.595334,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "IZITEC",
+    "categorie": "informatique",
+    "adresse_complete": "190 rue Topaze 13510 Éguilles",
+    "lat": 43.547599,
+    "lng": 5.360473,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SASU TEAMOPTIQUE",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "18 Chemin de mimet 13015 Marseille 15e Arrondissement",
+    "lat": 43.371121,
+    "lng": 5.356655,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "ERT TECHNOLOGIES",
+    "categorie": "ciel",
+    "adresse_complete": "16 RUE D ATHENES 13127 VITROLLES",
+    "lat": 43.435032,
+    "lng": 5.239897,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SARL ACB",
+    "categorie": "ciel",
+    "adresse_complete": "20 RUE GEORGES CLAUDE 13290 LES MILLES",
+    "lat": 43.491165,
+    "lng": 5.380895,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "BOULANGER",
+    "categorie": "ciel",
+    "adresse_complete": "BOULANGER, 6bis Avenue des Belges 13100 AIX-EN-PROVENCE CEDEX",
+    "lat": 43.524884,
+    "lng": 5.444275,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MC TELECOM",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "78 rue de rome 13006 Marseille 6e Arrondissement",
+    "lat": 43.292256,
+    "lng": 5.380085,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ELECTRICIENS DE PROVENCE",
+    "categorie": "ciel",
+    "adresse_complete": "12 avenue jean moulin 13100 AIX EN PROVENCE",
+    "lat": 43.533349,
+    "lng": 5.45641,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "YESSS Electrique Rousset",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "705 Av. Georges Vacher 13790 ROUSSET",
+    "lat": 43.466685,
+    "lng": 5.612657,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "HYES",
+    "categorie": "ciel",
+    "adresse_complete": "1328 BOULEVARD DE LA LIBERATION 13730 SAINT-VICTORET",
+    "lat": 43.415912,
+    "lng": 5.268017,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "MEHB.COM (CASH GSM)",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "22 rue de republique 13001 MARSEILLE",
+    "lat": 43.29793,
+    "lng": 5.372985,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "INNOVCOM",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "67 Allée leon gambetta 13001 Marseille 1er Arrondissement",
+    "lat": 43.299179,
+    "lng": 5.384577,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "RICHARDSON",
+    "categorie": "ciel",
+    "adresse_complete": "2 place Gantès 13002 Marseille 2e Arrondissement",
+    "lat": 43.308972,
+    "lng": 5.368749,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Boulanger",
+    "categorie": "informatique",
+    "adresse_complete": "6 Bis, Avenue des Belges 13080 AIX-EN-PROVENCE",
+    "lat": 43.524884,
+    "lng": 5.444275,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "YouOnline",
+    "categorie": "informatique",
+    "adresse_complete": "29 bd Emile Loubet 13710 FUVEAU",
+    "lat": 43.45365,
+    "lng": 5.560811,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "MARKETING Création SAS",
+    "categorie": "informatique",
+    "adresse_complete": "29 allée de st jean, ZAC de la Barque, ARTEPARC de Fuveau, Bat C 13710 FUVEAU",
+    "lat": 43.445738,
+    "lng": 5.541584,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Mucem - Musée des civilisations de l'Europe et de",
+    "categorie": "informatique",
+    "adresse_complete": "1 Esp. J4, 13002 marseille",
+    "lat": 43.297033,
+    "lng": 5.360777,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "ORDI-SELF",
+    "categorie": "informatique",
+    "adresse_complete": "6 rue Gaston de Saporta 13100 AIX-EN-PROVENCE CEDEX",
+    "lat": 43.530402,
+    "lng": 5.447699,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "EHO Link",
+    "categorie": "ciel",
+    "adresse_complete": "67 montée de Saint Menet, Batiment le Woodstock 13011 MARSEILLE",
+    "lat": 43.292755,
+    "lng": 5.495064,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "BACTECH",
+    "categorie": "ciel",
+    "adresse_complete": "255 av Galilée 13290 Aix en Provence 13290 AIX EN PROVENCE",
+    "lat": 43.504703,
+    "lng": 5.387207,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "TELEVISIONS SERVICES",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "Place du 4 septembre 84120 PERTUIS (84)",
+    "lat": 43.694043,
+    "lng": 5.501108,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "BUBO INITIATIVE",
+    "categorie": "informatique",
+    "adresse_complete": "9 rue Reynaud 13120 GARDANNE",
+    "lat": 43.455411,
+    "lng": 5.475219,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "YouTribe SAS",
+    "categorie": "informatique",
+    "adresse_complete": "68 avenue du maréchal de Lattre de Tassigny 44500 LA BAULE-ESCOUBLAC",
+    "lat": 47.281779,
+    "lng": -2.412852,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "NS SOFT",
+    "categorie": "informatique",
+    "adresse_complete": "1480 Av d'Arménie, Bt 5A, Puy Morandat 13120 GARDANNE",
+    "lat": 43.450158,
+    "lng": 5.448532,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ACD",
+    "categorie": "informatique",
+    "adresse_complete": "595 rue Pierre Berthier 13080 AIX-EN-PROVENCE",
+    "lat": 43.477131,
+    "lng": 5.375158,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Linxo group",
+    "categorie": "informatique",
+    "adresse_complete": "10 rue du lieutenant Parayre, Bat E 13080 AIX-EN-PROVENCE",
+    "lat": 43.494276,
+    "lng": 5.368818,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "DOMOTIK ELEC",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "52, chemin de la Maïre 13420 GEMENOS",
+    "lat": 43.283206,
+    "lng": 5.615827,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SARL ALIERS",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "146 rue de l'Olivier 13005 MARSEILLE",
+    "lat": 43.29482,
+    "lng": 5.39392,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SYNELEC SAS",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "285 Avenue de Plan de Campagne 13170 LES PENNES MIRABEAU",
+    "lat": 43.41145,
+    "lng": 5.331167,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "CSELEC",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "15 clos de la diote 13850 Gréasque",
+    "lat": 43.42786,
+    "lng": 5.538883,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "LED Energy",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "7 rue de l'étoile 13140 MIRAMAS",
+    "lat": 43.586659,
+    "lng": 4.996039,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Naouy Andy",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "7 Chemin de la pleine 13120 GARDANNE",
+    "lat": 43.2654,
+    "lng": 5.27296,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "PAT Elec",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "7 ZAC de la burlière 13530 TRETS",
+    "lat": 43.453096,
+    "lng": 5.677271,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Cabinet Louis Reynaud",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "2 Rue fougasse 13600 LA CIOTAT",
+    "lat": 43.174525,
+    "lng": 5.606489,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Micro VEMA",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "24 Avenue Jean JAURES 13530 TRETS",
+    "lat": 43.44792,
+    "lng": 5.686811,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SASU TEAMOOPTIQUE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "18 chemin de mimet 13015 Marseille 15e Arrondissement",
+    "lat": 43.371121,
+    "lng": 5.356655,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SNEF",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "87 AVENUE AYGALADES 13005 MARSEILLE",
+    "lat": 43.287924,
+    "lng": 5.393026,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ELECTRICITE AIXOISE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "109 ZI LES PRADEAUX 13850 Gréasque",
+    "lat": 43.435582,
+    "lng": 5.540512,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "BEITECH SARL",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "645 Rue Mayor de Montricher 13290 AIX-EN-PROVENCE CEDEX",
+    "lat": 43.480054,
+    "lng": 5.381959,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ALIERS",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "146 RU DE L'OLIVER 13005 Marseille 5e Arrondissement",
+    "lat": 43.29482,
+    "lng": 5.39392,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "GASTALDI ELEC ET FROID",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "3 lot hameau de Biver 13120 GARDANNE",
+    "lat": 43.440237,
+    "lng": 5.455945,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "JB ELECTRICITÉ",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "15 Place Pol Lapeyrg 13005 Marseille 5e Arrondissement",
+    "lat": 43.292968,
+    "lng": 5.409653,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "JCT ENTREPRISE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "15 rue E. Vitria. ZI LA PALUN 13120 GARDANNE",
+    "lat": 43.463156,
+    "lng": 5.480702,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SAS SYNELEC",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "285 AVENUE DU PLAN DE CAMPAGNE 13170 LES PENNES MIRABEAU",
+    "lat": 43.41145,
+    "lng": 5.331167,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SARL J.D LEC",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "122 ZA LES PRADEAUX 13858 Gréasque",
+    "lat": 43.435582,
+    "lng": 5.540512,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "IDME",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "10 TRAVERSE DE LA BASTIDONNE 13400 AUBAGNE",
+    "lat": 43.287293,
+    "lng": 5.523623,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "BORI ELEC",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "15 AVENUE DE LA LIBERATION 13124 PEYPIN",
+    "lat": 43.380919,
+    "lng": 5.581172,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ac renov",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "43 COURS FORTIN 13120 GARDANNE",
+    "lat": 43.453966,
+    "lng": 5.469817,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "S.G. ELECTRICITE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "28, Résidence Victor Savine 13120 GARDANNE",
+    "lat": 43.440541,
+    "lng": 5.462738,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SAS MONTE ELEC",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "161 chemin du Garoutier, la providence 13600 LA CIOTAT",
+    "lat": 43.203989,
+    "lng": 5.622802,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SARL PAT ELEC",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "7 ZAC de la Burlière 13530 TRETS",
+    "lat": 43.453096,
+    "lng": 5.677271,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SAS EGHV",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "1651 chemin des rougiers 83670 FOX-AMPHOUX",
+    "lat": 43.601214,
+    "lng": 6.076418,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SASU FARI-ELEC",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "143 rue Felix Pyat 13003 Marseille 3e Arrondissement",
+    "lat": 43.31771,
+    "lng": 5.37447,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "R-ELEC",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "17 Lot Le Parterre 13880 VELAUX",
+    "lat": 43.523814,
+    "lng": 5.256613,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ION BEAM SERVICES SA",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "26 impasse des Evariste GALLOIS 13790 ROUSSET",
+    "lat": 43.465995,
+    "lng": 5.609957,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "UPERIO",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "RN 8150 avenue de Fontgrège 13420 GEMENOS",
+    "lat": 43.277369,
+    "lng": 5.615953,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SG Electricité",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "28 Résidence victor savine 13120 GARDANNE",
+    "lat": 43.440541,
+    "lng": 5.462738,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SARL MATELEC SUD-EST",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "1095 chemin du Pont Rout 13090 AIX EN PROVENCE",
+    "lat": 43.545084,
+    "lng": 5.415988,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "MIKAPLOMB-ELEC",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "326 Impasse du Clos Resty 83470 SAINT-MAXIMIN-LA-SAINTE-BAUME",
+    "lat": 43.455962,
+    "lng": 5.891382,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SAM'ELEC",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "16 Avenue de la Moutte 13220 Châteauneuf-les-Martigues",
+    "lat": 43.390946,
+    "lng": 5.146592,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "KALISTECO",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "497 av des chasséens, ZI Avon 13120 GARDANNE",
+    "lat": 43.44856,
+    "lng": 5.454029,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SNEF POWER SERVICES",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "ZONE INDUSTRIELLE DU ROURABEAU, 5 IRENE & FREDERIC JOLIOT CURIE 13115 SAINT PAUL LEZ DURANCE",
+    "lat": 43.689995,
+    "lng": 5.723089,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ELECTRICITE INDUSTRIELLE JP FAUCHE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "5 Allée de la Rouguière, ZAE les feuillantines 13011 MARSEILLE",
+    "lat": 43.297181,
+    "lng": 5.456884,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SME",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "ZAC de l'Anjoly, 5 bis voie d'Angleterre 13127 VITROLLES",
+    "lat": 43.425216,
+    "lng": 5.260221,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "AZ amenagement",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "18 allée du gymnase bat F03 13120 GARDANNE",
+    "lat": 43.4577,
+    "lng": 5.45825,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "AVENIR ELEC",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "5 rue du Lavoir 13360 ROQUEVAIRE",
+    "lat": 43.346806,
+    "lng": 5.583852,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SAS POURRIERE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "869 Ave des 5 ponts, ZA rote d'Aix 83470 SAINT-MAXIMIN-LA-SAINTE-BAUME",
+    "lat": 43.456947,
+    "lng": 5.839471,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "OCHI TAREK Electricté",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "2 rue calmette et guerin 13080 AIX-EN-PROVENCE CEDEX",
+    "lat": 43.52735,
+    "lng": 5.433884,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "EPMG",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "Les coteaux de Veline Bat 6 n58 13120 GARDANNE",
+    "lat": 43.452249,
+    "lng": 5.476356,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "MLN",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "Quartier la Guerine, CD 60A 13480 Cabriès",
+    "lat": 43.435378,
+    "lng": 5.3445,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "electricité",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "95 chemin des jardins 84210 PERNES-LES-FONTAINES",
+    "lat": 43.999445,
+    "lng": 5.054988,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SIEB",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "275 Avenue des Rigaou, ZAC le clos du Rocher 13830 Roquefort-la-Bédoule",
+    "lat": 43.252249,
+    "lng": 5.580178,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "FAUCHé OUEST PROVENCE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "5 allée de la Rouguiere, ZAC des feuillantines 13011 Marseille 11e Arrondissement",
+    "lat": 43.297181,
+    "lng": 5.456884,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Xavpowertech",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "67 route departementale 96 13710 FUVEAU",
+    "lat": 43.463998,
+    "lng": 5.545022,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "ASSISTELEC",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "42 BOULEVARD DE LA PADOUANE Z. A. ARTIZANORD LOT NO 212 13015 marseille",
+    "lat": 43.353322,
+    "lng": 5.368921,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "KOOK",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "1330 rue jean rené guillibert gauthier de la lauzière 13290 AIX EN PROVENCE",
+    "lat": 43.478817,
+    "lng": 5.371065,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SMEBI",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "36 rue Benedit, bat A 13004 Marseille 4e Arrondissement",
+    "lat": 43.307695,
+    "lng": 5.39234,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "E.P.S",
+    "categorie": "electronique / robotique",
+    "adresse_complete": "1959 Chemin de la muscatelle 13790 Châteauneuf-le-Rouge",
+    "lat": 43.482861,
+    "lng": 5.547838,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "NEOS TECHNOLOGIE",
+    "categorie": "electronique / robotique",
+    "adresse_complete": "41 avenue des chasséens, zone avon 13120 GARDANNE",
+    "lat": 43.446365,
+    "lng": 5.452576,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SI2E",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "ZI La Palun, 5 rue Emmanuel VITRIA 13120 GARDANNE",
+    "lat": 43.465664,
+    "lng": 5.480978,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ENERGETIQUE SANITAIRE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "36A bd Guigou 13003 Marseille 3e Arrondissement",
+    "lat": 43.314634,
+    "lng": 5.391499,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ECLIP",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "D46A, 570 Mazargues 13120 GARDANNE",
+    "lat": 43.465008,
+    "lng": 5.469717,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SERCA INFORMATIQUE",
+    "categorie": "informatique",
+    "adresse_complete": "380 Av Jean Perrin Pôle d'activités Les Milles 13290 LES MILLES",
+    "lat": 43.487561,
+    "lng": 5.371805,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "MODUL STRUCTURE",
+    "categorie": "informatique",
+    "adresse_complete": "1480 avenue d'Arménie, Pôle Morandat 13120 GARDANNE",
+    "lat": 43.450158,
+    "lng": 5.448532,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "FT MARINE dep SIMEC",
+    "categorie": "electronique / robotique",
+    "adresse_complete": "57 avenue de l'etoile 13710 FUVEAU",
+    "lat": 43.445747,
+    "lng": 5.557171,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "EASYTECH",
+    "categorie": "electronique / robotique",
+    "adresse_complete": "645 rue Mayor de Montricher, Tech Indus Bat C 13290 AIX-EN-PROVENCE CEDEX",
+    "lat": 43.480054,
+    "lng": 5.381959,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ROUIS Wessen",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "142 chemin de la bonde 13120 GARDANNE",
+    "lat": 43.448859,
+    "lng": 5.470307,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "WESSEM ROUIS",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "142 chemin de la bonde 13120 GARDANNE",
+    "lat": 43.448859,
+    "lng": 5.470307,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "TSI Telecom",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "467 chemin du littoral 13016 MARSEILLE",
+    "lat": 43.355031,
+    "lng": 5.329777,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "S.S.B Telecom",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "275 rue Lagremeuse 13100 AIX EN PROVENCE",
+    "lat": 43.483556,
+    "lng": 5.345335,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "A.P.F.E",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "115 passage de la Noria 13120 GARDANNE",
+    "lat": 43.445693,
+    "lng": 5.483777,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "auto entrepreneur Porteneuve Anthony",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "115 passage de la Nora 13120 GARDANNE",
+    "lat": 43.445693,
+    "lng": 5.483777,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "T.S.I TELECOM",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "4667 CHEMIN DU LITTORAL 13016 MARSEILLE",
+    "lat": 43.355031,
+    "lng": 5.329777,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Entreprise Individuelle Chiali Souhil",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "Résidence les lumières, 275 Chemin de la bonde 13120 GARDANNE",
+    "lat": 43.449256,
+    "lng": 5.470064,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "MCV",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "520B AV du Col de l'Ange 13420 GEMENOS",
+    "lat": 43.278812,
+    "lng": 5.6246,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Technique Service Bureautique",
+    "categorie": "informatique",
+    "adresse_complete": "189 rue du bouleau 13109 SIMIANE-COLLONGUE",
+    "lat": 43.435013,
+    "lng": 5.423149,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "R&F INVEST",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "40 avenue Lascours 13400 AUBAGNE",
+    "lat": 43.316826,
+    "lng": 5.582721,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "ATOUT SERVICES",
+    "categorie": "informatique",
+    "adresse_complete": "ATOUT SERVICES, 413 AVENUE LEO LAGRANGE 13120 GARDANNE",
+    "lat": 43.45662,
+    "lng": 5.475085,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SEBATECH",
+    "categorie": "informatique",
+    "adresse_complete": "177 Route des Vignerons 13112 LA DESTROUSSE",
+    "lat": 43.37919,
+    "lng": 5.60455,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "REAL.NOT",
+    "categorie": "informatique",
+    "adresse_complete": "95 avenue des Logissons 13017 VENELLES",
+    "lat": 43.58276,
+    "lng": 5.472271,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SELFI SAS",
+    "categorie": "informatique",
+    "adresse_complete": "17 BD celestin BARTHELEMY 13710 FUVEAU",
+    "lat": 43.453617,
+    "lng": 5.559833,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "TIMACA SARL",
+    "categorie": "informatique",
+    "adresse_complete": "532 AVENUE DES CHASSEENS 13120 GARDANNE",
+    "lat": 43.449862,
+    "lng": 5.454888,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Le BUREAU CIOTADEN",
+    "categorie": "informatique",
+    "adresse_complete": "28 boulevard de la République 13600 LA CIOTAT",
+    "lat": 43.177675,
+    "lng": 5.607369,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "L'atelier du mobile",
+    "categorie": "informatique",
+    "adresse_complete": "1 Chemin des Fabres 13105 MIMET",
+    "lat": 43.429442,
+    "lng": 5.471925,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SIGV",
+    "categorie": "informatique",
+    "adresse_complete": "4 rue du bouleau 13109 SIMIANE-COLLONGUE",
+    "lat": 43.436089,
+    "lng": 5.421779,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "AZUR-SI/ XEFJ AUBAGNE",
+    "categorie": "informatique",
+    "adresse_complete": "120 avenue Marin Blanc 13400 AUBAGNE",
+    "lat": 43.285172,
+    "lng": 5.595144,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "DOCTEUR ORDINATEUR",
+    "categorie": "informatique",
+    "adresse_complete": "avenue du 8 mai, rd point del'hélicoptère 13700 MARIGNANE",
+    "lat": 43.411534,
+    "lng": 5.218222,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SERCA informatique",
+    "categorie": "informatique",
+    "adresse_complete": "380 avenue jea Perrin 13290 AIX EN PROVENCE",
+    "lat": 43.487561,
+    "lng": 5.371805,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SEMI INFORMATIQUE",
+    "categorie": "informatique",
+    "adresse_complete": "610 RUE GEORGES CLAUDE 13290 AIX-EN-PROVENCE CEDEX",
+    "lat": 43.488053,
+    "lng": 5.384805,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "boulanger",
+    "categorie": "informatique",
+    "adresse_complete": "6 bis avenue des belges 13100 AIX EN PROVENCE",
+    "lat": 43.524884,
+    "lng": 5.444275,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Eleo informatique",
+    "categorie": "informatique",
+    "adresse_complete": "49 Avenue Henrie 13100 AIX-EN-PROVENCE CEDEX",
+    "lat": 43.512605,
+    "lng": 5.472384,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "KAELI CONCEPT",
+    "categorie": "informatique",
+    "adresse_complete": "63 rue des Métiers, ZAC de la Haute Bédoule 13240 Septèmes-les-Vallons",
+    "lat": 43.404757,
+    "lng": 5.355656,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SAS DFI INFORMATIQUE",
+    "categorie": "informatique",
+    "adresse_complete": "21 AVENUE DE LA DOULIA 13112 LA DESTROUSSE",
+    "lat": 43.377481,
+    "lng": 5.595334,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "AXYN ROBOTIQUE",
+    "categorie": "informatique",
+    "adresse_complete": "1480 Avenue d'Arménie 13120 GARDANNE",
+    "lat": 43.450158,
+    "lng": 5.448532,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "COMMUNAUTÉ D'AGGLOMÉRATION DE NÏMES MÉTROPOLE",
+    "categorie": "informatique",
+    "adresse_complete": "3 rue du Colisée 30900 Nîmes",
+    "lat": 43.820777,
+    "lng": 4.357703,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "KATEL TECHNOLOGIE",
+    "categorie": "informatique",
+    "adresse_complete": "7 allée des Hêtres 13500 MARTIGUES",
+    "lat": 43.409409,
+    "lng": 5.015988,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SYNKSO",
+    "categorie": "informatique",
+    "adresse_complete": "54 Rue Sainte-Victoire 13006 MARSEILLE",
+    "lat": 43.285808,
+    "lng": 5.380295,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SARL TechNew",
+    "categorie": "informatique",
+    "adresse_complete": "7 avenue des fuchias 13120 GARDANNE",
+    "lat": 43.433511,
+    "lng": 5.466973,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "POLE EMPLOI DSI",
+    "categorie": "informatique",
+    "adresse_complete": "180 RUE RENE DESCARTES, BP 447 13592 AIX-EN-PROVENCE CEDEX3",
+    "lat": 43.494906,
+    "lng": 5.344753,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "MICROCONCEPT Aubagne",
+    "categorie": "informatique",
+    "adresse_complete": "ZI Les Paluds 259 av des Caniers 13400 AUBAGNE",
+    "lat": 43.289335,
+    "lng": 5.593535,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Ville de Marseille DSI",
+    "categorie": "informatique",
+    "adresse_complete": "42 avenue Roger Salengro 13003 MARSEILLE",
+    "lat": 43.310773,
+    "lng": 5.373097,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ABC Industrie",
+    "categorie": "informatique",
+    "adresse_complete": "165 route du Plan 13860 PEYROLLES-EN-PROVENCE",
+    "lat": 43.645063,
+    "lng": 5.580123,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "OMNIUM CONCEPT",
+    "categorie": "informatique",
+    "adresse_complete": "1140 RUE ANDRE AMPERE 13100 AIX EN PROVENCE",
+    "lat": 43.485284,
+    "lng": 5.380794,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "MASCO",
+    "categorie": "informatique",
+    "adresse_complete": "16 AVENUE DES BELGES 13100 AIX EN PROVENCE",
+    "lat": 43.523374,
+    "lng": 5.442709,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SNEF 13015",
+    "categorie": "informatique",
+    "adresse_complete": "5 AVENUE PAUL HEROULT 13015 MARSEILLE",
+    "lat": 43.340366,
+    "lng": 5.366715,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "IKRAM",
+    "categorie": "informatique",
+    "adresse_complete": "8 RUE FRANCIS DE PRESSENSE 13001 MARSEILLE",
+    "lat": 43.300663,
+    "lng": 5.37605,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "MAIVA - Boucherie LE PALAIS PROVENCAL",
+    "categorie": "informatique",
+    "adresse_complete": "27 RUE DU VALLAT 13790 Châteauneuf-le-Rouge",
+    "lat": 43.48905,
+    "lng": 5.567387,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "NERESYS",
+    "categorie": "informatique",
+    "adresse_complete": "Quartier le payannet, 1100 chemin de Chabanu 13120 GARDANNE",
+    "lat": 43.476402,
+    "lng": 5.476238,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "ACSIT",
+    "categorie": "informatique",
+    "adresse_complete": "78 Impasse de la Chênaie 13114 PUYLOUBIER",
+    "lat": 43.524783,
+    "lng": 5.664288,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "VALENTIN SERVICES",
+    "categorie": "informatique",
+    "adresse_complete": "Avenue sainte teresa di riva, la Cigoulette bat 7 13710 FUVEAU",
+    "lat": 43.447031,
+    "lng": 5.555439,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MICROVEHA",
+    "categorie": "informatique",
+    "adresse_complete": "24 avenue jean jaures 13530 TRETS",
+    "lat": 43.44792,
+    "lng": 5.686811,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "512IT",
+    "categorie": "informatique",
+    "adresse_complete": "115 Rue Louis Armand 13290 AIX-EN-PROVENCE",
+    "lat": 43.487592,
+    "lng": 5.380393,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "E.B.S : Equip Bureau Service",
+    "categorie": "informatique",
+    "adresse_complete": "3 allée des maraichers, Technopole de Chateau Gombert 13013 MARSEILLE",
+    "lat": 43.34267,
+    "lng": 5.423008,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "DM+",
+    "categorie": "informatique",
+    "adresse_complete": "2 Boulevard d'athenes 13001 Marseille 1er Arrondissement",
+    "lat": 43.299423,
+    "lng": 5.381006,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CAPITAL DATA",
+    "categorie": "informatique",
+    "adresse_complete": "8 Rue Catherine de la Rochefoucauld 75009 Paris 9e Arrondissement",
+    "lat": 48.877492,
+    "lng": 2.334355,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "TECHNEW",
+    "categorie": "informatique",
+    "adresse_complete": "7 avenue des Fuschias, BIVER 13120 GARDANNE",
+    "lat": 43.434745,
+    "lng": 5.462154,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CYBERMANIA BUREAUTIQUE - SYNKSO",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "54 Rue sainte victoire 13006 MARSEILLE",
+    "lat": 43.285808,
+    "lng": 5.380295,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SARL LABBE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "6695 ALLEE DU COUCHANT, ZAC GRAND ANGLES 30133 LES ANGLES",
+    "lat": 43.963086,
+    "lng": 4.741705,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "RV ELEC",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "34 RUE PAROISSE 13390 AURIOL",
+    "lat": 43.370195,
+    "lng": 5.633679,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Technicien fibre",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "7 chemin de la plaine 13120 GARDANNE",
+    "lat": 43.450382,
+    "lng": 5.457047,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SONEPAR FRANCE DISTRIBUTION",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "90 rue Frédéric JOLIOT 13290 AIX EN PROVENCE",
+    "lat": 43.488866,
+    "lng": 5.37837,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "GR computer",
+    "categorie": "informatique",
+    "adresse_complete": "8 rue de l'étoile 13124 PEYPIN",
+    "lat": 43.386603,
+    "lng": 5.579283,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "CGE Distribution",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "90 rue Frédéric Joliot, ZI les milles 13290 AIX EN PROVENCE",
+    "lat": 43.488866,
+    "lng": 5.37837,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "CGE DISTRIBUTION",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "90 rue Frédéric Joliot, ZI les milles 13290 AIX EN PROVENCE",
+    "lat": 43.488866,
+    "lng": 5.37837,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "METAPROD",
+    "categorie": "audiovisuel / multimedia",
+    "adresse_complete": "117 rue Saint Jacques 13006 Marseille 6e Arrondissement",
+    "lat": 43.287311,
+    "lng": 5.374328,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "LORD OF WEB",
+    "categorie": "informatique",
+    "adresse_complete": "16 rue de Rome, My Expobat Village 13480 CABRIES",
+    "lat": 43.421265,
+    "lng": 5.359591,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "OGURY",
+    "categorie": "informatique",
+    "adresse_complete": "126 ace Ste Victoire 13120 GARDANNE",
+    "lat": 43.460175,
+    "lng": 5.473941,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "MG RENOV HABITAT",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "157 rue des vignes 13780 CUGES-LES-PINS",
+    "lat": 43.273132,
+    "lng": 5.692639,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SNCF Réseau",
+    "categorie": "ciel",
+    "adresse_complete": "41, La Canebière 13001 MARSEILLE",
+    "lat": 43.296409,
+    "lng": 5.377321,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ETE RESEAUX",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "240 avenue Olivier Perroy 13790 ROUSSET",
+    "lat": 43.468606,
+    "lng": 5.61029,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "societé reseaux telecom",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "142 chemin de la bonde 13120 GARDANNE",
+    "lat": 43.448859,
+    "lng": 5.470307,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Asap Network",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "157 avenue Gaston Imbert 13790 ROUSSET",
+    "lat": 43.467829,
+    "lng": 5.615495,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Centre Hospitalier de la Timone",
+    "categorie": "informatique",
+    "adresse_complete": "265 rue saint pierre 13005 Marseille 5e Arrondissement",
+    "lat": 43.292161,
+    "lng": 5.402256,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "PMS PROVENCE",
+    "categorie": "securite / courant faible",
+    "adresse_complete": "AVENUE DU 19 MARS 1962 13210 SAINT-REMY-DE-PROVENCE",
+    "lat": 43.793054,
+    "lng": 4.831511,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "DDSIS 13",
+    "categorie": "informatique",
+    "adresse_complete": "1, AVENUE BOISBAUDRAN, ZI DE LA DELORME, CEDEX 15 13326 MARSEILLE",
+    "lat": 43.20229,
+    "lng": 5.2216,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SDIS13 MARSEILLE 15ème",
+    "categorie": "informatique",
+    "adresse_complete": "1 AVENUE BOISBAUDRAN 13015 Marseille 15e Arrondissement",
+    "lat": 43.341447,
+    "lng": 5.36825,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "B2C TRAVEL EVENTS",
+    "categorie": "informatique",
+    "adresse_complete": "240 ROUTE BLANCHE 13120 GARDANNE",
+    "lat": 43.449308,
+    "lng": 5.47279,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Mairie de Trets",
+    "categorie": "informatique",
+    "adresse_complete": "Place du 14 juillet 13350 TRETS",
+    "lat": 43.447419,
+    "lng": 5.684026,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "METROPOLE AIX MARSEILLE",
+    "categorie": "informatique",
+    "adresse_complete": "2 QUAI D'ARENC BP 48014, CEDEX 02 13001 MARSEILLE",
+    "lat": 43.31223,
+    "lng": 5.36722,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "NEUTRINO",
+    "categorie": "informatique",
+    "adresse_complete": "314 CHEMIN DU TERRIL, ZI AVON 13120 GARDANNE",
+    "lat": 43.461294,
+    "lng": 5.501886,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SERVICE INFORMATIQUE LA TIMONE",
+    "categorie": "informatique",
+    "adresse_complete": "Centre hospitalier de la Timone, 265 rue saint pierre 13005 MARSEILLE",
+    "lat": 43.292161,
+    "lng": 5.402256,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "CGI",
+    "categorie": "informatique",
+    "adresse_complete": "Immeuble le quartz, 125 Avenue de Galilée 13100 AIX EN PROVENCE",
+    "lat": 43.490044,
+    "lng": 5.341167,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SGAMI SUD-DSIC",
+    "categorie": "informatique",
+    "adresse_complete": "299 chemin de sainte Marthe 13014 Marseille 14e Arrondissement",
+    "lat": 43.334936,
+    "lng": 5.391425,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SARL Agence Française de Sécurité",
+    "categorie": "securite / courant faible",
+    "adresse_complete": "17 rue Jaumé 13220 Châteauneuf-les-Martigues",
+    "lat": 43.389546,
+    "lng": 5.167607,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SNEF vitrolles",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "ZI l'Anjoly - 69 bd de l'Europe 13127 VITROLLES",
+    "lat": 43.423261,
+    "lng": 5.255807,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Groupe SNEF systèmes urbain",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "69 Boulevard de l'Europe 13127 VITROLLES",
+    "lat": 43.423261,
+    "lng": 5.255807,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SNEF",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "69 bd de l'Europe 13127 VITROLLES",
+    "lat": 43.423261,
+    "lng": 5.255807,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SIXTEL SARL",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "19 RUE DES DAPHNEE 13120 BIVER",
+    "lat": 43.434346,
+    "lng": 5.463863,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "TSI Telecom",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "21 rue Cougit 13015 Marseille 15e Arrondissement",
+    "lat": 43.321866,
+    "lng": 5.368885,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "PHONE SERVICE",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "6 T ARCADES DES ABBAYES 13127 VITROLLES",
+    "lat": 43.427254,
+    "lng": 5.292703,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "CIRCET",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "1652 avenue Paul Jullien 13100 LE THOLONET",
+    "lat": 43.509437,
+    "lng": 5.493136,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SIXTEL",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "103 zonz industrielle AVON 13120 GARDANNE",
+    "lat": 43.446904,
+    "lng": 5.453769,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SARL Net Process",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "8 rue du Barquet 13004 Marseille 4e Arrondissement",
+    "lat": 43.300032,
+    "lng": 5.399535,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SIXTEL",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "19 rue des daphnees 13120 GARDANNE",
+    "lat": 43.43676,
+    "lng": 5.464841,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SIXTEL",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "19 RUE DES DAPHNES 13120 GARDANNE",
+    "lat": 43.43676,
+    "lng": 5.464841,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Predictiv Pro SAS",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "3 rue Paul Brutus 13015 MARSEILLE",
+    "lat": 43.324017,
+    "lng": 5.363258,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "FREE RESEAU",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "16 RUE DE LA VILLE L'EVEQUE 75008 PARIS",
+    "lat": 48.871596,
+    "lng": 2.320383,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SS SERVICE L'ATELIER DU MOBILE",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "1 chemin des Fabres 13105 MIMET",
+    "lat": 43.429442,
+    "lng": 5.471925,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "Sarl GO GSM",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "14 rue rouvière 13001 MARSEILLE",
+    "lat": 43.294911,
+    "lng": 5.379986,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "GSM Business",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "2 Rue armeny 13006 Marseille 6e Arrondissement",
+    "lat": 43.291145,
+    "lng": 5.38036,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "TNT IP SOLUTIONS",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "155 Rue de Lenche, ZI LES PALUDS 13400 AUBAGNE",
+    "lat": 43.290427,
+    "lng": 5.599576,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "ASCO6TEM",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "267 Chem. le Courredou, 267 IMPASSE DES FOUNSES 83570 CARCES",
+    "lat": 43.47251,
+    "lng": 6.177325,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "SYNERGITECH",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "ZI AVON Lot 8B, Chemin de l'oratoire de Bouc 13120 GARDANNE",
+    "lat": 43.446277,
+    "lng": 5.453789,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "GRAND PORT MARITIME DE MARSEILLE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "SR3E, 2 bd des bassins de radoub, bat St Casien 13002 marseille",
+    "lat": 43.323261,
+    "lng": 5.360246,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "DOC.PHONE",
+    "categorie": "ciel",
+    "adresse_complete": "47 cours Forbin 13120 GARDANNE",
+    "lat": 43.453938,
+    "lng": 5.469741,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "VARTEC",
+    "categorie": "autre",
+    "adresse_complete": "533 Av. des chasséens 13120 GARDANNE",
+    "lat": 43.449862,
+    "lng": 5.454888,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "GROUPE & SOLUTIONS",
+    "categorie": "informatique",
+    "adresse_complete": "117 Rue d'Italie 13006 MARSEILLE 6E ARRONDISSEMENT",
+    "lat": 43.292256,
+    "lng": 5.380085,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "SOCERAM",
+    "categorie": "autre",
+    "adresse_complete": "27 Avenue des Goums 13400 AUBAGNE",
+    "lat": 43.316826,
+    "lng": 5.582721,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "NEOWAVE",
+    "categorie": "electronique / robotique",
+    "adresse_complete": "POLE D'ACTIVITES Y. MORANDAT 1480 AVENUE D’ARMENIE 13120 GARDANNE",
+    "lat": 43.450158,
+    "lng": 5.448532,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "IMAGE 2 MARQUE",
+    "categorie": "autre",
+    "adresse_complete": "37 Rue saint sebastien 13006 MARSEILLE 6E ARRONDISSEMENT",
+    "lat": 43.287311,
+    "lng": 5.374328,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "CRoF club robotique Fourcade",
+    "categorie": "electronique / robotique",
+    "adresse_complete": "avenue du groupe Manouchian 13120 GARDANNE",
+    "lat": 43.455,
+    "lng": 5.479944,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "RECRUT-INFO",
+    "categorie": "informatique",
+    "adresse_complete": "26 RUE KRUGER 13120 GARDANNE",
+    "lat": 43.455411,
+    "lng": 5.475219,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "VIVRE MOBILE DUAL COM",
+    "categorie": "autre",
+    "adresse_complete": "162 AVENUE DE st ANTOINE 13015 MARSEILLE 15E ARRONDISSEMENT",
+    "lat": 43.322075,
+    "lng": 5.367608,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "CONCEPT ECO CVC RES ARLEQUIN BAT. A2",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "9 rue hoche 13120 GARDANNE",
+    "lat": 43.455411,
+    "lng": 5.475219,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "La PASSERELLE",
+    "categorie": "autre",
+    "adresse_complete": "7 avenue des Anémones 13120 GARDANNE",
+    "lat": 43.463984,
+    "lng": 5.484778,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "NES 13",
+    "categorie": "autre",
+    "adresse_complete": "57 avenue de Nice CCIAL LA PALUN 13120 GARDANNE",
+    "lat": 43.463984,
+    "lng": 5.484778,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "ESPACE ENVIRONNEMENT",
+    "categorie": "autre",
+    "adresse_complete": "721 ROUTE BLANCHE 13120 GARDANNE",
+    "lat": 43.449308,
+    "lng": 5.47279,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "SASU TEAMOPTIQUE SASU TEAOPTIQUE",
+    "categorie": "autre",
+    "adresse_complete": "18 Chemin de mimet 13015 MARSEILLE 15E ARRONDISSEMENT",
+    "lat": 43.371121,
+    "lng": 5.356655,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "MAIRIE DE FUVEAU",
+    "categorie": "informatique",
+    "adresse_complete": "24 BOULEVARD LOUBET 13710 FUVEAU",
+    "lat": 43.45365,
+    "lng": 5.560811,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "EPS/SPE",
+    "categorie": "electronique / robotique",
+    "adresse_complete": "chemin de la muscatelle Bat G 13790 CHÂTEAUNEUF-LE-ROUGE",
+    "lat": 43.482861,
+    "lng": 5.547838,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "SNCF Sérvice informatique Marseille SNCF 574",
+    "categorie": "informatique",
+    "adresse_complete": "37 Rue guibal 13003 MARSEILLE 3E ARRONDISSEMENT",
+    "lat": 43.308576,
+    "lng": 5.388855,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "PHOENIX LOGISTIC CENTRE D'AFFAIRE AMONBURO",
+    "categorie": "autre",
+    "adresse_complete": "98 BOULEVARD DE L'EUROPE 13127 VITROLLES",
+    "lat": 43.423261,
+    "lng": 5.255807,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "FAST MOBILE",
+    "categorie": "informatique",
+    "adresse_complete": "1 RUE DE ROME 13001 MARSEILLE",
+    "lat": 43.294911,
+    "lng": 5.379986,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "APHM La Timone",
+    "categorie": "informatique",
+    "adresse_complete": "24 rue Saint-Pierre 13005 MARSEILLE 5E ARRONDISSEMENT",
+    "lat": 43.292161,
+    "lng": 5.402256,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "ASSISTELEC ASSISTELEC",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "42 BOULEVARD DE LA PADOUANE Z.A. ARTIZANORD LOT NO 212 13015 MARSEILLE",
+    "lat": 43.353322,
+    "lng": 5.368921,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "STCE PROVENCE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "Les carrés du Cengle, Chem. de la Muscatelle Bât E 13790 CHÂTEAUNEUF-LE-ROUGE",
+    "lat": 43.482861,
+    "lng": 5.547838,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "SprayingSystems Autojet France SprayingSystems Autojet France",
+    "categorie": "autre",
+    "adresse_complete": "45 av des chausséens 13120 GARDANNE",
+    "lat": 43.449862,
+    "lng": 5.454888,
+    "lieu_stage_2025_2026": true,
+    "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "GERAL",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "rue edouard branly ZI La Pélissière 01300 BELLEY",
+    "lat": 43.353553,
+    "lng": 3.220149,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CLIM EXPERT SUD",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "931 ROUTE DE ROUMOULES 04500 RIEZ",
+    "lat": 43.819729,
+    "lng": 6.106508,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Solvo",
+    "categorie": "autre",
+    "adresse_complete": "3 rue saint-antoine 06160 ANTIBES",
+    "lat": 43.552728,
+    "lng": 7.128914,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "AZUR TECH&ELEC SERVICES",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "306 RUE SAINT PIERRE 13005 MARSEILLE",
+    "lat": 43.29153,
+    "lng": 5.406043,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SOCIETE MARSEILLAISE DU TUNNEL PRADO-CARENAGE",
+    "categorie": "informatique",
+    "adresse_complete": "3 AV ARTHUR SCOTT 13010 MARSEILLE 10EME",
+    "lat": 43.281857,
+    "lng": 5.394121,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Domoture",
+    "categorie": "autre",
+    "adresse_complete": "Place petit blanc 13011 MARSEILLE",
+    "lat": 43.283107,
+    "lng": 5.454032,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SOLIVE",
+    "categorie": "autre",
+    "adresse_complete": "4 BOULEVARD GUEIDON 13013 MARSEILLE",
+    "lat": 43.323834,
+    "lng": 5.420884,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "VIAXOFT",
+    "categorie": "informatique",
+    "adresse_complete": "30 Rue marc donadille 13013 MARSEILLE 13E ARRONDISSEMENT",
+    "lat": 43.345889,
+    "lng": 5.429056,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CENTRE HOSPITALIER REGIONAL DE MARSEILLE",
+    "categorie": "informatique",
+    "adresse_complete": "chemin des bourrely 13015 MARSEILLE",
+    "lat": 43.382728,
+    "lng": 5.362037,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CITOPHONE",
+    "categorie": "securite / courant faible",
+    "adresse_complete": "CC GRAND LITTORAL ETAGE 1 - PORTE 3 AVENUE DE SAINT ANTOINE 13015 MARSEILLE",
+    "lat": 43.365713,
+    "lng": 5.356748,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CLIMENERGY",
+    "categorie": "autre",
+    "adresse_complete": "15 BOULEVARD DE LA LIMITE 13015 MARSEILLE",
+    "lat": 43.373792,
+    "lng": 5.367437,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "INTRAMAR",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "STS GPMM TERMINAL A MOUREPIANE Impasse Sanguinetti 13016 MARSEILLE",
+    "lat": 43.354335,
+    "lng": 5.331718,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CHIAP Hopital Du Pays d'Aix",
+    "categorie": "informatique",
+    "adresse_complete": "Avenue des Tamaris 13080 AIX-EN-PROVENCE",
+    "lat": 43.512081,
+    "lng": 5.464691,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "DIGITALBUSINESS CARRES DE L ENFANT C",
+    "categorie": "autre",
+    "adresse_complete": "140 AVENUE DU DOUZE JUILLET 1998 13080 AIX-EN-PROVENCE",
+    "lat": 43.479487,
+    "lng": 5.395974,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "QUALITY INSURANCE SERVICES France",
+    "categorie": "informatique",
+    "adresse_complete": "350 Avenue JRGG de la Lauzière 13080 AIX-EN-PROVENCE",
+    "lat": 43.487917,
+    "lng": 5.42084,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "AIX SERVICES MENAGERS - A.S.M.",
+    "categorie": "autre",
+    "adresse_complete": "11 rue blaise cendrars ENCAGNANE 13100 AIX-EN-PROVENCE",
+    "lat": 43.520483,
+    "lng": 5.433033,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CCAS LES LIGOURES",
+    "categorie": "autre",
+    "adresse_complete": "place Romée de Villeuneuve 13100 AIX-EN-PROVENCE CEDEX",
+    "lat": 43.523486,
+    "lng": 5.433302,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CENTRE COMMUNAL D'ACTION SOCIALE LE LIGOURES",
+    "categorie": "autre",
+    "adresse_complete": "PLACE ROMEE DE VILLENEUVE 13100 AIX-EN-PROVENCE",
+    "lat": 43.523486,
+    "lng": 5.433302,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "ICE MOBILE",
+    "categorie": "informatique",
+    "adresse_complete": "19 RUE BEDARRIDES 13100 AIX-EN-PROVENCE",
+    "lat": 43.52791,
+    "lng": 5.447281,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "LOCILEC BAT B DOM DE L ESCAPADE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "13100 LE THOLONET",
+    "lat": 43.517296,
+    "lng": 5.507581,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "TITAN AERO",
+    "categorie": "autre",
+    "adresse_complete": "ZI LES MILLES 675 RUE ALBERT EINSTEIN 13100 AIX-EN-PROVENCE",
+    "lat": 43.492654,
+    "lng": 5.378467,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SIMA MECA",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "AVENUE DE LA PLAINE ZI 13106 ROUSSET CEDEX",
+    "lat": 48.666648,
+    "lng": 2.402579,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Marie de Port de Bouc",
+    "categorie": "informatique",
+    "adresse_complete": "Hotel de ville Cours Landrivon 13110 PORT-DE-BOUC",
+    "lat": 43.405126,
+    "lng": 4.985981,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Eiffage energie systèmes Méditerranée",
+    "categorie": "informatique",
+    "adresse_complete": "ZA du ROURABEAU 13115 SAINT-PAUL-LÈS-DURANCE",
+    "lat": 43.691389,
+    "lng": 5.725497,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "BARTH'SECURE",
+    "categorie": "securite / courant faible",
+    "adresse_complete": "183 RUE DE LA FONTAINE 13119 SAINT-SAVOURNIN",
+    "lat": 43.405531,
+    "lng": 5.545502,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "ALTEO",
+    "categorie": "informatique",
+    "adresse_complete": "ROUTE DE BIVER BP 62 13120 GARDANNE",
+    "lat": 43.44406,
+    "lng": 5.466554,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "entente pour la foret méditerranéenne",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "domaine de valabre RD7 13120 GARDANNE",
+    "lat": 43.448766,
+    "lng": 5.471531,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "EP TOULON",
+    "categorie": "autre",
+    "adresse_complete": "65 Bd carnot 13120 GARDANNE",
+    "lat": 43.454959,
+    "lng": 5.46517,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MAAROF Abdelkader 425",
+    "categorie": "autre",
+    "adresse_complete": "avenue Ste Victoire Ribassou 13120 GARDANNE",
+    "lat": 43.461321,
+    "lng": 5.476689,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MAIRIE DE GARDANNE",
+    "categorie": "informatique",
+    "adresse_complete": "Place de l'Hotel de Ville 13120 GARDANNE",
+    "lat": 43.455532,
+    "lng": 5.469864,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "RTE GET Provence Alpes du Sud",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "AVENUE DES CHABAUDS 251 rue louis lepine 13120 BOUC-BEL-AIR",
+    "lat": 43.42803,
+    "lng": 5.394007,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Troc Cash and Game",
+    "categorie": "autre",
+    "adresse_complete": "Rue Jules Ferry 13120 GARDANNE",
+    "lat": 43.452937,
+    "lng": 5.468977,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "LOGIC SYSTEM",
+    "categorie": "informatique",
+    "adresse_complete": "PARC EUROFLORY 196 ALLEE ALFRED KASTLER 13130 BERRE-L'ETANG",
+    "lat": 43.520787,
+    "lng": 5.194552,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "ORION ENGINEERED CARBONS FRANCE SAS CD 21 A",
+    "categorie": "autre",
+    "adresse_complete": "Route departementale 21F L AUBETTE 13130 BERRE L'ETANG",
+    "lat": 43.502952,
+    "lng": 5.162069,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MAINTENANCE PRODUCTIONS INDUSTRIELLES",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "LOT D7 ZAC DE FONTVIEILLE 13190 ALLAUCH",
+    "lat": 43.327125,
+    "lng": 5.489447,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MAIRIE DE SEPTEME LES VALLONS MAIRIE DE SEPTEME LES VALLONS",
+    "categorie": "informatique",
+    "adresse_complete": "PLACE PIERRE TRAMONI 13240 SEPTÈMES-LES-VALLONS",
+    "lat": 43.399173,
+    "lng": 5.366184,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MAIRIE DE SEPTEMES LES VALLONS",
+    "categorie": "informatique",
+    "adresse_complete": "Place Didier Tramoni 13240 SEPTEMES LES VALLONS",
+    "lat": 43.399173,
+    "lng": 5.366184,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SERENITY IMMO",
+    "categorie": "autre",
+    "adresse_complete": "143 AVENUE DU 8 MAI 1945 13240 SEPTEMES-LES-VALLONS",
+    "lat": 43.397442,
+    "lng": 5.365153,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "COMPAGNIE MERIDIONALE D'APPLICATIONS THERMIQUES CMT LES MILLES",
+    "categorie": "autre",
+    "adresse_complete": "135 RUE EMILIEN GAUTIER 13290 AIX-EN-PROVENCE",
+    "lat": 43.48149,
+    "lng": 5.390238,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "HOMEPERF LES PLEIADES III BATIMENT C",
+    "categorie": "informatique",
+    "adresse_complete": "320 AVENUE ARCHIMEDE 13290 AIX-EN-PROVENCE",
+    "lat": 43.490578,
+    "lng": 5.339654,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "LAFARGE CIMENTS",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "795 av des frères Lumière 13320 BOUC-BEL-AIR",
+    "lat": 43.418306,
+    "lng": 5.384736,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "ADF business Partner 12 voie d'angleterre",
+    "categorie": "informatique",
+    "adresse_complete": "13370 VITROLLES",
+    "lat": 43.443844,
+    "lng": 5.258646,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "KALTEA Aubagne",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "ZI LES PALUDS 80 AVENUE DE LA FLEURIDE 13400 AUBAGNE",
+    "lat": 43.282638,
+    "lng": 5.6047,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Leroy Merlin Aubagne",
+    "categorie": "autre",
+    "adresse_complete": "avenue de la baumone ZAC PASTRE 2 13400 AUBAGNE",
+    "lat": 43.295524,
+    "lng": 5.595569,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CONSTRUCTEL ENERGIE",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "chemin de la meunière 13480 CABRIÈS",
+    "lat": 43.426915,
+    "lng": 5.377344,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "UBROKE IFIX MY HOME",
+    "categorie": "informatique",
+    "adresse_complete": "CENTRE COMMERCIAL Chemin de la grande campagne 13480 CABRIÈS",
+    "lat": 43.418997,
+    "lng": 5.362977,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "ATA ELECTRONICS",
+    "categorie": "electronique / robotique",
+    "adresse_complete": "ZAC Carreau de la Mine 13590 MEYREUIL",
+    "lat": 43.471512,
+    "lng": 5.493501,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "COMPUTERLINE",
+    "categorie": "electronique / robotique",
+    "adresse_complete": "TECHNOPOLE DU MOULIN RP DU CANET 13590 MEYREUIL",
+    "lat": 43.49199,
+    "lng": 5.525816,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "EURL EDA MEYREUIL",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "Route de Trets - Site Sauvaire 13590 MEYREUIL",
+    "lat": 43.467663,
+    "lng": 5.498763,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Mairie de MEYREUIL",
+    "categorie": "informatique",
+    "adresse_complete": "Hotel de ville Allée des platanes 13590 MEYREUIL",
+    "lat": 43.486093,
+    "lng": 5.4952,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "DIGITAL VIRGO FRANCE",
+    "categorie": "informatique",
+    "adresse_complete": "350 Rue Denis Papin 13594 AIX-EN-PROVENCE",
+    "lat": 43.496696,
+    "lng": 5.344345,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CHIAP",
+    "categorie": "informatique",
+    "adresse_complete": "Avenue des Tamaris cedex 01 13616 AIX EN PROVENCE",
+    "lat": 43.536097,
+    "lng": 5.440666,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MAGELLAN AEROSPACE PROVENCE",
+    "categorie": "autre",
+    "adresse_complete": "ZAC DES FLORIDES BD JEAN LOU CHRETIEN 13700 MARIGNANE",
+    "lat": 43.404144,
+    "lng": 5.204725,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MAIRIE DE ROUSSET",
+    "categorie": "informatique",
+    "adresse_complete": "Place paul borde 13790 ROUSSET",
+    "lat": 43.48521,
+    "lng": 5.63588,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SARL TAHA stataion service Payanet Petit",
+    "categorie": "autre",
+    "adresse_complete": "chemin d'Aix CD6 18120 GARDANNE",
+    "lat": 43.472041,
+    "lng": 5.465601,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MC HIGH TECH LA CHAF ACHAT VENTE 26",
+    "categorie": "autre",
+    "adresse_complete": "82 avenue jean jaures 26200 MONTELIMAR",
+    "lat": 44.548782,
+    "lng": 4.746973,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "COLLÈGE DU PESQUIER",
+    "categorie": "informatique",
+    "adresse_complete": "BP 60129 RUE CHARLES PAURIOL 13120 GARDANNE",
+    "lat": 43.44448,
+    "lng": 5.470624,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "RISK SECURITE",
+    "categorie": "securite / courant faible",
+    "adresse_complete": "102 AVENUE DES CHAMPS ELYSEES 75008 PARIS",
+    "lat": 48.871834,
+    "lng": 2.302297,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Média clinique Saint Maximin",
+    "categorie": "autre",
+    "adresse_complete": "Route d'Aix 83470 SAINT-MAXIMIN-LA-SAINTE-BAUME (+ 594)06 94 78",
+    "lat": 43.456879,
+    "lng": 5.846886,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MOUZAIA Transport",
+    "categorie": "autre",
+    "adresse_complete": "27 Avenue du Général Gaule 94500 CHAMPIGNY-SUR-MARNE",
+    "lat": 48.820989,
+    "lng": 2.48706,
+    "lieu_stage_2025_2026": true
+  }
+]
