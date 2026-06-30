@@ -2148,5 +2148,485 @@
     "lng": 5.454888,
     "lieu_stage_2025_2026": true,
     "coordonnees_reutilisees": true
+  },
+  {
+    "nom": "GERAL",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "rue edouard branly ZI La Pélissière 01300 BELLEY",
+    "lat": 43.353553,
+    "lng": 3.220149,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CLIM EXPERT SUD",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "931 ROUTE DE ROUMOULES 04500 RIEZ",
+    "lat": 43.819729,
+    "lng": 6.106508,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Solvo",
+    "categorie": "autre",
+    "adresse_complete": "3 rue saint-antoine 06160 ANTIBES",
+    "lat": 43.552728,
+    "lng": 7.128914,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "AZUR TECH&ELEC SERVICES",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "306 RUE SAINT PIERRE 13005 MARSEILLE",
+    "lat": 43.29153,
+    "lng": 5.406043,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SOCIETE MARSEILLAISE DU TUNNEL PRADO-CARENAGE",
+    "categorie": "informatique",
+    "adresse_complete": "3 AV ARTHUR SCOTT 13010 MARSEILLE 10EME",
+    "lat": 43.281857,
+    "lng": 5.394121,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Domoture",
+    "categorie": "autre",
+    "adresse_complete": "Place petit blanc 13011 MARSEILLE",
+    "lat": 43.283107,
+    "lng": 5.454032,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SOLIVE",
+    "categorie": "autre",
+    "adresse_complete": "4 BOULEVARD GUEIDON 13013 MARSEILLE",
+    "lat": 43.323834,
+    "lng": 5.420884,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "VIAXOFT",
+    "categorie": "informatique",
+    "adresse_complete": "30 Rue marc donadille 13013 MARSEILLE 13E ARRONDISSEMENT",
+    "lat": 43.345889,
+    "lng": 5.429056,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CENTRE HOSPITALIER REGIONAL DE MARSEILLE",
+    "categorie": "informatique",
+    "adresse_complete": "chemin des bourrely 13015 MARSEILLE",
+    "lat": 43.382728,
+    "lng": 5.362037,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CITOPHONE",
+    "categorie": "securite / courant faible",
+    "adresse_complete": "CC GRAND LITTORAL ETAGE 1 - PORTE 3 AVENUE DE SAINT ANTOINE 13015 MARSEILLE",
+    "lat": 43.365713,
+    "lng": 5.356748,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CLIMENERGY",
+    "categorie": "autre",
+    "adresse_complete": "15 BOULEVARD DE LA LIMITE 13015 MARSEILLE",
+    "lat": 43.373792,
+    "lng": 5.367437,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "INTRAMAR",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "STS GPMM TERMINAL A MOUREPIANE Impasse Sanguinetti 13016 MARSEILLE",
+    "lat": 43.354335,
+    "lng": 5.331718,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CHIAP Hopital Du Pays d'Aix",
+    "categorie": "informatique",
+    "adresse_complete": "Avenue des Tamaris 13080 AIX-EN-PROVENCE",
+    "lat": 43.512081,
+    "lng": 5.464691,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "DIGITALBUSINESS CARRES DE L ENFANT C",
+    "categorie": "autre",
+    "adresse_complete": "140 AVENUE DU DOUZE JUILLET 1998 13080 AIX-EN-PROVENCE",
+    "lat": 43.479487,
+    "lng": 5.395974,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "QUALITY INSURANCE SERVICES France",
+    "categorie": "informatique",
+    "adresse_complete": "350 Avenue JRGG de la Lauzière 13080 AIX-EN-PROVENCE",
+    "lat": 43.487917,
+    "lng": 5.42084,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "AIX SERVICES MENAGERS - A.S.M.",
+    "categorie": "autre",
+    "adresse_complete": "11 rue blaise cendrars ENCAGNANE 13100 AIX-EN-PROVENCE",
+    "lat": 43.520483,
+    "lng": 5.433033,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CCAS LES LIGOURES",
+    "categorie": "autre",
+    "adresse_complete": "place Romée de Villeuneuve 13100 AIX-EN-PROVENCE CEDEX",
+    "lat": 43.523486,
+    "lng": 5.433302,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CENTRE COMMUNAL D'ACTION SOCIALE LE LIGOURES",
+    "categorie": "autre",
+    "adresse_complete": "PLACE ROMEE DE VILLENEUVE 13100 AIX-EN-PROVENCE",
+    "lat": 43.523486,
+    "lng": 5.433302,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "ICE MOBILE",
+    "categorie": "informatique",
+    "adresse_complete": "19 RUE BEDARRIDES 13100 AIX-EN-PROVENCE",
+    "lat": 43.52791,
+    "lng": 5.447281,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "LOCILEC BAT B DOM DE L ESCAPADE",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "13100 LE THOLONET",
+    "lat": 43.517296,
+    "lng": 5.507581,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "TITAN AERO",
+    "categorie": "autre",
+    "adresse_complete": "ZI LES MILLES 675 RUE ALBERT EINSTEIN 13100 AIX-EN-PROVENCE",
+    "lat": 43.492654,
+    "lng": 5.378467,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SIMA MECA",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "AVENUE DE LA PLAINE ZI 13106 ROUSSET CEDEX",
+    "lat": 48.666648,
+    "lng": 2.402579,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Marie de Port de Bouc",
+    "categorie": "informatique",
+    "adresse_complete": "Hotel de ville Cours Landrivon 13110 PORT-DE-BOUC",
+    "lat": 43.405126,
+    "lng": 4.985981,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Eiffage energie systèmes Méditerranée",
+    "categorie": "informatique",
+    "adresse_complete": "ZA du ROURABEAU 13115 SAINT-PAUL-LÈS-DURANCE",
+    "lat": 43.691389,
+    "lng": 5.725497,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "BARTH'SECURE",
+    "categorie": "securite / courant faible",
+    "adresse_complete": "183 RUE DE LA FONTAINE 13119 SAINT-SAVOURNIN",
+    "lat": 43.405531,
+    "lng": 5.545502,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "ALTEO",
+    "categorie": "informatique",
+    "adresse_complete": "ROUTE DE BIVER BP 62 13120 GARDANNE",
+    "lat": 43.44406,
+    "lng": 5.466554,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "entente pour la foret méditerranéenne",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "domaine de valabre RD7 13120 GARDANNE",
+    "lat": 43.448766,
+    "lng": 5.471531,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "EP TOULON",
+    "categorie": "autre",
+    "adresse_complete": "65 Bd carnot 13120 GARDANNE",
+    "lat": 43.454959,
+    "lng": 5.46517,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MAAROF Abdelkader 425",
+    "categorie": "autre",
+    "adresse_complete": "avenue Ste Victoire Ribassou 13120 GARDANNE",
+    "lat": 43.461321,
+    "lng": 5.476689,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MAIRIE DE GARDANNE",
+    "categorie": "informatique",
+    "adresse_complete": "Place de l'Hotel de Ville 13120 GARDANNE",
+    "lat": 43.455532,
+    "lng": 5.469864,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "RTE GET Provence Alpes du Sud",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "AVENUE DES CHABAUDS 251 rue louis lepine 13120 BOUC-BEL-AIR",
+    "lat": 43.42803,
+    "lng": 5.394007,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Troc Cash and Game",
+    "categorie": "autre",
+    "adresse_complete": "Rue Jules Ferry 13120 GARDANNE",
+    "lat": 43.452937,
+    "lng": 5.468977,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "LOGIC SYSTEM",
+    "categorie": "informatique",
+    "adresse_complete": "PARC EUROFLORY 196 ALLEE ALFRED KASTLER 13130 BERRE-L'ETANG",
+    "lat": 43.520787,
+    "lng": 5.194552,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "ORION ENGINEERED CARBONS FRANCE SAS CD 21 A",
+    "categorie": "autre",
+    "adresse_complete": "Route departementale 21F L AUBETTE 13130 BERRE L'ETANG",
+    "lat": 43.502952,
+    "lng": 5.162069,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MAINTENANCE PRODUCTIONS INDUSTRIELLES",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "LOT D7 ZAC DE FONTVIEILLE 13190 ALLAUCH",
+    "lat": 43.327125,
+    "lng": 5.489447,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MAIRIE DE SEPTEME LES VALLONS MAIRIE DE SEPTEME LES VALLONS",
+    "categorie": "informatique",
+    "adresse_complete": "PLACE PIERRE TRAMONI 13240 SEPTÈMES-LES-VALLONS",
+    "lat": 43.399173,
+    "lng": 5.366184,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MAIRIE DE SEPTEMES LES VALLONS",
+    "categorie": "informatique",
+    "adresse_complete": "Place Didier Tramoni 13240 SEPTEMES LES VALLONS",
+    "lat": 43.399173,
+    "lng": 5.366184,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SERENITY IMMO",
+    "categorie": "autre",
+    "adresse_complete": "143 AVENUE DU 8 MAI 1945 13240 SEPTEMES-LES-VALLONS",
+    "lat": 43.397442,
+    "lng": 5.365153,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "COMPAGNIE MERIDIONALE D'APPLICATIONS THERMIQUES CMT LES MILLES",
+    "categorie": "autre",
+    "adresse_complete": "135 RUE EMILIEN GAUTIER 13290 AIX-EN-PROVENCE",
+    "lat": 43.48149,
+    "lng": 5.390238,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "HOMEPERF LES PLEIADES III BATIMENT C",
+    "categorie": "informatique",
+    "adresse_complete": "320 AVENUE ARCHIMEDE 13290 AIX-EN-PROVENCE",
+    "lat": 43.490578,
+    "lng": 5.339654,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "LAFARGE CIMENTS",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "795 av des frères Lumière 13320 BOUC-BEL-AIR",
+    "lat": 43.418306,
+    "lng": 5.384736,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "ADF business Partner 12 voie d'angleterre",
+    "categorie": "informatique",
+    "adresse_complete": "13370 VITROLLES",
+    "lat": 43.443844,
+    "lng": 5.258646,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "KALTEA Aubagne",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "ZI LES PALUDS 80 AVENUE DE LA FLEURIDE 13400 AUBAGNE",
+    "lat": 43.282638,
+    "lng": 5.6047,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Leroy Merlin Aubagne",
+    "categorie": "autre",
+    "adresse_complete": "avenue de la baumone ZAC PASTRE 2 13400 AUBAGNE",
+    "lat": 43.295524,
+    "lng": 5.595569,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CONSTRUCTEL ENERGIE",
+    "categorie": "telecom / fibre",
+    "adresse_complete": "chemin de la meunière 13480 CABRIÈS",
+    "lat": 43.426915,
+    "lng": 5.377344,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "UBROKE IFIX MY HOME",
+    "categorie": "informatique",
+    "adresse_complete": "CENTRE COMMERCIAL Chemin de la grande campagne 13480 CABRIÈS",
+    "lat": 43.418997,
+    "lng": 5.362977,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "ATA ELECTRONICS",
+    "categorie": "electronique / robotique",
+    "adresse_complete": "ZAC Carreau de la Mine 13590 MEYREUIL",
+    "lat": 43.471512,
+    "lng": 5.493501,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "COMPUTERLINE",
+    "categorie": "electronique / robotique",
+    "adresse_complete": "TECHNOPOLE DU MOULIN RP DU CANET 13590 MEYREUIL",
+    "lat": 43.49199,
+    "lng": 5.525816,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "EURL EDA MEYREUIL",
+    "categorie": "electricite / electrotechnique",
+    "adresse_complete": "Route de Trets - Site Sauvaire 13590 MEYREUIL",
+    "lat": 43.467663,
+    "lng": 5.498763,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Mairie de MEYREUIL",
+    "categorie": "informatique",
+    "adresse_complete": "Hotel de ville Allée des platanes 13590 MEYREUIL",
+    "lat": 43.486093,
+    "lng": 5.4952,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "DIGITAL VIRGO FRANCE",
+    "categorie": "informatique",
+    "adresse_complete": "350 Rue Denis Papin 13594 AIX-EN-PROVENCE",
+    "lat": 43.496696,
+    "lng": 5.344345,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "CHIAP",
+    "categorie": "informatique",
+    "adresse_complete": "Avenue des Tamaris cedex 01 13616 AIX EN PROVENCE",
+    "lat": 43.536097,
+    "lng": 5.440666,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MAGELLAN AEROSPACE PROVENCE",
+    "categorie": "autre",
+    "adresse_complete": "ZAC DES FLORIDES BD JEAN LOU CHRETIEN 13700 MARIGNANE",
+    "lat": 43.404144,
+    "lng": 5.204725,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MAIRIE DE ROUSSET",
+    "categorie": "informatique",
+    "adresse_complete": "Place paul borde 13790 ROUSSET",
+    "lat": 43.48521,
+    "lng": 5.63588,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "SARL TAHA stataion service Payanet Petit",
+    "categorie": "autre",
+    "adresse_complete": "chemin d'Aix CD6 18120 GARDANNE",
+    "lat": 43.472041,
+    "lng": 5.465601,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MC HIGH TECH LA CHAF ACHAT VENTE 26",
+    "categorie": "autre",
+    "adresse_complete": "82 avenue jean jaures 26200 MONTELIMAR",
+    "lat": 44.548782,
+    "lng": 4.746973,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "COLLÈGE DU PESQUIER",
+    "categorie": "informatique",
+    "adresse_complete": "BP 60129 RUE CHARLES PAURIOL 13120 GARDANNE",
+    "lat": 43.44448,
+    "lng": 5.470624,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "RISK SECURITE",
+    "categorie": "securite / courant faible",
+    "adresse_complete": "102 AVENUE DES CHAMPS ELYSEES 75008 PARIS",
+    "lat": 48.871834,
+    "lng": 2.302297,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "Média clinique Saint Maximin",
+    "categorie": "autre",
+    "adresse_complete": "Route d'Aix 83470 SAINT-MAXIMIN-LA-SAINTE-BAUME (+ 594)06 94 78",
+    "lat": 43.456879,
+    "lng": 5.846886,
+    "lieu_stage_2025_2026": true
+  },
+  {
+    "nom": "MOUZAIA Transport",
+    "categorie": "autre",
+    "adresse_complete": "27 Avenue du Général Gaule 94500 CHAMPIGNY-SUR-MARNE",
+    "lat": 48.820989,
+    "lng": 2.48706,
+    "lieu_stage_2025_2026": true
   }
 ]
