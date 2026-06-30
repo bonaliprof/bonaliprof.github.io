@@ -115,6 +115,24 @@
       font-size: 0.92rem;
     }
 
+    .special-filter {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin: 8px 0 12px;
+      padding: 9px 10px;
+      border: 1px solid #bfdbfe;
+      background: #eff6ff;
+      border-radius: 12px;
+      font-size: 0.9rem;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .special-filter input {
+      accent-color: #2563eb;
+    }
+
     .legend {
       display: grid;
       gap: 7px;
@@ -173,12 +191,16 @@
     .badge {
       display: inline-flex;
       align-items: center;
-      margin-bottom: 10px;
+      margin: 0 6px 10px 0;
       padding: 4px 8px;
       border-radius: 999px;
       color: white;
       font-size: 0.75rem;
       font-weight: 700;
+    }
+
+    .badge-stage {
+      background: #2563eb;
     }
 
     .popup-line {
@@ -238,6 +260,11 @@
       <button id="resetFilters" type="button">Réinitialiser</button>
     </div>
 
+    <label class="special-filter" for="onlyStage2025">
+      <input id="onlyStage2025" type="checkbox" />
+      <span>Afficher uniquement les lieux de stage 2025-2026</span>
+    </label>
+
     <div class="legend-title">Domaines affichés</div>
     <div id="legend" class="legend"></div>
 
@@ -256,6 +283,7 @@
       "telecom / fibre": "#e91e63",
       "electronique / robotique": "#9c27b0",
       "securite / courant faible": "#4caf50",
+      "audiovisuel / multimedia": "#795548",
       "autre": "#9e9e9e"
     };
 
@@ -267,6 +295,7 @@
       "telecom / fibre": "Télécom / fibre",
       "electronique / robotique": "Électronique / robotique",
       "securite / courant faible": "Sécurité / courant faible",
+      "audiovisuel / multimedia": "Audiovisuel / multimédia",
       "autre": "Autre"
     };
 
@@ -278,6 +307,7 @@
       "telecom / fibre",
       "electronique / robotique",
       "securite / courant faible",
+      "audiovisuel / multimedia",
       "autre"
     ];
 
@@ -285,7 +315,8 @@
       markers: [],
       categories: new Set(),
       activeCategories: new Set(),
-      query: ""
+      query: "",
+      onlyStage2025: false
     };
 
     const map = L.map('map').setView([43.4523, 5.4698], 10);
@@ -360,10 +391,14 @@
         ? `<a class="contact-link" href="${html(info.site_web.startsWith('http') ? info.site_web : 'https://' + info.site_web)}" target="_blank" rel="noopener">🌐 Site</a>`
         : "";
 
+      const stageBadge = stage.lieu_stage_2025_2026 || info.lieu_stage_2025_2026
+        ? '<span class="badge badge-stage">Stage 2025-2026</span>'
+        : '';
+
       return `
         <div class="stage-popup">
           <h2>${html(info.nom || stage.nom)}</h2>
-          <span class="badge" style="background:${html(color)}">${html(label)}</span>
+          <span class="badge" style="background:${html(color)}">${html(label)}</span>${stageBadge}
 
           <div class="popup-label">Activité</div>
           <div class="popup-line">${html(activite)}</div>
@@ -448,6 +483,8 @@
       const categoryOk = state.activeCategories.has(markerData.categorie);
       if (!categoryOk) return false;
 
+      if (state.onlyStage2025 && !markerData.lieuStage2025) return false;
+
       if (!state.query) return true;
       return markerData.searchText.includes(state.query);
     }
@@ -467,7 +504,9 @@
         }
       }
 
-      document.getElementById('stats').textContent = `${visibleCount} lieu(x) affiché(s) sur ${state.markers.length}`;
+      const total2025 = state.markers.filter(item => item.lieuStage2025).length;
+      const suffix = state.onlyStage2025 ? ` · ${total2025} lieu(x) 2025-2026 géocodé(s)` : ` · ${total2025} lieu(x) 2025-2026 géocodé(s)`;
+      document.getElementById('stats').textContent = `${visibleCount} lieu(x) affiché(s) sur ${state.markers.length}${suffix}`;
     }
 
     function setAllCategories(checked) {
@@ -513,7 +552,8 @@
             info.responsable_prenom
           ].filter(Boolean).join(' '));
 
-          state.markers.push({ marker, categorie, searchText });
+          const lieuStage2025 = Boolean(stage.lieu_stage_2025_2026 || info.lieu_stage_2025_2026);
+          state.markers.push({ marker, categorie, searchText, lieuStage2025 });
         }
 
         createLegend();
@@ -529,11 +569,18 @@
           applyFilters();
         });
 
+        document.getElementById('onlyStage2025').addEventListener('change', event => {
+          state.onlyStage2025 = event.target.checked;
+          applyFilters();
+        });
+
         document.getElementById('selectAll').addEventListener('click', () => setAllCategories(true));
         document.getElementById('selectNone').addEventListener('click', () => setAllCategories(false));
         document.getElementById('resetFilters').addEventListener('click', () => {
           document.getElementById('searchInput').value = "";
+          document.getElementById('onlyStage2025').checked = false;
           state.query = "";
+          state.onlyStage2025 = false;
           setAllCategories(true);
         });
       } catch (error) {

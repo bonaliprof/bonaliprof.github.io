@@ -14,7 +14,8 @@
     "responsable_prenom": "Michel",
     "responsable_fonction": "PRÉSIDENT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "INEO PACA",
@@ -31,7 +32,8 @@
     "responsable_prenom": "Erwan",
     "responsable_fonction": "DIRECTEUR D'AGENCE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ENEDIS",
@@ -48,7 +50,8 @@
     "responsable_prenom": "Thomas",
     "responsable_fonction": "RESPONSABLE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Orange unité intervention Prov.Rhô.Med.",
@@ -65,7 +68,8 @@
     "responsable_prenom": "Bruno",
     "responsable_fonction": "DRH",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SNEF",
@@ -82,7 +86,8 @@
     "responsable_prenom": "Robert",
     "responsable_fonction": "DIRECTEUR REGIONAL ADJOINT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Automatisme Thermique Electrique",
@@ -99,7 +104,8 @@
     "responsable_prenom": "Jérome",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Enedis",
@@ -116,7 +122,8 @@
     "responsable_prenom": "Angélique",
     "responsable_fonction": "RESPONSABLE RH",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ENGIE INEO",
@@ -133,7 +140,8 @@
     "responsable_prenom": "Romain",
     "responsable_fonction": "RESPONSABLE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "GERARD VALENTE ELECTRICITE",
@@ -142,7 +150,7 @@
     "adresse": "1 CLOS ARAGON CHEMIN ESTREC",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "06 11 23 73 13",
+    "telephone": null,
     "email": "vg.elec@sfr.fr",
     "site_web": null,
     "siret": null,
@@ -150,7 +158,8 @@
     "responsable_prenom": "GERARD",
     "responsable_fonction": "GERANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Hesperia informatique",
@@ -167,7 +176,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "S.S.B. TELECOM",
@@ -176,7 +186,7 @@
     "adresse": "275 RUE LAGREMEUSE",
     "code_postal": "13100",
     "ville": "AIX EN PROVENCE",
-    "telephone": "04 88 29 35 58 / 06 60 12 69 83",
+    "telephone": "04 88 29 35 58/",
     "email": null,
     "site_web": null,
     "siret": null,
@@ -184,7 +194,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Centre Hospitalier Montperrin",
@@ -194,14 +205,15 @@
     "code_postal": "13617",
     "ville": "AIX EN PROVENCE",
     "telephone": "04 42 16 17 22",
-    "email": null,
+    "email": "informatique@ch-montperrin.fr",
     "site_web": null,
     "siret": null,
     "responsable_nom": "INTARTAGLIA",
     "responsable_prenom": "Maximilien",
     "responsable_fonction": "DSIO",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "STMICRO electronics",
@@ -210,15 +222,16 @@
     "adresse": "190 Avenue Celestin Coq, Zone industrielle Peynier Rousset",
     "code_postal": "13106",
     "ville": "ROUSSET",
-    "telephone": "04 42 68 69 14 / 04 42 68 88 00",
-    "email": null,
+    "telephone": "04 42 68 69 14/ 04 42 68 88 00",
+    "email": "yan.pataki@st.com",
     "site_web": null,
     "siret": null,
     "responsable_nom": "PATAKI",
     "responsable_prenom": "Yan",
     "responsable_fonction": "DRH",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "INEO PROVENCE & COTE AZUR SNC",
@@ -235,7 +248,8 @@
     "responsable_prenom": "ERWAN",
     "responsable_fonction": "DIRECTEUR D'AGENCE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "AXIANS",
@@ -252,7 +266,8 @@
     "responsable_prenom": "Philippe",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SARL électricité Brenguier",
@@ -269,7 +284,8 @@
     "responsable_prenom": "Simon",
     "responsable_fonction": "CHARGé D'AFFAIRES",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Thiercelin informatique",
@@ -286,7 +302,8 @@
     "responsable_prenom": "Vincent",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Groupe SNEF",
@@ -303,7 +320,8 @@
     "responsable_prenom": "Philippe",
     "responsable_fonction": "RESONSABLE TECHNIQUE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Orange France l'Ensoleillé",
@@ -320,7 +338,8 @@
     "responsable_prenom": "Alexandra",
     "responsable_fonction": "MANAGER",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ORANGE",
@@ -329,7 +348,7 @@
     "adresse": "14 impasse des freres Pratesi, site aix bouffan",
     "code_postal": "13090",
     "ville": "AIX EN PROVENCE",
-    "telephone": "06 31 19 92 95",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -337,7 +356,8 @@
     "responsable_prenom": "Delphine",
     "responsable_fonction": "DRH",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "COQUILLAT ENTREPRISE SAS",
@@ -346,7 +366,7 @@
     "adresse": "5 rue des cigales",
     "code_postal": "13640",
     "ville": "LA ROQUE-D'ANTHERON",
-    "telephone": "06 70 18 49 79",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -354,7 +374,8 @@
     "responsable_prenom": "Julien",
     "responsable_fonction": "Electricien",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SNCF Sérvice informatique",
@@ -371,7 +392,8 @@
     "responsable_prenom": "Solenne",
     "responsable_fonction": "Responsable Recrutement alternances et stages",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SPIE Industrie & Tertiaire – division Industrie",
@@ -388,7 +410,8 @@
     "responsable_prenom": "Fabien",
     "responsable_fonction": "CHEF DE DEPARTEMENT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "FP SOLUTION FIBRE",
@@ -397,7 +420,7 @@
     "adresse": "148 allée du Mont Ventoux",
     "code_postal": "13300",
     "ville": "SALON-DE-PROVENCE",
-    "telephone": "06 61 16 95 74",
+    "telephone": null,
     "email": "fpsolutionfibre@outlook.fr",
     "site_web": null,
     "siret": null,
@@ -405,7 +428,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "NT Fibre optique",
@@ -414,7 +438,7 @@
     "adresse": "994 D Avenue du générald e Gaulle",
     "code_postal": "13109",
     "ville": "SIMIANE-COLLONGUE",
-    "telephone": "07 82 80 58 06",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -422,7 +446,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "AVENIR ALARME",
@@ -439,7 +464,8 @@
     "responsable_prenom": "Romain",
     "responsable_fonction": "PRÉSIDENT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SNEF Maintenance",
@@ -456,7 +482,8 @@
     "responsable_prenom": "Haykel",
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "HARIBO",
@@ -473,7 +500,8 @@
     "responsable_prenom": "LISA",
     "responsable_fonction": "RESPONSABLE RH",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "INEO PCA",
@@ -490,10 +518,11 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
-    "nom": "BLEU ELECTRIQUE / CCEI",
+    "nom": "BLEU ELECTRIQUE/ CCEI",
     "activite_metier": null,
     "accepte_stagiaires": true,
     "adresse": "21 RUE HENRI ET ANTOINE MAURRAS, ZAC SAUMATY-SEON",
@@ -507,10 +536,11 @@
     "responsable_prenom": "EMMANUEL",
     "responsable_fonction": "PDG",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
-    "nom": "BLEU ELECTRIQUE / CCEI",
+    "nom": "BLEU ELECTRIQUE/ CCEI",
     "activite_metier": null,
     "accepte_stagiaires": true,
     "adresse": "21 RUE HENRI ET ANTOINE MAURRAS, ZAC SAUMATY-SEON",
@@ -524,7 +554,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "INEO PROVENCE & COTE AZUR SNC",
@@ -541,7 +572,8 @@
     "responsable_prenom": "ERWAN",
     "responsable_fonction": "DIRECTEUR D'AGENCE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "DFT Informatique",
@@ -550,15 +582,16 @@
     "adresse": "21 avenue de la Doulia",
     "code_postal": "13112",
     "ville": "LA DESTROUSSE",
-    "telephone": "06 68 55 36 68",
-    "email": null,
+    "telephone": null,
+    "email": "david.font@deficartes.com",
     "site_web": null,
     "siret": null,
     "responsable_nom": "FONT",
     "responsable_prenom": null,
     "responsable_fonction": "Responsable Maintenance",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "FAST TELECOM",
@@ -567,7 +600,7 @@
     "adresse": "41 CHEMIN DE LA COMMANDERIE, BAT A1",
     "code_postal": "13015",
     "ville": "MARSEILLE",
-    "telephone": "07 62 01 74 78",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": "88801341400014",
@@ -575,7 +608,8 @@
     "responsable_prenom": "ELADJE",
     "responsable_fonction": "CHEF D'ENTREPRISE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Hardware informatique",
@@ -585,14 +619,15 @@
     "code_postal": "13120",
     "ville": "GARDANNE",
     "telephone": "04 42 26 93 46",
-    "email": null,
+    "email": "contact@hardware-informatique.fr",
     "site_web": null,
     "siret": null,
     "responsable_nom": "VADON",
     "responsable_prenom": "Anthony",
     "responsable_fonction": "CO-GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "THALES DMS FRANCE",
@@ -609,7 +644,8 @@
     "responsable_prenom": "MARIANNE",
     "responsable_fonction": "RESPONSABLE RH",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SASU Valente Electricité générale",
@@ -618,7 +654,7 @@
     "adresse": "1 clos Aragon Chemin Estrec",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "06 11 23 73 13",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -626,7 +662,8 @@
     "responsable_prenom": "gérard",
     "responsable_fonction": "CHEF D'ENTREPRISE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "INEO NUCLEAIRE",
@@ -643,7 +680,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "INEO NUCLEAIRE",
@@ -660,7 +698,8 @@
     "responsable_prenom": "OLIVIER",
     "responsable_fonction": "DIRECTEUR",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Société Aubagnaise d'Électricité SAE",
@@ -669,15 +708,16 @@
     "adresse": "2545 chemin de Bassan",
     "code_postal": "13390",
     "ville": "AURIOL",
-    "telephone": "07 60 82 97 29",
+    "telephone": null,
     "email": "saeentreprise@yahoo.com",
     "site_web": null,
-    "siret": "53116149500019",
+    "siret": "53119",
     "responsable_nom": "COSTE",
     "responsable_prenom": "NICOLAS",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "AUTOMATISME ELEC SARL",
@@ -686,7 +726,7 @@
     "adresse": "505 AVENUE DE LA MAXIMINOISE",
     "code_postal": "83400",
     "ville": "SAINT MAXIMIN",
-    "telephone": "06 34 16 39 74",
+    "telephone": null,
     "email": "automatisme.elec@yahoo.fr",
     "site_web": null,
     "siret": "509429841",
@@ -694,7 +734,8 @@
     "responsable_prenom": "OLIVIER",
     "responsable_fonction": "GERANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Hopital Croix Rousse - structure informatique",
@@ -711,7 +752,8 @@
     "responsable_prenom": "JEAN CHRISTOPHE",
     "responsable_fonction": "DIRECTEUR DES SYSTEMES NUMERIQUES",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "GC ALARME",
@@ -720,7 +762,7 @@
     "adresse": "245 Chemin du chateau",
     "code_postal": "13119",
     "ville": "SAINT-SAVOURNIN",
-    "telephone": "06 87 58 32 71",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -728,7 +770,8 @@
     "responsable_prenom": "Geoffroy",
     "responsable_fonction": "Dirigeant",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ORANGE Marseille",
@@ -737,7 +780,7 @@
     "adresse": "93 rue Félix Pyat",
     "code_postal": "13001",
     "ville": "MARSEILLE",
-    "telephone": "06 79 23 08 85",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -745,7 +788,8 @@
     "responsable_prenom": "Hamou",
     "responsable_fonction": "RESPONSABLE",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "DSI FRANCE TRAVAIL",
@@ -762,7 +806,8 @@
     "responsable_prenom": "Jean Philippe",
     "responsable_fonction": "Responsable de departement",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "BNS REPARATION",
@@ -771,7 +816,7 @@
     "adresse": "81 AVENUE CAMILLE PELLETAN",
     "code_postal": "13003",
     "ville": "Marseille 3e Arrondissement",
-    "telephone": "06 62 01 80 90",
+    "telephone": null,
     "email": "farhibs@outlook.fr",
     "site_web": null,
     "siret": null,
@@ -779,7 +824,8 @@
     "responsable_prenom": "ABDELBAQI",
     "responsable_fonction": "INFORMATIQUE",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ENTREPRISE DE TRAVAUX D'ELECTRICITE",
@@ -796,7 +842,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "GIRAUD MATHIS ELECTRICITE GENERALE",
@@ -805,15 +852,16 @@
     "adresse": "512 CHEMIN DU COLLET BLANC",
     "code_postal": "13320",
     "ville": "BOUC-BEL-AIR",
-    "telephone": "06 09 18 02 71",
+    "telephone": null,
     "email": "electricitegiraud@gmail.com",
     "site_web": null,
-    "siret": "92159607800011",
+    "siret": "92159",
     "responsable_nom": "GIRAUD",
     "responsable_prenom": "MATHIS",
     "responsable_fonction": "GÉRANT",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "SMI INFORMATIQUE",
@@ -823,14 +871,15 @@
     "code_postal": "83470",
     "ville": "SAINT-MAXIMIN-LA-SAINTE-BAUME",
     "telephone": "04 98 05 92 70",
-    "email": null,
+    "email": "yann@smi83.com",
     "site_web": null,
     "siret": null,
     "responsable_nom": "PIGNAT",
     "responsable_prenom": "Yann",
     "responsable_fonction": "Dirigeant",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "Anthony Reina Electricité",
@@ -839,7 +888,7 @@
     "adresse": "8 rue des Tanneries",
     "code_postal": "83119",
     "ville": "BRUE-AURIAC",
-    "telephone": "06 77 38 76 79",
+    "telephone": null,
     "email": "anthonyreinaelec@outlook.fr",
     "site_web": null,
     "siret": "88244458100012",
@@ -847,10 +896,11 @@
     "responsable_prenom": "ANTHONY",
     "responsable_fonction": "GÉRANT",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
-    "nom": "ELECTRICITE NAVALE INDUSTRIELLE   E.N.I.",
+    "nom": "ELECTRICITE NAVALE INDUSTRIELLE E.N.I.",
     "activite_metier": null,
     "accepte_stagiaires": true,
     "adresse": "PORTE 4 FORME 9, PORT AUTONOME DE MARSEILLE",
@@ -864,7 +914,8 @@
     "responsable_prenom": "SEBASTIEN",
     "responsable_fonction": "PDG",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ENEDIS AIX",
@@ -881,10 +932,11 @@
     "responsable_prenom": "KARINE",
     "responsable_fonction": "RESPONSABLE RH",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
-    "nom": "C.S.T. ELECTRICITE  COORDINATION ET SUIVI DES TRAVAUX EN ELECTRICITE",
+    "nom": "C.S.T. ELECTRICITE COORDINATION ET SUIVI DES TRAVAUX EN ELECTRICITE",
     "activite_metier": null,
     "accepte_stagiaires": true,
     "adresse": "415 AVENUE DES CHABAUDS",
@@ -898,7 +950,8 @@
     "responsable_prenom": "LIONEL",
     "responsable_fonction": "PRÉSIDENT",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "EIDI INFORMATIQUE",
@@ -908,14 +961,15 @@
     "code_postal": "13410",
     "ville": "LAMBESC",
     "telephone": "04 42 57 17 32",
-    "email": null,
+    "email": "eidi.informatique@gmail.com",
     "site_web": null,
     "siret": "44230418400017",
     "responsable_nom": "RAZEYRE",
     "responsable_prenom": "Philippe",
     "responsable_fonction": "GÉRANT",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "HD Electricité",
@@ -924,7 +978,7 @@
     "adresse": "ZA La Gardonne, 13 Boulevard Ventadouiro",
     "code_postal": "13300",
     "ville": "SALON-DE-PROVENCE",
-    "telephone": "06 79 08 43 11",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -932,7 +986,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "DALKIA VITROLLES",
@@ -941,7 +996,7 @@
     "adresse": "Site ST Microelectronics, 190 AVENUE CELESTIN COQ",
     "code_postal": "13790",
     "ville": "ROUSSET",
-    "telephone": "06 11 57 62 04",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -949,11 +1004,12 @@
     "responsable_prenom": "ALAIN",
     "responsable_fonction": "CHEF DE SITE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Panzani",
-    "activite_metier": "AGROALIMENTAIRE / ELECTROTECHNIQUE,AGROALIMENTAIRE,PRODUCTION",
+    "activite_metier": "AGROALIMENTAIRE/ ELECTROTECHNIQUE,AGROALIMENTAIRE,PRODUCTION",
     "accepte_stagiaires": true,
     "adresse": "136, route de la Valentine",
     "code_postal": "13011",
@@ -966,7 +1022,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "KOIOS",
@@ -975,7 +1032,7 @@
     "adresse": "8 Rue du Puits Juif",
     "code_postal": "13100",
     "ville": "AIX-EN-PROVENCE CEDEX",
-    "telephone": "04 89 81 06 59 / 06 51 95 30 73",
+    "telephone": "04 89 81 06 59/",
     "email": "info@koios.fr",
     "site_web": null,
     "siret": null,
@@ -983,16 +1040,17 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "AEG",
-    "activite_metier": "Borne de recharge / Alarme",
+    "activite_metier": "Borne de recharge/ Alarme",
     "accepte_stagiaires": true,
     "adresse": "702 route des vignerons",
     "code_postal": "13112",
     "ville": "LA DESTROUSSE",
-    "telephone": "06 29 53 75 48",
+    "telephone": null,
     "email": "entreprise.aeg@gmail.com",
     "site_web": "www.entreprise-aeg.com",
     "siret": "50284091100031",
@@ -1000,16 +1058,17 @@
     "responsable_prenom": "Guillaume",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ATEC ELECTRIQUE",
-    "activite_metier": "BTP / ELECTRICITE GENERAL",
+    "activite_metier": "BTP/ ELECTRICITE GENERAL",
     "accepte_stagiaires": true,
     "adresse": "251 AV DE LA DOULIA",
     "code_postal": "13112",
     "ville": "LA DESTROUSSE",
-    "telephone": "04 42 83 75 36 / 06 14 47 61 06",
+    "telephone": "04 42 83 75 36/",
     "email": null,
     "site_web": "www.atec-electrique-destrousse.fr",
     "siret": null,
@@ -1017,7 +1076,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "IZITEC",
@@ -1034,7 +1094,8 @@
     "responsable_prenom": null,
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SASU TEAMOPTIQUE",
@@ -1043,7 +1104,7 @@
     "adresse": "18 Chemin de mimet",
     "code_postal": "13015",
     "ville": "Marseille 15e Arrondissement",
-    "telephone": "06 61 25 97 00",
+    "telephone": null,
     "email": "teamoptique@gmail.com",
     "site_web": null,
     "siret": null,
@@ -1051,7 +1112,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ERT TECHNOLOGIES",
@@ -1068,7 +1130,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SARL ACB",
@@ -1085,7 +1148,8 @@
     "responsable_prenom": null,
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "BOULANGER",
@@ -1097,12 +1161,13 @@
     "telephone": null,
     "email": "kevin.charle@boulanger.com",
     "site_web": null,
-    "siret": "34738457002967",
+    "siret": "34967",
     "responsable_nom": "ALEDO",
     "responsable_prenom": "Sandra",
     "responsable_fonction": "Responsable d'exploitation",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "MC TELECOM",
@@ -1119,16 +1184,17 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ELECTRICIENS DE PROVENCE",
     "activite_metier": "CIEL",
     "accepte_stagiaires": true,
-    "adresse": "12 avenue jean  moulin",
+    "adresse": "12 avenue jean moulin",
     "code_postal": "13100",
     "ville": "AIX EN PROVENCE",
-    "telephone": "09 70 66 75 89 / 07 81 31 15 20",
+    "telephone": "09 70 66 75 89/",
     "email": "electriciendeprovence@yahoo.fr",
     "site_web": null,
     "siret": "83906300018",
@@ -1136,7 +1202,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "YESSS Electrique Rousset",
@@ -1153,7 +1220,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "HYES",
@@ -1170,7 +1238,8 @@
     "responsable_prenom": null,
     "responsable_fonction": "Dirigeant",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "MEHB.COM (CASH GSM)",
@@ -1187,7 +1256,8 @@
     "responsable_prenom": "DJAMEL",
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "INNOVCOM",
@@ -1197,14 +1267,15 @@
     "code_postal": "13001",
     "ville": "Marseille 1er Arrondissement",
     "telephone": "04 42 64 53 23",
-    "email": null,
+    "email": "ahmed.hamimed@live.fr",
     "site_web": null,
     "siret": null,
     "responsable_nom": "HAMIMED",
     "responsable_prenom": "Ahmed",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--10h00-12h00-13h00-18h00 | M--10h00-12h00-13h00-18h00 | M--10h00-12h00-13h00-18h00 | J--10h00-12h00-13h00-18h00 | V--10h00-12h00-13h00-18h00",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "RICHARDSON",
@@ -1221,24 +1292,26 @@
     "responsable_prenom": "LUCA",
     "responsable_fonction": "Directeur des systêmes d'information",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Boulanger",
-    "activite_metier": "Commerce électroménager et Audiovisuel / RÉPARATION VENTE ORDINATEUR, TABLETTE ET TÉLEPHONE",
+    "activite_metier": "Commerce électroménager et Audiovisuel/ RÉPARATION VENTE ORDINATEUR, TABLETTE ET TÉLEPHONE",
     "accepte_stagiaires": true,
-    "adresse": "6 Bis , Avenue des Belges",
+    "adresse": "6 Bis, Avenue des Belges",
     "code_postal": "13080",
     "ville": "AIX-EN-PROVENCE",
-    "telephone": null,
+    "telephone": "04 88 71 03 00",
     "email": "stephanie.gayet@boulanger.com",
     "site_web": "https://www.boulanger.com/c/robot?at_medium=sl&at_campaign=[marque]&at_platform=google&at_campaign_group=125421483&gclsrc=aw.ds&gad_source=1&gad_campaignid=125421483&gclid=EAIaIQobChMIouzXy_3zjwMVIwMGAB0uxwI-EAAYASAAEgIg4vD_BwE",
-    "siret": "34738457002967",
+    "siret": "34967",
     "responsable_nom": "Charle",
     "responsable_prenom": "Kevin",
     "responsable_fonction": "DIRECTEUR",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "YouOnline",
@@ -1247,7 +1320,7 @@
     "adresse": "29 bd Emile Loubet",
     "code_postal": "13710",
     "ville": "FUVEAU",
-    "telephone": "06 24 99 71 71",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -1255,13 +1328,14 @@
     "responsable_prenom": "Yann",
     "responsable_fonction": "PRÉSIDENT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "MARKETING Création SAS",
     "activite_metier": "création site web et hébergement",
     "accepte_stagiaires": true,
-    "adresse": "29 allée de st jean, ZAC de la Barque, ARTEPARC de Fuveau , Bat C",
+    "adresse": "29 allée de st jean, ZAC de la Barque, ARTEPARC de Fuveau, Bat C",
     "code_postal": "13710",
     "ville": "FUVEAU",
     "telephone": "04 42 26 23 07",
@@ -1272,13 +1346,14 @@
     "responsable_prenom": "Frédéric",
     "responsable_fonction": "PDG",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Mucem - Musée des civilisations de l'Europe et de",
-    "activite_metier": "CULTURE / Responsable DSI et numerique",
+    "activite_metier": "CULTURE/ Responsable DSI et numerique",
     "accepte_stagiaires": true,
-    "adresse": "1 Esp. J4,",
+    "adresse": "1 Esp. J4",
     "code_postal": "13002",
     "ville": "marseille",
     "telephone": "04 84 35 13 61",
@@ -1289,7 +1364,8 @@
     "responsable_prenom": "THOMAS",
     "responsable_fonction": "DIRECTEUR DE SERVICE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "ORDI-SELF",
@@ -1306,7 +1382,8 @@
     "responsable_prenom": null,
     "responsable_fonction": "GERANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "EHO Link",
@@ -1323,7 +1400,8 @@
     "responsable_prenom": "Christophe",
     "responsable_fonction": "Représentant légal",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "BACTECH",
@@ -1332,7 +1410,7 @@
     "adresse": "255 av Galilée 13290 Aix en Provence",
     "code_postal": "13290",
     "ville": "AIX EN PROVENCE",
-    "telephone": "06 86 83 19 55",
+    "telephone": null,
     "email": "INFO@BATECH.FR",
     "site_web": null,
     "siret": null,
@@ -1340,7 +1418,8 @@
     "responsable_prenom": "CLAUDE",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "TELEVISIONS SERVICES",
@@ -1350,23 +1429,24 @@
     "code_postal": "84120",
     "ville": "PERTUIS (84)",
     "telephone": "04 90 09 78 22",
-    "email": null,
+    "email": "pulsat.pertuis@gmail.com",
     "site_web": null,
     "siret": null,
     "responsable_nom": "LEGIER",
     "responsable_prenom": "Thierry",
     "responsable_fonction": "RESPONSABLE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "BUBO INITIATIVE",
-    "activite_metier": "Développement logiciel / Informatique",
+    "activite_metier": "Développement logiciel/ Informatique",
     "accepte_stagiaires": true,
     "adresse": "9 rue Reynaud",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "06 12 06 45 54",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": "90213267900017",
@@ -1374,11 +1454,12 @@
     "responsable_prenom": "Lila",
     "responsable_fonction": "DIRECTRICE GENERALE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "YouTribe SAS",
-    "activite_metier": "Développement logiciel / Programmeur",
+    "activite_metier": "Développement logiciel/ Programmeur",
     "accepte_stagiaires": true,
     "adresse": "68 avenue du maréchal de Lattre de Tassigny",
     "code_postal": "44500",
@@ -1391,7 +1472,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "NS SOFT",
@@ -1400,7 +1482,7 @@
     "adresse": "1480 Av d'Arménie, Bt 5A, Puy Morandat",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "06 15 38 63 67",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -1408,11 +1490,12 @@
     "responsable_prenom": "Jacques",
     "responsable_fonction": "GERANT",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ACD",
-    "activite_metier": "Editeur logiciel / Programmeur",
+    "activite_metier": "Editeur logiciel/ Programmeur",
     "accepte_stagiaires": true,
     "adresse": "595 rue Pierre Berthier",
     "code_postal": "13080",
@@ -1425,7 +1508,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Linxo group",
@@ -1434,7 +1518,7 @@
     "adresse": "10 rue du lieutenant Parayre, Bat E",
     "code_postal": "13080",
     "ville": "AIX-EN-PROVENCE",
-    "telephone": "06 30 03 22 87",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -1442,11 +1526,12 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "DOMOTIK ELEC",
-    "activite_metier": "ELECTRICITE DOMOTIQUE / ELECTRICITE GENERAL,ELECTROTECHNIQUE",
+    "activite_metier": "ELECTRICITE DOMOTIQUE/ ELECTRICITE GENERAL,ELECTROTECHNIQUE",
     "accepte_stagiaires": true,
     "adresse": "52, chemin de la Maïre",
     "code_postal": "13420",
@@ -1459,7 +1544,8 @@
     "responsable_prenom": "Rudy",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SARL ALIERS",
@@ -1476,7 +1562,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SYNELEC SAS",
@@ -1493,7 +1580,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "CSELEC",
@@ -1502,7 +1590,7 @@
     "adresse": "15 clos de la diote",
     "code_postal": "13850",
     "ville": "Gréasque",
-    "telephone": "06 69 09 16 27",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -1510,7 +1598,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "LED Energy",
@@ -1527,7 +1616,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Naouy Andy",
@@ -1536,7 +1626,7 @@
     "adresse": "7 Chemin de la pleine",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "06 58 06 92 61",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -1544,7 +1634,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "PAT Elec",
@@ -1561,7 +1652,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Cabinet Louis Reynaud",
@@ -1578,7 +1670,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Micro VEMA",
@@ -1595,7 +1688,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SASU TEAMOOPTIQUE",
@@ -1604,7 +1698,7 @@
     "adresse": "18 chemin de mimet",
     "code_postal": "13015",
     "ville": "Marseille 15e Arrondissement",
-    "telephone": "06 62 25 97 00",
+    "telephone": null,
     "email": "teamoptique@gmail.com",
     "site_web": null,
     "siret": null,
@@ -1612,13 +1706,14 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "SNEF",
-    "activite_metier": "ELECTRICITE GENERALE / ELECTRICITE GENERAL",
+    "activite_metier": "ELECTRICITE GENERALE/ ELECTRICITE GENERAL",
     "accepte_stagiaires": true,
-    "adresse": "87 AVENUE  AYGALADES",
+    "adresse": "87 AVENUE AYGALADES",
     "code_postal": "13005",
     "ville": "MARSEILLE",
     "telephone": "04 91 61 58 00",
@@ -1629,11 +1724,12 @@
     "responsable_prenom": "Mathieu",
     "responsable_fonction": "Chef d'Agence",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ELECTRICITE AIXOISE",
-    "activite_metier": "ELECTRICITE GENERALE / ELECTRICITE GENERAL,SECRÉTARIAT",
+    "activite_metier": "ELECTRICITE GENERALE/ ELECTRICITE GENERAL,SECRÉTARIAT",
     "accepte_stagiaires": true,
     "adresse": "109 ZI LES PRADEAUX",
     "code_postal": "13850",
@@ -1641,16 +1737,17 @@
     "telephone": "04 42 12 35 44",
     "email": "electriciteaixoise@wanadoo.fr",
     "site_web": null,
-    "siret": "40174718300044",
+    "siret": "40144",
     "responsable_nom": null,
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "BEITECH SARL",
-    "activite_metier": "ELECTRICITE GENERALE / ELECTRICITE GENERAL",
+    "activite_metier": "ELECTRICITE GENERALE/ ELECTRICITE GENERAL",
     "accepte_stagiaires": true,
     "adresse": "645 Rue Mayor de Montricher",
     "code_postal": "13290",
@@ -1663,11 +1760,12 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ALIERS",
-    "activite_metier": "ELECTRICITE GENERALE / ELECTRICITE GENERAL",
+    "activite_metier": "ELECTRICITE GENERALE/ ELECTRICITE GENERAL",
     "accepte_stagiaires": true,
     "adresse": "146 RU DE L'OLIVER",
     "code_postal": "13005",
@@ -1680,7 +1778,8 @@
     "responsable_prenom": null,
     "responsable_fonction": "GERANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "GASTALDI ELEC ET FROID",
@@ -1689,7 +1788,7 @@
     "adresse": "3 lot hameau de Biver",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "06 11 13 31 13 / 06 17 97 68 75",
+    "telephone": "/",
     "email": null,
     "site_web": null,
     "siret": null,
@@ -1697,16 +1796,17 @@
     "responsable_prenom": "Mathieu",
     "responsable_fonction": "DIRECTEUR",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "JB ELECTRICITÉ",
-    "activite_metier": "ELECTRICITE GENERALE / ELECTRICITE GENERAL",
+    "activite_metier": "ELECTRICITE GENERALE/ ELECTRICITE GENERAL",
     "accepte_stagiaires": true,
     "adresse": "15 Place Pol Lapeyrg",
     "code_postal": "13005",
     "ville": "Marseille 5e Arrondissement",
-    "telephone": "06 75 09 75 10",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -1714,7 +1814,8 @@
     "responsable_prenom": null,
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "JCT ENTREPRISE",
@@ -1726,12 +1827,13 @@
     "telephone": "04 42 58 27 52",
     "email": "compta@jct-entreprise.com",
     "site_web": null,
-    "siret": "50342712200018",
+    "siret": "50342",
     "responsable_nom": "BARGETTO",
     "responsable_prenom": "MARC",
     "responsable_fonction": "PRÉSIDENT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "SAS SYNELEC",
@@ -1740,7 +1842,7 @@
     "adresse": "285 AVENUE DU PLAN DE CAMPAGNE",
     "code_postal": "13170",
     "ville": "LES PENNES MIRABEAU",
-    "telephone": "06 26 67 81 31",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -1748,7 +1850,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SARL J.D LEC",
@@ -1757,7 +1860,7 @@
     "adresse": "122 ZA LES PRADEAUX",
     "code_postal": "13858",
     "ville": "Gréasque",
-    "telephone": "06 15 62 93 04",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -1765,7 +1868,8 @@
     "responsable_prenom": "Gérard",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "IDME",
@@ -1782,7 +1886,8 @@
     "responsable_prenom": null,
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "BORI ELEC",
@@ -1791,7 +1896,7 @@
     "adresse": "15 AVENUE DE LA LIBERATION",
     "code_postal": "13124",
     "ville": "PEYPIN",
-    "telephone": "06 26 33 13 43",
+    "telephone": null,
     "email": "bori.elec@gmail.com",
     "site_web": null,
     "siret": null,
@@ -1799,7 +1904,8 @@
     "responsable_prenom": "Frederic",
     "responsable_fonction": "GERANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ac renov",
@@ -1808,7 +1914,7 @@
     "adresse": "43 COURS FORTIN",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "06 37 39 98 53",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -1816,7 +1922,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "S.G. ELECTRICITE",
@@ -1833,7 +1940,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SAS MONTE ELEC",
@@ -1842,7 +1950,7 @@
     "adresse": "161 chemin du Garoutier, la providence",
     "code_postal": "13600",
     "ville": "LA CIOTAT",
-    "telephone": "04 42 83 26 30 / 06 77 02 86 84",
+    "telephone": "04 42 83 26 30/",
     "email": null,
     "site_web": null,
     "siret": null,
@@ -1850,7 +1958,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SARL PAT ELEC",
@@ -1859,7 +1968,7 @@
     "adresse": "7 ZAC de la Burlière",
     "code_postal": "13530",
     "ville": "TRETS",
-    "telephone": "06 19 75 18 49",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -1867,7 +1976,8 @@
     "responsable_prenom": "Patrick",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SAS EGHV",
@@ -1884,7 +1994,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SASU FARI-ELEC",
@@ -1893,7 +2004,7 @@
     "adresse": "143 rue Felix Pyat",
     "code_postal": "13003",
     "ville": "Marseille 3e Arrondissement",
-    "telephone": "06 52 08 07 73",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -1901,28 +2012,30 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "R-ELEC",
-    "activite_metier": "ELECTRICITE GENERALE / ELECTRICITE GENERAL",
+    "activite_metier": "ELECTRICITE GENERALE/ ELECTRICITE GENERAL",
     "accepte_stagiaires": true,
     "adresse": "17 Lot Le Parterre",
     "code_postal": "13880",
     "ville": "VELAUX",
-    "telephone": "06 25 80 45 56",
+    "telephone": null,
     "email": "contact@r-elec.pro",
     "site_web": null,
-    "siret": "79090852900015",
+    "siret": "00015",
     "responsable_nom": "ROMANO",
     "responsable_prenom": "Rémy",
     "responsable_fonction": "DIRECTEUR",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ION BEAM SERVICES SA",
-    "activite_metier": "ELECTRICITE GENERALE / ELECTRICITE GENERAL",
+    "activite_metier": "ELECTRICITE GENERALE/ ELECTRICITE GENERAL",
     "accepte_stagiaires": true,
     "adresse": "26 impasse des Evariste GALLOIS",
     "code_postal": "13790",
@@ -1935,16 +2048,17 @@
     "responsable_prenom": "Laurent",
     "responsable_fonction": "PDG",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "UPERIO",
-    "activite_metier": "ELECTRICITE GENERALE / ELECTRICITE GENERAL",
+    "activite_metier": "ELECTRICITE GENERALE/ ELECTRICITE GENERAL",
     "accepte_stagiaires": true,
-    "adresse": "RN 8150 avenue de  Fontgrège",
+    "adresse": "RN 8150 avenue de Fontgrège",
     "code_postal": "13420",
     "ville": "GEMENOS",
-    "telephone": "06 66 02 09 45",
+    "telephone": null,
     "email": "xavier.lemaire@uperio-group.com",
     "site_web": null,
     "siret": "380602060",
@@ -1952,7 +2066,8 @@
     "responsable_prenom": "Xavier",
     "responsable_fonction": "DIRECTEUR DU SITE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SG Electricité",
@@ -1969,7 +2084,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SARL MATELEC SUD-EST",
@@ -1978,7 +2094,7 @@
     "adresse": "1095 chemin du Pont Rout",
     "code_postal": "13090",
     "ville": "AIX EN PROVENCE",
-    "telephone": "06 82 40 50 48",
+    "telephone": null,
     "email": "matelec13@gmail.com",
     "site_web": null,
     "siret": null,
@@ -1986,24 +2102,26 @@
     "responsable_prenom": "Mathieu",
     "responsable_fonction": "GERANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "MIKAPLOMB-ELEC",
-    "activite_metier": "ELECTRICITE GENERALE / ELECTRICITE GENERAL",
+    "activite_metier": "ELECTRICITE GENERALE/ ELECTRICITE GENERAL",
     "accepte_stagiaires": true,
     "adresse": "326 Impasse du Clos Resty",
     "code_postal": "83470",
     "ville": "SAINT-MAXIMIN-LA-SAINTE-BAUME",
-    "telephone": "06 51 87 39 03",
+    "telephone": null,
     "email": "mikaplomb.elec@gmail.com",
     "site_web": null,
-    "siret": "82207741800017",
+    "siret": "8227",
     "responsable_nom": "MAURY",
     "responsable_prenom": "Michaël",
     "responsable_fonction": "Dirigeant",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SAM'ELEC",
@@ -2020,7 +2138,8 @@
     "responsable_prenom": "Samuel",
     "responsable_fonction": "Dirigeant",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "KALISTECO",
@@ -2029,19 +2148,20 @@
     "adresse": "497 av des chasséens, ZI Avon",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "06 42 52 80 14",
-    "email": null,
+    "telephone": "04 42 61 38 10",
+    "email": "xavier@kalisteco.fr",
     "site_web": null,
     "siret": null,
     "responsable_nom": "GRONDIN",
     "responsable_prenom": "Xavier",
     "responsable_fonction": "Dirigeant",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "SNEF POWER SERVICES",
-    "activite_metier": "ELECTRICITE GENERALE / ELECTROTECHNIQUE",
+    "activite_metier": "ELECTRICITE GENERALE/ ELECTROTECHNIQUE",
     "accepte_stagiaires": true,
     "adresse": "ZONE INDUSTRIELLE DU ROURABEAU, 5 IRENE & FREDERIC JOLIOT CURIE",
     "code_postal": "13115",
@@ -2054,7 +2174,8 @@
     "responsable_prenom": "OLIVIER",
     "responsable_fonction": "responsable centre de travaux",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ELECTRICITE INDUSTRIELLE JP FAUCHE",
@@ -2071,7 +2192,8 @@
     "responsable_prenom": "STEPHANE",
     "responsable_fonction": "DIRECTEUR D'AGENCE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SME",
@@ -2080,7 +2202,7 @@
     "adresse": "ZAC de l'Anjoly, 5 bis voie d'Angleterre",
     "code_postal": "13127",
     "ville": "VITROLLES",
-    "telephone": "07 68 23 34 71",
+    "telephone": null,
     "email": "boris.mathon@groupe-sme.fr533347944",
     "site_web": null,
     "siret": null,
@@ -2088,7 +2210,8 @@
     "responsable_prenom": "BORIS",
     "responsable_fonction": "Secrétaire Général",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "AZ amenagement",
@@ -2097,7 +2220,7 @@
     "adresse": "18 allée du gymnase bat F03",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "06 25 50 47 98",
+    "telephone": null,
     "email": "az.cds1979@gmail.com",
     "site_web": null,
     "siret": null,
@@ -2105,7 +2228,8 @@
     "responsable_prenom": "Hazdine",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "AVENIR ELEC",
@@ -2114,7 +2238,7 @@
     "adresse": "5 rue du Lavoir",
     "code_postal": "13360",
     "ville": "ROQUEVAIRE",
-    "telephone": "06 26 60 43 29",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": "82412366500013",
@@ -2122,7 +2246,8 @@
     "responsable_prenom": "Lionel",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SAS POURRIERE",
@@ -2139,7 +2264,8 @@
     "responsable_prenom": "Laurent",
     "responsable_fonction": "DIRECTEUR",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "OCHI TAREK Electricté",
@@ -2148,7 +2274,7 @@
     "adresse": "2 rue calmette et guerin",
     "code_postal": "13080",
     "ville": "AIX-EN-PROVENCE CEDEX",
-    "telephone": "07 86 65 77 30",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -2156,16 +2282,17 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "EPMG",
-    "activite_metier": "ELECTRICITE GENERALE / ELECTRICITE GENERAL,PLOMBERIE",
+    "activite_metier": "ELECTRICITE GENERALE/ ELECTRICITE GENERAL,PLOMBERIE",
     "accepte_stagiaires": true,
     "adresse": "Les coteaux de Veline Bat 6 n58",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "06 03 33 39 13",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -2173,7 +2300,8 @@
     "responsable_prenom": "David",
     "responsable_fonction": "GÉRANT",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "MLN",
@@ -2182,7 +2310,7 @@
     "adresse": "Quartier la Guerine, CD 60A",
     "code_postal": "13480",
     "ville": "Cabriès",
-    "telephone": "06 29 37 47 48",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -2190,7 +2318,8 @@
     "responsable_prenom": "Cédric",
     "responsable_fonction": "GÉRANT",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "electricité",
@@ -2199,7 +2328,7 @@
     "adresse": "95 chemin des jardins",
     "code_postal": "84210",
     "ville": "PERNES-LES-FONTAINES",
-    "telephone": "06 24 89 48 00",
+    "telephone": null,
     "email": "maxence_F2@hotmail.fr",
     "site_web": null,
     "siret": null,
@@ -2207,7 +2336,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "SIEB",
@@ -2216,15 +2346,16 @@
     "adresse": "275 Avenue des Rigaou, ZAC le clos du Rocher",
     "code_postal": "13830",
     "ville": "Roquefort-la-Bédoule",
-    "telephone": "04 91 44 19 39 / 06 82 92 49 36",
-    "email": null,
+    "telephone": "04 91 44 19 39/",
+    "email": "secratariat@sieb13.fr",
     "site_web": null,
     "siret": null,
     "responsable_nom": "CARAMAZZA",
     "responsable_prenom": "Denis",
     "responsable_fonction": "GÉRANT",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "FAUCHé OUEST PROVENCE",
@@ -2233,7 +2364,7 @@
     "adresse": "5 allée de la Rouguiere, ZAC des feuillantines",
     "code_postal": "13011",
     "ville": "Marseille 11e Arrondissement",
-    "telephone": "04 13 94 32 17 / 04 13 94 32 15",
+    "telephone": "04 13 94 32 17/ 04 13 94 32 15",
     "email": null,
     "site_web": null,
     "siret": null,
@@ -2241,7 +2372,8 @@
     "responsable_prenom": "Jeffrey",
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "Xavpowertech",
@@ -2251,31 +2383,33 @@
     "code_postal": "13710",
     "ville": "FUVEAU",
     "telephone": null,
-    "email": null,
+    "email": "xav.powertech@gmail.com",
     "site_web": null,
     "siret": null,
     "responsable_nom": null,
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "ASSISTELEC",
     "activite_metier": "ELECTRICITE GENERALE",
     "accepte_stagiaires": true,
-    "adresse": "42 BOULEVARD DE LA PADOUANE Z.\n\nA.\n\n ARTIZANORD LOT NO 212",
+    "adresse": "42 BOULEVARD DE LA PADOUANE Z. A. ARTIZANORD LOT NO 212",
     "code_postal": "13015",
     "ville": "marseille",
     "telephone": "33 04 91 69 15 03",
     "email": "asistelec@sfr.fr",
     "site_web": null,
-    "siret": "51306194500012",
+    "siret": "5132",
     "responsable_nom": "Kaci",
     "responsable_prenom": null,
     "responsable_fonction": "GERANT",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "KOOK",
@@ -2284,7 +2418,7 @@
     "adresse": "1330 rue jean rené guillibert gauthier de la lauzière",
     "code_postal": "13290",
     "ville": "AIX EN PROVENCE",
-    "telephone": "06 42 73 69 60",
+    "telephone": null,
     "email": "sdifrancesco@kookcuisines.fr",
     "site_web": null,
     "siret": "90040963200016",
@@ -2292,7 +2426,8 @@
     "responsable_prenom": "STEPHANE",
     "responsable_fonction": "DIRECTEUR D'EXPLOITATION",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SMEBI",
@@ -2309,7 +2444,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "E.P.S",
@@ -2326,7 +2462,8 @@
     "responsable_prenom": "JEAN MARC",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "NEOS TECHNOLOGIE",
@@ -2343,7 +2480,8 @@
     "responsable_prenom": "Sandra",
     "responsable_fonction": "DIRECTRICE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SI2E",
@@ -2355,12 +2493,13 @@
     "telephone": "04 42 91 42 35",
     "email": null,
     "site_web": null,
-    "siret": "78944510300011",
+    "siret": "00011",
     "responsable_nom": "CICORE LLI",
     "responsable_prenom": "GUILLAUME",
     "responsable_fonction": "DIRECTEUR D'EXPLOITATION",
     "horaires": "L--08h00-12h00-13h30-16h30 | M--08h00-12h00-13h30-16h30 | M--08h00-12h00-13h30-16h30 | J--08h00-12h00-13h30-16h30 | V--08h00-12h00-13h30-16h30",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ENERGETIQUE SANITAIRE",
@@ -2377,7 +2516,8 @@
     "responsable_prenom": "Philippe",
     "responsable_fonction": "Dirigeant",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ECLIP",
@@ -2386,7 +2526,7 @@
     "adresse": "D46A, 570 Mazargues",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "06 24 49 22 40",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -2394,7 +2534,8 @@
     "responsable_prenom": "Fabien",
     "responsable_fonction": "GÉRANT",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SERCA INFORMATIQUE",
@@ -2403,7 +2544,7 @@
     "adresse": "380 Av Jean Perrin Pôle d'activités Les Milles",
     "code_postal": "13290",
     "ville": "LES MILLES",
-    "telephone": "04 42 90 80 50 / 04 42 90 80 53",
+    "telephone": "04 42 90 80 50/ 04 42 90 80 53",
     "email": null,
     "site_web": null,
     "siret": null,
@@ -2411,7 +2552,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "MODUL STRUCTURE",
@@ -2428,7 +2570,8 @@
     "responsable_prenom": "Rémy",
     "responsable_fonction": "PRÉSIDENT",
     "horaires": "L--07h00-12h00-13h00-16h00 | M--07h00-12h00-13h00-16h00 | M--07h00-12h00 | J--07h00-12h00-13h00-16h00 | V--07h00-12h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "FT MARINE dep SIMEC",
@@ -2445,7 +2588,8 @@
     "responsable_prenom": "David",
     "responsable_fonction": "DIRECTEUR",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "EASYTECH",
@@ -2462,7 +2606,8 @@
     "responsable_prenom": "J.C.",
     "responsable_fonction": "PRÉSIDENT",
     "horaires": "L--07h45-12h00-13h00-17h30 | M--07h45-12h00-13h00-17h30 | M--07h45-12h00-13h00-17h30 | J--07h45-12h00-13h00-17h30",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ROUIS Wessen",
@@ -2471,15 +2616,16 @@
     "adresse": "142 chemin de la bonde",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "06 21 39 66 33",
+    "telephone": null,
     "email": "rouiswessen@gmail.com",
     "site_web": null,
-    "siret": "39164376900013",
+    "siret": "39113",
     "responsable_nom": null,
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "WESSEM ROUIS",
@@ -2488,15 +2634,16 @@
     "adresse": "142 chemin de la bonde",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "06 21 39 66 33",
+    "telephone": null,
     "email": "rouiswessen@gmail.com",
     "site_web": null,
-    "siret": "39164376900013",
+    "siret": "39113",
     "responsable_nom": null,
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "TSI Telecom",
@@ -2505,7 +2652,7 @@
     "adresse": "467 chemin du littoral",
     "code_postal": "13016",
     "ville": "MARSEILLE",
-    "telephone": "06 58 29 11 65",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": "824768063",
@@ -2513,7 +2660,8 @@
     "responsable_prenom": "SAMY",
     "responsable_fonction": "PRÉSIDENT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "S.S.B Telecom",
@@ -2522,7 +2670,7 @@
     "adresse": "275 rue Lagremeuse",
     "code_postal": "13100",
     "ville": "AIX EN PROVENCE",
-    "telephone": "06 60 12 69 83",
+    "telephone": null,
     "email": "contact@ssb-telecom.fr",
     "site_web": null,
     "siret": null,
@@ -2530,7 +2678,8 @@
     "responsable_prenom": null,
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "A.P.F.E",
@@ -2539,7 +2688,7 @@
     "adresse": "115 passage de la Noria",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "07 69 42 93 81",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": "90850914400014",
@@ -2547,7 +2696,8 @@
     "responsable_prenom": "Anthony",
     "responsable_fonction": "Chef d'Equipe",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "auto entrepreneur Porteneuve Anthony",
@@ -2556,7 +2706,7 @@
     "adresse": "115 passage de la Nora",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "07 69 42 93 81",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -2564,7 +2714,8 @@
     "responsable_prenom": "Anthonny",
     "responsable_fonction": "GERANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "T.S.I TELECOM",
@@ -2573,7 +2724,7 @@
     "adresse": "4667 CHEMIN DU LITTORAL",
     "code_postal": "13016",
     "ville": "MARSEILLE",
-    "telephone": "06 58 29 11 65",
+    "telephone": null,
     "email": "m.mahouche@tsitelecom13.com",
     "site_web": null,
     "siret": null,
@@ -2581,7 +2732,8 @@
     "responsable_prenom": "Mohamed",
     "responsable_fonction": "PRÉSIDENT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Entreprise Individuelle Chiali Souhil",
@@ -2598,7 +2750,8 @@
     "responsable_prenom": "Souhil",
     "responsable_fonction": "GÉRANT",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "MCV",
@@ -2615,7 +2768,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Technique Service Bureautique",
@@ -2632,16 +2786,17 @@
     "responsable_prenom": "Lucien",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "R&F INVEST",
-    "activite_metier": "import / ELECTRICITE GENERAL",
+    "activite_metier": "import/ ELECTRICITE GENERAL",
     "accepte_stagiaires": true,
     "adresse": "40 avenue Lascours",
     "code_postal": "13400",
     "ville": "AUBAGNE",
-    "telephone": "09 61 10 14 33 / 06 52 52 49 40",
+    "telephone": "09 61 10 14 33/",
     "email": "françois@fiveunion.fr",
     "site_web": null,
     "siret": "942",
@@ -2649,24 +2804,26 @@
     "responsable_prenom": "r",
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "ATOUT SERVICES",
-    "activite_metier": "INFORMATIQUE / SERVICES ADMINISTRATIFS",
+    "activite_metier": "INFORMATIQUE/ SERVICES ADMINISTRATIFS",
     "accepte_stagiaires": true,
     "adresse": "ATOUT SERVICES, 413 AVENUE LEO LAGRANGE",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "04 42 51 46 86 / 04 86 11 00 76",
+    "telephone": "04 42 51 46 86/ 04 86 11 00 76",
     "email": "contac@atout-services.com",
     "site_web": null,
-    "siret": "80755300000026",
+    "siret": "8026",
     "responsable_nom": "AMIC",
     "responsable_prenom": "BRUNO",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SEBATECH",
@@ -2683,7 +2840,8 @@
     "responsable_prenom": "Sebastien",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "REAL.NOT",
@@ -2700,7 +2858,8 @@
     "responsable_prenom": "JEAN MARC",
     "responsable_fonction": "PRÉSIDENT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SELFI SAS",
@@ -2712,12 +2871,13 @@
     "telephone": "04 42 61 45 68",
     "email": "infos@selfises.com",
     "site_web": null,
-    "siret": "80752928400018",
+    "siret": "8018",
     "responsable_nom": "LIAUTAUD",
     "responsable_prenom": "Guillaume",
     "responsable_fonction": "RESPONSABLE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "TIMACA SARL",
@@ -2729,12 +2889,13 @@
     "telephone": "04 84 90 95 94",
     "email": "gac@timaca.fr",
     "site_web": null,
-    "siret": "49748751200012",
+    "siret": "49012",
     "responsable_nom": "trouillet",
     "responsable_prenom": "mathieu",
     "responsable_fonction": "GERANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "Le BUREAU CIOTADEN",
@@ -2751,11 +2912,12 @@
     "responsable_prenom": "Yannick",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--09h00-12h00-14h00-18h00 | M--09h00-12h00-14h00-18h00 | M--09h00-12h00-14h00-18h00 | J--09h00-12h00-14h00-18h00 | V--09h00-12h00-14h00-18h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "L'atelier du mobile",
-    "activite_metier": "INFORMATIQUE / MAINTENANCE,Informatique",
+    "activite_metier": "INFORMATIQUE/ MAINTENANCE,Informatique",
     "accepte_stagiaires": true,
     "adresse": "1 Chemin des Fabres",
     "code_postal": "13105",
@@ -2768,7 +2930,8 @@
     "responsable_prenom": "Simouhaude",
     "responsable_fonction": "GERANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SIGV",
@@ -2778,17 +2941,18 @@
     "code_postal": "13109",
     "ville": "SIMIANE-COLLONGUE",
     "telephone": "04 42 94 93 41",
-    "email": null,
+    "email": "ina.nguyen@sigv.fr",
     "site_web": null,
     "siret": null,
     "responsable_nom": null,
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
-    "nom": "AZUR-SI / XEFJ AUBAGNE",
+    "nom": "AZUR-SI/ XEFJ AUBAGNE",
     "activite_metier": "INFORMATIQUE",
     "accepte_stagiaires": true,
     "adresse": "120 avenue Marin Blanc",
@@ -2802,7 +2966,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "DOCTEUR ORDINATEUR",
@@ -2819,7 +2984,8 @@
     "responsable_prenom": "NOA",
     "responsable_fonction": "PRÉSIDENT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SERCA informatique",
@@ -2836,7 +3002,8 @@
     "responsable_prenom": "Caroline",
     "responsable_fonction": "DIRECTRICE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SEMI INFORMATIQUE",
@@ -2853,7 +3020,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "boulanger",
@@ -2862,15 +3030,16 @@
     "adresse": "6 bis avenue des belges",
     "code_postal": "13100",
     "ville": "AIX EN PROVENCE",
-    "telephone": null,
+    "telephone": "04 13 54 00 33",
     "email": "eleoinformatique@gmail.com",
     "site_web": null,
-    "siret": "34738457002967",
+    "siret": "34967",
     "responsable_nom": "ANDRIAMALALA",
     "responsable_prenom": "LUCAS",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "Eleo informatique",
@@ -2879,7 +3048,7 @@
     "adresse": "49 Avenue Henrie",
     "code_postal": "13100",
     "ville": "AIX-EN-PROVENCE CEDEX",
-    "telephone": "04 42 29 06 65 / 07 83 52 20 26",
+    "telephone": "04 42 29 06 65/",
     "email": null,
     "site_web": null,
     "siret": null,
@@ -2887,11 +3056,12 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "KAELI CONCEPT",
-    "activite_metier": "INFORMATIQUE / Informatique",
+    "activite_metier": "INFORMATIQUE/ Informatique",
     "accepte_stagiaires": true,
     "adresse": "63 rue des Métiers, ZAC de la Haute Bédoule",
     "code_postal": "13240",
@@ -2899,12 +3069,13 @@
     "telephone": "04 86 26 04 14",
     "email": "marseille@glassandbio.fr",
     "site_web": null,
-    "siret": "88370092400011",
+    "siret": "88311",
     "responsable_nom": "CARDONA",
     "responsable_prenom": "Mégan",
     "responsable_fonction": "DIRECTRICE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SAS DFI INFORMATIQUE",
@@ -2913,7 +3084,7 @@
     "adresse": "21 AVENUE DE LA DOULIA",
     "code_postal": "13112",
     "ville": "LA DESTROUSSE",
-    "telephone": "06 68 55 36 68",
+    "telephone": null,
     "email": "david.font@deficartes.com",
     "site_web": null,
     "siret": null,
@@ -2921,11 +3092,12 @@
     "responsable_prenom": "kilian",
     "responsable_fonction": "RESONSABLE TECHNIQUE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "AXYN ROBOTIQUE",
-    "activite_metier": "INFORMATIQUE / ROBOTIQUE",
+    "activite_metier": "INFORMATIQUE/ ROBOTIQUE",
     "accepte_stagiaires": true,
     "adresse": "1480 Avenue d'Arménie",
     "code_postal": "13120",
@@ -2933,16 +3105,17 @@
     "telephone": "04 50 97 50 61",
     "email": "contact@axyn.fr",
     "site_web": null,
-    "siret": "50464634700026",
+    "siret": "50426",
     "responsable_nom": "AMSEAUX",
     "responsable_prenom": "Franck",
     "responsable_fonction": "PDG",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "COMMUNAUTÉ D'AGGLOMÉRATION DE NÏMES MÉTROPOLE",
-    "activite_metier": "INFORMATIQUE / Informatique",
+    "activite_metier": "INFORMATIQUE/ Informatique",
     "accepte_stagiaires": true,
     "adresse": "3 rue du Colisée",
     "code_postal": "30900",
@@ -2955,7 +3128,8 @@
     "responsable_prenom": "Franck",
     "responsable_fonction": "DIRECTEUR",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "KATEL TECHNOLOGIE",
@@ -2964,7 +3138,7 @@
     "adresse": "7 allée des Hêtres",
     "code_postal": "13500",
     "ville": "MARTIGUES",
-    "telephone": "06 95 71 58 77",
+    "telephone": null,
     "email": "anis.kefi@katel-technologies.fr",
     "site_web": null,
     "siret": "890 538 085 000 14",
@@ -2972,7 +3146,8 @@
     "responsable_prenom": "Anis",
     "responsable_fonction": "GERANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SYNKSO",
@@ -2989,7 +3164,8 @@
     "responsable_prenom": "Lionel",
     "responsable_fonction": "DIRECTEUR GENERAL",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SARL TechNew",
@@ -2998,7 +3174,7 @@
     "adresse": "7 avenue des fuchias",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "06 99 30 66 22",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -3006,7 +3182,8 @@
     "responsable_prenom": "Alexis",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "POLE EMPLOI DSI",
@@ -3015,7 +3192,7 @@
     "adresse": "180 RUE RENE DESCARTES, BP 447",
     "code_postal": "13592",
     "ville": "AIX-EN-PROVENCE CEDEX3",
-    "telephone": "06 22 09 79 59",
+    "telephone": null,
     "email": "pascale.bouffard@pole-emploi.fr",
     "site_web": null,
     "siret": null,
@@ -3023,7 +3200,8 @@
     "responsable_prenom": "PASCALE",
     "responsable_fonction": "Responsable du site",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "MICROCONCEPT Aubagne",
@@ -3032,7 +3210,7 @@
     "adresse": "ZI Les Paluds 259 av des Caniers",
     "code_postal": "13400",
     "ville": "AUBAGNE",
-    "telephone": "04 42 18 26 65 / 06 68 58 01 01",
+    "telephone": "04 42 18 26 65/",
     "email": null,
     "site_web": null,
     "siret": null,
@@ -3040,7 +3218,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Ville de Marseille DSI",
@@ -3057,11 +3236,12 @@
     "responsable_prenom": "CAROLINE",
     "responsable_fonction": "DIRECTRICE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ABC Industrie",
-    "activite_metier": "INFORMATIQUE / Informatique",
+    "activite_metier": "INFORMATIQUE/ Informatique",
     "accepte_stagiaires": true,
     "adresse": "165 route du Plan",
     "code_postal": "13860",
@@ -3069,12 +3249,13 @@
     "telephone": "04 42 57 77 00",
     "email": "amelie.lecat@loste.com",
     "site_web": null,
-    "siret": "34119736600030",
+    "siret": "34119",
     "responsable_nom": "LECAT",
     "responsable_prenom": "AMELIE",
     "responsable_fonction": "RESPONSABLE RH",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "OMNIUM CONCEPT",
@@ -3091,7 +3272,8 @@
     "responsable_prenom": "CHRISTIAN",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "MASCO",
@@ -3108,7 +3290,8 @@
     "responsable_prenom": "Massoud",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SNEF 13015",
@@ -3125,7 +3308,8 @@
     "responsable_prenom": "YANN",
     "responsable_fonction": "RESPONSABLE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "IKRAM",
@@ -3134,7 +3318,7 @@
     "adresse": "8 RUE FRANCIS DE PRESSENSE",
     "code_postal": "13001",
     "ville": "MARSEILLE",
-    "telephone": "04 65 97 52 81 / 07 53 13 61 74",
+    "telephone": "04 65 97 52 81/",
     "email": null,
     "site_web": null,
     "siret": null,
@@ -3142,7 +3326,8 @@
     "responsable_prenom": "YASSINE",
     "responsable_fonction": "INFORMATIQUE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "MAIVA - Boucherie LE PALAIS PROVENCAL",
@@ -3151,7 +3336,7 @@
     "adresse": "27 RUE DU VALLAT",
     "code_postal": "13790",
     "ville": "Châteauneuf-le-Rouge",
-    "telephone": "06 68 07 30 28",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -3159,7 +3344,8 @@
     "responsable_prenom": "ADIL",
     "responsable_fonction": "PRÉSIDENT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "NERESYS",
@@ -3169,14 +3355,15 @@
     "code_postal": "13120",
     "ville": "GARDANNE",
     "telephone": "04 42 39 50 50",
-    "email": null,
+    "email": "s.roux@neresys.com",
     "site_web": null,
     "siret": null,
     "responsable_nom": "PEDON",
     "responsable_prenom": "Jean-philippe",
     "responsable_fonction": "DIRECTEUR GENERAL",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "ACSIT",
@@ -3185,15 +3372,16 @@
     "adresse": "78 Impasse de la Chênaie",
     "code_postal": "13114",
     "ville": "PUYLOUBIER",
-    "telephone": "06 07 49 63 12 / 07 67 19 95 87",
-    "email": null,
+    "telephone": "/",
+    "email": "mjoachin@acsit.fr",
     "site_web": null,
     "siret": null,
     "responsable_nom": null,
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "VALENTIN SERVICES",
@@ -3202,15 +3390,16 @@
     "adresse": "Avenue sainte teresa di riva, la Cigoulette bat 7",
     "code_postal": "13710",
     "ville": "FUVEAU",
-    "telephone": "06 85 46 50 32",
-    "email": null,
+    "telephone": null,
+    "email": "jordan.valentin13@gmail.com",
     "site_web": null,
     "siret": null,
     "responsable_nom": null,
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "MICROVEHA",
@@ -3227,13 +3416,14 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "512IT",
     "activite_metier": "INFORMATIQUE",
     "accepte_stagiaires": true,
-    "adresse": "115 Rue  Louis Armand",
+    "adresse": "115 Rue Louis Armand",
     "code_postal": "13290",
     "ville": "AIX-EN-PROVENCE",
     "telephone": "04 42 38 36 32",
@@ -3244,7 +3434,8 @@
     "responsable_prenom": "Bruno",
     "responsable_fonction": "INGENIEUR",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "E.B.S : Equip Bureau Service",
@@ -3261,7 +3452,8 @@
     "responsable_prenom": "Anthony",
     "responsable_fonction": "RESONSABLE TECHNIQUE",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "DM+",
@@ -3271,14 +3463,15 @@
     "code_postal": "13001",
     "ville": "Marseille 1er Arrondissement",
     "telephone": "09 52 58 15 02",
-    "email": null,
+    "email": "kleberphone@gmail.com",
     "site_web": null,
     "siret": null,
     "responsable_nom": "BENAHI",
     "responsable_prenom": "Karim",
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "CAPITAL DATA",
@@ -3295,7 +3488,8 @@
     "responsable_prenom": "Hamaud",
     "responsable_fonction": "DEVELOPPEUR",
     "horaires": "L--09h30-12h30-14h00-18h00 | M--09h30-12h30-14h00-18h00 | M--09h30-12h30-14h00-18h00 | J--09h30-12h30-14h00-18h00 | V--09h30-12h30-14h00-18h00",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "TECHNEW",
@@ -3305,14 +3499,15 @@
     "code_postal": "13120",
     "ville": "GARDANNE",
     "telephone": "04 13 10 40 94",
-    "email": null,
+    "email": "alexis@technew.fr",
     "site_web": null,
     "siret": null,
     "responsable_nom": "meroni",
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "CYBERMANIA BUREAUTIQUE - SYNKSO",
@@ -3329,7 +3524,8 @@
     "responsable_prenom": "Stephane",
     "responsable_fonction": "DIRECTEUR BUREAUTIQUE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SARL LABBE",
@@ -3346,7 +3542,8 @@
     "responsable_prenom": "ERIC",
     "responsable_fonction": "GERANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "RV ELEC",
@@ -3355,7 +3552,7 @@
     "adresse": "34 RUE PAROISSE",
     "code_postal": "13390",
     "ville": "AURIOL",
-    "telephone": "06 35 37 88 32",
+    "telephone": null,
     "email": "ROMAIN.VIACARA.ELEC@GMAIL.COM",
     "site_web": null,
     "siret": null,
@@ -3363,7 +3560,8 @@
     "responsable_prenom": "ROMAIN",
     "responsable_fonction": "GERANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Technicien fibre",
@@ -3372,7 +3570,7 @@
     "adresse": "7 chemin de la plaine",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "06 58 06 92 61",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -3380,7 +3578,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SONEPAR FRANCE DISTRIBUTION",
@@ -3389,7 +3588,7 @@
     "adresse": "90 rue Frédéric JOLIOT",
     "code_postal": "13290",
     "ville": "AIX EN PROVENCE",
-    "telephone": "07 87 85 90 85 / 06 83 89 28 03",
+    "telephone": "/",
     "email": null,
     "site_web": null,
     "siret": null,
@@ -3397,7 +3596,8 @@
     "responsable_prenom": "Charlyne",
     "responsable_fonction": "RESPONSABLE RH",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "GR computer",
@@ -3406,7 +3606,7 @@
     "adresse": "8 rue de l'étoile",
     "code_postal": "13124",
     "ville": "PEYPIN",
-    "telephone": "07 63 59 73 97",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -3414,7 +3614,8 @@
     "responsable_prenom": "Guillaume",
     "responsable_fonction": "Dirigeant",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "CGE Distribution",
@@ -3431,7 +3632,8 @@
     "responsable_prenom": "Julien",
     "responsable_fonction": "GERANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "CGE DISTRIBUTION",
@@ -3448,7 +3650,8 @@
     "responsable_prenom": "Julien",
     "responsable_fonction": "GERANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "METAPROD",
@@ -3457,7 +3660,7 @@
     "adresse": "117 rue Saint Jacques",
     "code_postal": "13006",
     "ville": "Marseille 6e Arrondissement",
-    "telephone": "07 51 19 60 95",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -3465,7 +3668,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "LORD OF WEB",
@@ -3475,23 +3679,24 @@
     "code_postal": "13480",
     "ville": "CABRIES",
     "telephone": "04 65 01 12 71",
-    "email": null,
+    "email": "alexandre@lordofweb.com",
     "site_web": null,
     "siret": null,
     "responsable_nom": "TRIVELLA",
     "responsable_prenom": "Alexandre",
     "responsable_fonction": "GÉRANT",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "OGURY",
-    "activite_metier": "Publibité / Développeur",
+    "activite_metier": "Publibité/ Développeur",
     "accepte_stagiaires": true,
     "adresse": "126 ace Ste Victoire",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "06 12 32 66 19",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -3499,16 +3704,17 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "MG RENOV HABITAT",
-    "activite_metier": "Rénovation / ELECTRICITE GENERAL",
+    "activite_metier": "Rénovation/ ELECTRICITE GENERAL",
     "accepte_stagiaires": true,
     "adresse": "157 rue des vignes",
     "code_postal": "13780",
     "ville": "CUGES-LES-PINS",
-    "telephone": "06 09 03 46 61",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -3516,7 +3722,8 @@
     "responsable_prenom": "Philippe",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SNCF Réseau",
@@ -3533,7 +3740,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ETE RESEAUX",
@@ -3550,7 +3758,8 @@
     "responsable_prenom": "Lionel",
     "responsable_fonction": "RESPONSABLE AGENCE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "societé reseaux telecom",
@@ -3559,7 +3768,7 @@
     "adresse": "142 chemin de la bonde",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "06 21 39 66 33",
+    "telephone": null,
     "email": "rouiswessem@gmail.com",
     "site_web": null,
     "siret": null,
@@ -3567,7 +3776,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Asap Network",
@@ -3577,18 +3787,19 @@
     "code_postal": "13790",
     "ville": "ROUSSET",
     "telephone": "04 84 90 09 05",
-    "email": null,
+    "email": "romain.gaillard@asapnetwork.pro",
     "site_web": null,
     "siret": null,
     "responsable_nom": null,
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "Centre Hospitalier de la Timone",
-    "activite_metier": "SANTE / Informatique",
+    "activite_metier": "SANTE/ Informatique",
     "accepte_stagiaires": true,
     "adresse": "265 rue saint pierre",
     "code_postal": "13005",
@@ -3601,7 +3812,8 @@
     "responsable_prenom": "Philippe",
     "responsable_fonction": "DIRECTEUR",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "PMS PROVENCE",
@@ -3618,11 +3830,12 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "DDSIS 13",
-    "activite_metier": "SÉCURITÉ DES PERSONNES / SECRÉTARIAT",
+    "activite_metier": "SÉCURITÉ DES PERSONNES/ SECRÉTARIAT",
     "accepte_stagiaires": true,
     "adresse": "1, AVENUE BOISBAUDRAN, ZI DE LA DELORME, CEDEX 15",
     "code_postal": "13326",
@@ -3635,7 +3848,8 @@
     "responsable_prenom": "Xavier",
     "responsable_fonction": "Chef de groupement SIC",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SDIS13 MARSEILLE 15ème",
@@ -3644,7 +3858,7 @@
     "adresse": "1 AVENUE BOISBAUDRAN",
     "code_postal": "13015",
     "ville": "Marseille 15e Arrondissement",
-    "telephone": "04 91 28 47 56 / 04 51 28 47 47",
+    "telephone": "04 91 28 47 56/ 04 51 28 47 47",
     "email": "gilles-uglietta@sdis13.fr",
     "site_web": null,
     "siret": null,
@@ -3652,16 +3866,17 @@
     "responsable_prenom": "Xavier",
     "responsable_fonction": "Chef de groupement SIC",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "B2C TRAVEL EVENTS",
-    "activite_metier": "SERVICE DE BUREAUTIQUE / SERVICES ADMINISTRATIFS",
+    "activite_metier": "SERVICE DE BUREAUTIQUE/ SERVICES ADMINISTRATIFS",
     "accepte_stagiaires": true,
     "adresse": "240 ROUTE BLANCHE",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "04 42 39 29 58 / 06 18 43 38 39",
+    "telephone": "04 42 39 29 58/",
     "email": "cathy@b2ctravelevents.com",
     "site_web": null,
     "siret": "52004371200022",
@@ -3669,7 +3884,8 @@
     "responsable_prenom": "CATHY",
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Mairie de Trets",
@@ -3679,14 +3895,15 @@
     "code_postal": "13350",
     "ville": "TRETS",
     "telephone": "04 42 37 55 00",
-    "email": null,
+    "email": "a.bottalico@ville-de-trets.fr",
     "site_web": null,
     "siret": null,
     "responsable_nom": "CHAUVIN",
     "responsable_prenom": "PASCAL",
     "responsable_fonction": "Maire",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "METROPOLE AIX MARSEILLE",
@@ -3703,7 +3920,8 @@
     "responsable_prenom": "MARTINE",
     "responsable_fonction": "PRESIDENTE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "NEUTRINO",
@@ -3720,7 +3938,8 @@
     "responsable_prenom": "CHRISTOPHE",
     "responsable_fonction": "Responsable d'exploitation",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SERVICE INFORMATIQUE LA TIMONE",
@@ -3737,7 +3956,8 @@
     "responsable_prenom": "Celine",
     "responsable_fonction": "Technicien Informatique",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "CGI",
@@ -3746,7 +3966,7 @@
     "adresse": "Immeuble le quartz, 125 Avenue de Galilée",
     "code_postal": "13100",
     "ville": "AIX EN PROVENCE",
-    "telephone": "04 42 97 22 20 / 06 67 92 03 51",
+    "telephone": "04 42 97 22 20/",
     "email": null,
     "site_web": null,
     "siret": null,
@@ -3754,7 +3974,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SGAMI SUD-DSIC",
@@ -3764,14 +3985,15 @@
     "code_postal": "13014",
     "ville": "Marseille 14e Arrondissement",
     "telephone": "04 84 35 31 20",
-    "email": null,
+    "email": "roseline.bard@interieur.gouv.fr",
     "site_web": null,
     "siret": null,
     "responsable_nom": "SECCHI",
     "responsable_prenom": "Nadia",
     "responsable_fonction": "Directeur RH",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "SARL Agence Française de Sécurité",
@@ -3788,7 +4010,8 @@
     "responsable_prenom": "NICOLAS",
     "responsable_fonction": "CO-GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SNEF vitrolles",
@@ -3800,12 +4023,13 @@
     "telephone": "04 86 37 50 74",
     "email": "septemes@snef.fr",
     "site_web": null,
-    "siret": "5680065901351",
+    "siret": "5351",
     "responsable_nom": "PESALORO",
     "responsable_prenom": null,
     "responsable_fonction": "Chef d'Agence",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Groupe SNEF systèmes urbain",
@@ -3822,7 +4046,8 @@
     "responsable_prenom": "Christophe",
     "responsable_fonction": "Chef d'Agence",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SNEF",
@@ -3834,12 +4059,13 @@
     "telephone": "04 86 37 50 74",
     "email": "thierry.peyrefiche@snef.fr",
     "site_web": null,
-    "siret": "5680065901351",
+    "siret": "5351",
     "responsable_nom": "PESALORO",
     "responsable_prenom": "CHRISTOPHE",
     "responsable_fonction": "Chef d'Agence",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SIXTEL SARL",
@@ -3848,7 +4074,7 @@
     "adresse": "19 RUE DES DAPHNEE",
     "code_postal": "13120",
     "ville": "BIVER",
-    "telephone": "06 69 38 90 10",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -3856,7 +4082,8 @@
     "responsable_prenom": null,
     "responsable_fonction": "GERANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "TSI Telecom",
@@ -3865,7 +4092,7 @@
     "adresse": "21 rue Cougit",
     "code_postal": "13015",
     "ville": "Marseille 15e Arrondissement",
-    "telephone": "06 58 29 11 65",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": "824768063",
@@ -3873,7 +4100,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "PHONE SERVICE",
@@ -3890,7 +4118,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "CIRCET",
@@ -3899,7 +4128,7 @@
     "adresse": "1652 avenue Paul Jullien",
     "code_postal": "13100",
     "ville": "LE THOLONET",
-    "telephone": "04 94 13 58 58 / 04 94 33 68 65",
+    "telephone": "04 94 13 58 58/ 04 94 33 68 65",
     "email": null,
     "site_web": null,
     "siret": null,
@@ -3907,7 +4136,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SIXTEL",
@@ -3924,7 +4154,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SARL Net Process",
@@ -3941,7 +4172,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SIXTEL",
@@ -3950,7 +4182,7 @@
     "adresse": "19 rue des daphnees",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "04 42 29 51 19 / 06 69 38 90 10",
+    "telephone": "04 42 29 51 19/",
     "email": "thierry.blanc@sixtel.fr",
     "site_web": null,
     "siret": null,
@@ -3958,7 +4190,8 @@
     "responsable_prenom": "Thierry",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SIXTEL",
@@ -3975,7 +4208,8 @@
     "responsable_prenom": "Fabre",
     "responsable_fonction": "GERANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Predictiv Pro SAS",
@@ -3987,12 +4221,13 @@
     "telephone": null,
     "email": null,
     "site_web": null,
-    "siret": "88047268300049",
+    "siret": "88049",
     "responsable_nom": "ROCHE",
     "responsable_prenom": "Gladys",
     "responsable_fonction": "RESPONSABLE RH",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "FREE RESEAU",
@@ -4001,7 +4236,7 @@
     "adresse": "16 RUE DE LA VILLE L'EVEQUE",
     "code_postal": "75008",
     "ville": "PARIS",
-    "telephone": "07 69 14 33 87",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": "41939293100053",
@@ -4009,7 +4244,8 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "SS SERVICE L'ATELIER DU MOBILE",
@@ -4026,7 +4262,8 @@
     "responsable_prenom": "Simon",
     "responsable_fonction": "RESPONSABLE",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "Sarl GO GSM",
@@ -4043,7 +4280,8 @@
     "responsable_prenom": "Yousef",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "GSM Business",
@@ -4052,7 +4290,7 @@
     "adresse": "2 Rue armeny",
     "code_postal": "13006",
     "ville": "Marseille 6e Arrondissement",
-    "telephone": "06 01 46 91 08",
+    "telephone": null,
     "email": "gsmbusiness13@icloud.com",
     "site_web": null,
     "siret": null,
@@ -4060,7 +4298,8 @@
     "responsable_prenom": "David",
     "responsable_fonction": "PRÉSIDENT",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "TNT IP SOLUTIONS",
@@ -4077,7 +4316,8 @@
     "responsable_prenom": "Christian",
     "responsable_fonction": "PRÉSIDENT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "ASCO6TEM",
@@ -4086,7 +4326,7 @@
     "adresse": "267 Chem. le Courredou, 267 IMPASSE DES FOUNSES",
     "code_postal": "83570",
     "ville": "CARCES",
-    "telephone": "06 11 52 82 76",
+    "telephone": null,
     "email": null,
     "site_web": null,
     "siret": null,
@@ -4094,7 +4334,8 @@
     "responsable_prenom": "Stephane",
     "responsable_fonction": "GÉRANT",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "SYNERGITECH",
@@ -4111,11 +4352,12 @@
     "responsable_prenom": "Thierry",
     "responsable_fonction": "DIRECTEUR",
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true
   },
   {
     "nom": "GRAND PORT MARITIME DE MARSEILLE",
-    "activite_metier": "TRANSPORT / ELECTROTECHNIQUE",
+    "activite_metier": "TRANSPORT/ ELECTROTECHNIQUE",
     "accepte_stagiaires": true,
     "adresse": "SR3E, 2 bd des bassins de radoub, bat St Casien",
     "code_postal": "13002",
@@ -4123,12 +4365,13 @@
     "telephone": "04 91 39 51 05",
     "email": null,
     "site_web": null,
-    "siret": "77555848900016",
+    "siret": "00016",
     "responsable_nom": "BAKHACHE",
     "responsable_prenom": "NATHALIE",
     "responsable_fonction": "Secrétaire Général",
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
   },
   {
     "nom": "DOC.PHONE",
@@ -4137,7 +4380,7 @@
     "adresse": "47 cours Forbin",
     "code_postal": "13120",
     "ville": "GARDANNE",
-    "telephone": "07 73 52 60 92",
+    "telephone": null,
     "email": "YISPHONE13015@GMAIL.COM",
     "site_web": null,
     "siret": null,
@@ -4145,6 +4388,1727 @@
     "responsable_prenom": null,
     "responsable_fonction": null,
     "horaires": "Les horaires sont désactivés",
-    "commentaire": null
+    "commentaire": null,
+    "lieu_stage_2025_2026": false
+  },
+  {
+    "nom": "CHIAP Hopital Du Pays d'Aix",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "Avenue des Tamaris",
+    "code_postal": "13080",
+    "ville": "AIX-EN-PROVENCE",
+    "telephone": "04 42 33 91 12/ 04 42 33 32 54",
+    "email": "sdaniel@ch-aix.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "ATA ELECTRONICS",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "ZAC Carreau de la Mine",
+    "code_postal": "13590",
+    "ville": "MEYREUIL",
+    "telephone": "04 42 58 53 53",
+    "email": "r.rodriguez@ata-electronics.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "electronique / robotique"
+  },
+  {
+    "nom": "VARTEC",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "533 Av. des chasséens",
+    "code_postal": "13120",
+    "ville": "GARDANNE",
+    "telephone": "04 42 52 80 58",
+    "email": "nicolas@vartec.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "Domoture",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "Place petit blanc",
+    "code_postal": "13011",
+    "ville": "MARSEILLE",
+    "telephone": null,
+    "email": "domoture@gmail.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "GROUPE & SOLUTIONS",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "117 Rue d'Italie",
+    "code_postal": "13006",
+    "ville": "MARSEILLE 6E ARRONDISSEMENT",
+    "telephone": "04 96 14 17 37",
+    "email": "nadia.raffin@groupesolutions.net",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "Média clinique Saint Maximin",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "Route d'Aix",
+    "code_postal": "83470",
+    "ville": "SAINT-MAXIMIN-LA-SAINTE-BAUME (+ 594)06 94 78",
+    "telephone": null,
+    "email": null,
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "DIGITAL VIRGO FRANCE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "350 Rue Denis Papin",
+    "code_postal": "13594",
+    "ville": "AIX-EN-PROVENCE",
+    "telephone": "04 37 48 22 57/ 04 86 91 56 36",
+    "email": "agnes.filaferro@digitalvirgo.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "entente pour la foret méditerranéenne",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "domaine de valabre RD7",
+    "code_postal": "13120",
+    "ville": "GARDANNE",
+    "telephone": "04 42 60 86 50/ 04 42 60 88 00/ 04 42 60 86 76",
+    "email": "a.masson@valabre.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "telecom / fibre"
+  },
+  {
+    "nom": "LAFARGE CIMENTS",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "795 av des frères Lumière",
+    "code_postal": "13320",
+    "ville": "BOUC-BEL-AIR",
+    "telephone": "04 42 94 20 38/ 04 42 94 20 00",
+    "email": "marion.quinquis@lafarge.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "electricite / electrotechnique"
+  },
+  {
+    "nom": "AIX SERVICES MENAGERS - A.S.M.",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "11 rue blaise cendrars ENCAGNANE",
+    "code_postal": "13100",
+    "ville": "AIX-EN-PROVENCE",
+    "telephone": "04 42 59 46 68",
+    "email": null,
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "SOLIVE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "4 BOULEVARD GUEIDON",
+    "code_postal": "13013",
+    "ville": "MARSEILLE",
+    "telephone": "04 91 35 98 47",
+    "email": "patrick@solive13.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "SOCERAM",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "27 Avenue des Goums",
+    "code_postal": "13400",
+    "ville": "AUBAGNE",
+    "telephone": "04 42 03 20 03",
+    "email": "soceram@wanadoo.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "Leroy Merlin Aubagne",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "avenue de la baumone ZAC PASTRE 2",
+    "code_postal": "13400",
+    "ville": "AUBAGNE",
+    "telephone": "04 42 84 60 00",
+    "email": "oceane.martinez@leroymerlin.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "MAIRIE DE SEPTEMES LES VALLONS",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "Place Didier Tramoni",
+    "code_postal": "13240",
+    "ville": "SEPTEMES LES VALLONS",
+    "telephone": "04 91 96 31 09/ 04 91 96 31 06",
+    "email": "personnel@ville-septemes.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "SERENITY IMMO",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "143 AVENUE DU 8 MAI 1945",
+    "code_postal": "13240",
+    "ville": "SEPTEMES-LES-VALLONS",
+    "telephone": "04 65 84 66 40",
+    "email": "damien@serenity-immo.net",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "MAIRIE DE GARDANNE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "Place de l'Hotel de Ville",
+    "code_postal": "13120",
+    "ville": "GARDANNE",
+    "telephone": "04 42 51 79 00/ 04 42 51 78 80/ 04 42 51 55 56",
+    "email": "sav-informatique@ville-gardanne.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "NEOWAVE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "POLE D'ACTIVITES Y. MORANDAT 1480 AVENUE D’ARMENIE",
+    "code_postal": "13120",
+    "ville": "GARDANNE",
+    "telephone": "04 42 50 70 05",
+    "email": "bruno.bernard@neowave.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "electronique / robotique"
+  },
+  {
+    "nom": "IMAGE 2 MARQUE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "37 Rue saint sebastien",
+    "code_postal": "13006",
+    "ville": "MARSEILLE 6E ARRONDISSEMENT",
+    "telephone": null,
+    "email": "contact@amage2marque.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "CRoF club robotique Fourcade",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "avenue du groupe Manouchian",
+    "code_postal": "13120",
+    "ville": "GARDANNE",
+    "telephone": null,
+    "email": "jp.bourguet@free.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "electronique / robotique"
+  },
+  {
+    "nom": "ADF business Partner 12 voie d'angleterre",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": null,
+    "code_postal": "13370",
+    "ville": "VITROLLES",
+    "telephone": null,
+    "email": "thomas.ballester@groupeadf.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "DIGITALBUSINESS CARRES DE L ENFANT C",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "140 AVENUE DU DOUZE JUILLET 1998",
+    "code_postal": "13080",
+    "ville": "AIX-EN-PROVENCE",
+    "telephone": null,
+    "email": "m.lefebvre@digital4b.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "UBROKE IFIX MY HOME",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "CENTRE COMMERCIAL Chemin de la grande campagne",
+    "code_postal": "13480",
+    "ville": "CABRIÈS",
+    "telephone": "04 42 49 36 16",
+    "email": null,
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "HOMEPERF LES PLEIADES III BATIMENT C",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "320 AVENUE ARCHIMEDE",
+    "code_postal": "13290",
+    "ville": "AIX-EN-PROVENCE",
+    "telephone": "04 86 91 04 00",
+    "email": "claude.celestine@homeperf.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "MEGACHIP SARL ELECTRON",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "ZI SAINT JOSEPH - BATIMENT ACTIPLUS SAINT JOSEPH",
+    "code_postal": "04100",
+    "ville": "MANOSQUE",
+    "telephone": "04 92 87 23 22",
+    "email": "contact@megachil.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "electronique / robotique"
+  },
+  {
+    "nom": "GERAL",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "rue edouard branly ZI La Pélissière",
+    "code_postal": "01300",
+    "ville": "BELLEY",
+    "telephone": "04 79 81 49 01",
+    "email": "nardini@geral.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "electricite / electrotechnique"
+  },
+  {
+    "nom": "MAIRIE DE SEPTEME LES VALLONS MAIRIE DE SEPTEME LES VALLONS",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "PLACE PIERRE TRAMONI",
+    "code_postal": "13240",
+    "ville": "SEPTÈMES-LES-VALLONS",
+    "telephone": "04 91 96 31 29/ 04 91 96 31 06",
+    "email": "benjaminkenler@ville-septemes.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "SARL TAHA stataion service Payanet Petit",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "chemin d'Aix CD6",
+    "code_postal": "18120",
+    "ville": "GARDANNE",
+    "telephone": "04 42 58 00 53",
+    "email": "zsaif974@gmail.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "AZUR TECH&ELEC SERVICES",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "306 RUE SAINT PIERRE",
+    "code_postal": "13005",
+    "ville": "MARSEILLE",
+    "telephone": null,
+    "email": "ats13005@free.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "electricite / electrotechnique"
+  },
+  {
+    "nom": "EREM",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "Lot n°61 ZI LA PALUN",
+    "code_postal": "13120",
+    "ville": "GARDANNE",
+    "telephone": "04 42 65 77 90",
+    "email": "erem.administratif@free.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "electricite / electrotechnique"
+  },
+  {
+    "nom": "MOUZAIA Transport",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "27 Avenue du Général Gaule",
+    "code_postal": "94500",
+    "ville": "CHAMPIGNY-SUR-MARNE",
+    "telephone": null,
+    "email": "mouzaiatransport@gmail.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "EP TOULON",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "65 Bd carnot",
+    "code_postal": "13120",
+    "ville": "GARDANNE",
+    "telephone": null,
+    "email": "anisyoussagouri@gmail.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "CLIM EXPERT SUD",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "931 ROUTE DE ROUMOULES",
+    "code_postal": "04500",
+    "ville": "RIEZ",
+    "telephone": "04 89 51 32 24",
+    "email": "contact.climexpertsud@gmail.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "electricite / electrotechnique"
+  },
+  {
+    "nom": "MAGELLAN AEROSPACE PROVENCE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "ZAC DES FLORIDES BD JEAN LOU CHRETIEN",
+    "code_postal": "13700",
+    "ville": "MARIGNANE",
+    "telephone": "04 42 10 80 80/ 04 42 10 80 89",
+    "email": "audrey.unola@magellan.aero",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "ALTEO",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "ROUTE DE BIVER BP 62",
+    "code_postal": "13120",
+    "ville": "GARDANNE",
+    "telephone": "04 42 65 28 69",
+    "email": "stefania.provasi@alteo-alumina.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "Mairie de MEYREUIL",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "Hotel de ville Allée des platanes",
+    "code_postal": "13590",
+    "ville": "MEYREUIL",
+    "telephone": "04 42 65 90 65/ 04 42 51 12 34",
+    "email": null,
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "ORION ENGINEERED CARBONS FRANCE SAS CD 21 A",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "Route departementale 21F L AUBETTE",
+    "code_postal": "13130",
+    "ville": "BERRE L'ETANG",
+    "telephone": null,
+    "email": "loic.moreau@orioncarbons.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "RECRUT-INFO",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "26 RUE KRUGER",
+    "code_postal": "13120",
+    "ville": "GARDANNE",
+    "telephone": null,
+    "email": "eric@recrut-info.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "CONSTRUCTEL ENERGIE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "chemin de la meunière",
+    "code_postal": "13480",
+    "ville": "CABRIÈS",
+    "telephone": null,
+    "email": "marcoabrantes@constructel.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "telecom / fibre"
+  },
+  {
+    "nom": "LOCILEC BAT B DOM DE L ESCAPADE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": null,
+    "code_postal": "13100",
+    "ville": "LE THOLONET",
+    "telephone": "04 42 66 38 50",
+    "email": "motambilel@gmail.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "electricite / electrotechnique"
+  },
+  {
+    "nom": "SIMA MECA",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "AVENUE DE LA PLAINE ZI",
+    "code_postal": "13106",
+    "ville": "ROUSSET CEDEX",
+    "telephone": "04 42 29 06 43",
+    "email": "rh@simagec.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "electricite / electrotechnique"
+  },
+  {
+    "nom": "VIVRE MOBILE DUAL COM",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "162 AVENUE DE st ANTOINE",
+    "code_postal": "13015",
+    "ville": "MARSEILLE 15E ARRONDISSEMENT",
+    "telephone": "04 91 03 62 69/ 04 91 03 62 65",
+    "email": "yisphone13015@gmail.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "CLIMENERGY",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "15 BOULEVARD DE LA LIMITE",
+    "code_postal": "13015",
+    "ville": "MARSEILLE",
+    "telephone": null,
+    "email": "climguentas@gmail.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "QUALITY INSURANCE SERVICES France",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "350 Avenue JRGG de la Lauzière",
+    "code_postal": "13080",
+    "ville": "AIX-EN-PROVENCE",
+    "telephone": null,
+    "email": "brahim.cherkaoui@myqiservices.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "MC HIGH TECH LA CHAF ACHAT VENTE 26",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "82 avenue jean jaures",
+    "code_postal": "26200",
+    "ville": "MONTELIMAR",
+    "telephone": "09 81 96 60 15",
+    "email": null,
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "MAAROF Abdelkader 425",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "avenue Ste Victoire Ribassou",
+    "code_postal": "13120",
+    "ville": "GARDANNE",
+    "telephone": null,
+    "email": "kadermaarof@hotmail.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "MAIRIE DE ROUSSET",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "Place paul borde",
+    "code_postal": "13790",
+    "ville": "ROUSSET",
+    "telephone": "04 42 52 92 93/ 04 42 29 02 35/ 04 42 29 18 62",
+    "email": null,
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "RTE GET Provence Alpes du Sud",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "AVENUE DES CHABAUDS 251 rue louis lepine",
+    "code_postal": "13120",
+    "ville": "BOUC-BEL-AIR",
+    "telephone": "04 42 65 67 00/ 04 42 65 67 61",
+    "email": "esmeralda.pettenuzzo@rte-france.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "electricite / electrotechnique"
+  },
+  {
+    "nom": "SUD EST ELECTRIC",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "ZI SAINT MITRE II CHEMIN DE LA VALLEE",
+    "code_postal": "13400",
+    "ville": "AUBAGNE",
+    "telephone": "04 42 03 17 18",
+    "email": "sudest-elec@orange.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "telecom / fibre"
+  },
+  {
+    "nom": "RISK SECURITE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "102 AVENUE DES CHAMPS ELYSEES",
+    "code_postal": "75008",
+    "ville": "PARIS",
+    "telephone": "09 80 80 35 01",
+    "email": "contact@risk-securite.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "securite / courant faible"
+  },
+  {
+    "nom": "MAINTENANCE PRODUCTIONS INDUSTRIELLES",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "LOT D7 ZAC DE FONTVIEILLE",
+    "code_postal": "13190",
+    "ville": "ALLAUCH",
+    "telephone": "09 60 09 19 59",
+    "email": "contact@mpisc.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "electricite / electrotechnique"
+  },
+  {
+    "nom": "LOGIC SYSTEM",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "PARC EUROFLORY 196 ALLEE ALFRED KASTLER",
+    "code_postal": "13130",
+    "ville": "BERRE-L'ETANG",
+    "telephone": "04 42 06 71 93",
+    "email": "berre@districash.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "SOCIETE MARSEILLAISE DU TUNNEL PRADO-CARENAGE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "3 AV ARTHUR SCOTT",
+    "code_postal": "13010",
+    "ville": "MARSEILLE 10EME",
+    "telephone": "04 91 80 51 59",
+    "email": "v.raquet@tunnelprado.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "TITAN AERO",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "ZI LES MILLES 675 RUE ALBERT EINSTEIN",
+    "code_postal": "13100",
+    "ville": "AIX-EN-PROVENCE",
+    "telephone": null,
+    "email": "g.sautel@titan-aero.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "CONCEPT ECO CVC RES ARLEQUIN BAT. A2",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "9 rue hoche",
+    "code_postal": "13120",
+    "ville": "GARDANNE",
+    "telephone": null,
+    "email": "concept-eco-cvc@outlook.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "electricite / electrotechnique"
+  },
+  {
+    "nom": "BARTH'SECURE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "183 RUE DE LA FONTAINE",
+    "code_postal": "13119",
+    "ville": "SAINT-SAVOURNIN",
+    "telephone": null,
+    "email": "contact@barthsecure.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "securite / courant faible"
+  },
+  {
+    "nom": "COLLÈGE DU PESQUIER",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "BP",
+    "code_postal": "60129",
+    "ville": "RUE CHARLES PAURIOL 13120 GARDANNE",
+    "telephone": "04 42 65 91 50",
+    "email": "ati.0131700c@ac-aix-marseille.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "COMPAGNIE MERIDIONALE D'APPLICATIONS THERMIQUES CMT LES MILLES",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "135 RUE EMILIEN GAUTIER",
+    "code_postal": "13290",
+    "ville": "AIX-EN-PROVENCE",
+    "telephone": null,
+    "email": "s.kanel@cmtfrance.en",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "Eiffage energie systèmes Méditerranée",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "ZA du ROURABEAU",
+    "code_postal": "13115",
+    "ville": "SAINT-PAUL-LÈS-DURANCE",
+    "telephone": "04 42 57 42 19",
+    "email": "stephane.lale-castain@eiffage.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "La PASSERELLE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "7 avenue des Anémones",
+    "code_postal": "13120",
+    "ville": "GARDANNE",
+    "telephone": "04 42 51 71 25",
+    "email": "stages@ville-gardanne.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "NES 13",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "57 avenue de Nice CCIAL LA PALUN",
+    "code_postal": "13120",
+    "ville": "GARDANNE",
+    "telephone": null,
+    "email": "sarlnes13@hotmail.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "ESPACE ENVIRONNEMENT",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "721 ROUTE BLANCHE",
+    "code_postal": "13120",
+    "ville": "GARDANNE",
+    "telephone": null,
+    "email": null,
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "SASU TEAMOPTIQUE SASU TEAOPTIQUE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "18 Chemin de mimet",
+    "code_postal": "13015",
+    "ville": "MARSEILLE 15E ARRONDISSEMENT",
+    "telephone": null,
+    "email": "teamoptique@gmail.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "MAIRIE DE FUVEAU",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "24 BOULEVARD LOUBET",
+    "code_postal": "13710",
+    "ville": "FUVEAU",
+    "telephone": "04 42 65 65 00/ 04 42 65 65 04",
+    "email": "accueil@mairie-fuveau.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "ICE MOBILE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "19 RUE BEDARRIDES",
+    "code_postal": "13100",
+    "ville": "AIX-EN-PROVENCE",
+    "telephone": null,
+    "email": "mymobilaix@gmail.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "EPS/SPE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "chemin de la muscatelle Bat G",
+    "code_postal": "13790",
+    "ville": "CHÂTEAUNEUF-LE-ROUGE",
+    "telephone": "04 42 51 42 80/ 04 42 51 00 87",
+    "email": "jm.ragot@eps-spe.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "electronique / robotique"
+  },
+  {
+    "nom": "SNCF Sérvice informatique Marseille SNCF 574",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "37 Rue guibal",
+    "code_postal": "13003",
+    "ville": "MARSEILLE 3E ARRONDISSEMENT",
+    "telephone": "01 53 25 60 00",
+    "email": "solenne.ducrot@sncf.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "CITOPHONE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "CC GRAND LITTORAL ETAGE 1 - PORTE 3 AVENUE DE SAINT ANTOINE",
+    "code_postal": "13015",
+    "ville": "MARSEILLE",
+    "telephone": null,
+    "email": "contact@citphone.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "securite / courant faible"
+  },
+  {
+    "nom": "PHOENIX LOGISTIC CENTRE D'AFFAIRE AMONBURO",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "98 BOULEVARD DE L'EUROPE",
+    "code_postal": "13127",
+    "ville": "VITROLLES",
+    "telephone": null,
+    "email": null,
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "EURL EDA MEYREUIL",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "Route de Trets - Site Sauvaire",
+    "code_postal": "13590",
+    "ville": "MEYREUIL",
+    "telephone": "04 42 65 82 73/ 04 42 65 22 22",
+    "email": "carole@edameyreuil.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "electricite / electrotechnique"
+  },
+  {
+    "nom": "FAST MOBILE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "1 RUE DE ROME",
+    "code_postal": "13001",
+    "ville": "MARSEILLE",
+    "telephone": null,
+    "email": "mobileandrepair13@gmail.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "APHM La Timone",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "24 rue Saint-Pierre",
+    "code_postal": "13005",
+    "ville": "MARSEILLE 5E ARRONDISSEMENT",
+    "telephone": "04 91 38 44 09/ 04 92 38 42 06",
+    "email": "celine.cordalo@ap-hm.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "VIAXOFT",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "30 Rue marc donadille",
+    "code_postal": "13013",
+    "ville": "MARSEILLE 13E ARRONDISSEMENT",
+    "telephone": "09 72 35 81 00",
+    "email": null,
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "COMPUTERLINE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "TECHNOPOLE DU MOULIN RP DU CANET",
+    "code_postal": "13590",
+    "ville": "MEYREUIL",
+    "telephone": "04 42 58 64 12",
+    "email": "compta@computerline.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "electronique / robotique"
+  },
+  {
+    "nom": "CCAS LES LIGOURES",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "place Romée de Villeuneuve",
+    "code_postal": "13100",
+    "ville": "AIX-EN-PROVENCE CEDEX",
+    "telephone": "04 42 17 99 99/ 04 42 99 06 10",
+    "email": null,
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "CENTRE COMMUNAL D'ACTION SOCIALE LE LIGOURES",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "PLACE ROMEE DE VILLENEUVE",
+    "code_postal": "13100",
+    "ville": "AIX-EN-PROVENCE",
+    "telephone": "04 42 17 99 99",
+    "email": "stephanerosoli@ccasaixenprovence.org",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "CHIAP",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "Avenue des Tamaris cedex 01",
+    "code_postal": "13616",
+    "ville": "AIX EN PROVENCE",
+    "telephone": "04 42 33 91 12/ 04 42 33 92 54",
+    "email": "sdaniel@ch-aix.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "Troc Cash and Game",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "Rue Jules Ferry",
+    "code_postal": "13120",
+    "ville": "GARDANNE",
+    "telephone": null,
+    "email": "troccashgame@gmail.com",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "ASSISTELEC ASSISTELEC",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "42 BOULEVARD DE LA PADOUANE Z.A. ARTIZANORD LOT NO 212",
+    "code_postal": "13015",
+    "ville": "MARSEILLE",
+    "telephone": null,
+    "email": "asistelec@sfr.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "electricite / electrotechnique"
+  },
+  {
+    "nom": "INTRAMAR",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "STS GPMM TERMINAL A MOUREPIANE Impasse Sanguinetti",
+    "code_postal": "13016",
+    "ville": "MARSEILLE",
+    "telephone": "04 91 09 60 00/ 04 91 09 60 27",
+    "email": "it@medeurope.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "telecom / fibre"
+  },
+  {
+    "nom": "STCE PROVENCE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "Les carrés du Cengle, Chem. de la Muscatelle Bât E",
+    "code_postal": "13790",
+    "ville": "CHÂTEAUNEUF-LE-ROUGE",
+    "telephone": "04 42 97 51 30/ 04 42 97 81 42",
+    "email": "d.pierre@stce-provence.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "electricite / electrotechnique"
+  },
+  {
+    "nom": "MAIRIE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "PLACE DE L'HÔTEL DE VILLE",
+    "code_postal": "13112",
+    "ville": "04 42",
+    "telephone": "04 42 04 86 30",
+    "email": "mediatheque@ladestrousse.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "SprayingSystems Autojet France SprayingSystems Autojet France",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "45 av des chausséens",
+    "code_postal": "13120",
+    "ville": "GARDANNE",
+    "telephone": "04 42 50 92 59/ 04 42 50 92 81",
+    "email": null,
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - coordonnées réutilisées depuis une adresse déjà connue",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": false,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "Solvo",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "3 rue saint-antoine",
+    "code_postal": "06160",
+    "ville": "ANTIBES",
+    "telephone": null,
+    "email": "constant.mazeran@solvo.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "autre"
+  },
+  {
+    "nom": "KALTEA Aubagne",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "ZI LES PALUDS 80 AVENUE DE LA FLEURIDE",
+    "code_postal": "13400",
+    "ville": "AUBAGNE",
+    "telephone": "04 42 73 90 78",
+    "email": "aubagne@altea.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "electricite / electrotechnique"
+  },
+  {
+    "nom": "CENTRE HOSPITALIER REGIONAL DE MARSEILLE",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "chemin des bourrely",
+    "code_postal": "13015",
+    "ville": "MARSEILLE",
+    "telephone": "04 91 96 58 84/ 04 91 96 45 74",
+    "email": "cedric.estreyer@ap-hm.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
+  },
+  {
+    "nom": "Marie de Port de Bouc",
+    "activite_metier": null,
+    "accepte_stagiaires": true,
+    "adresse": "Hotel de ville Cours Landrivon",
+    "code_postal": "13110",
+    "ville": "PORT-DE-BOUC",
+    "telephone": "04 42 40 65 58",
+    "email": "pierre-yves.marie@portdebouc.fr",
+    "site_web": null,
+    "siret": null,
+    "responsable_nom": null,
+    "responsable_prenom": null,
+    "responsable_fonction": null,
+    "horaires": null,
+    "commentaire": "Lieu de stage 2025-2026 - à géocoder avant affichage sur la carte",
+    "lieu_stage_2025_2026": true,
+    "geocodage_a_faire": true,
+    "categorie_proposee": "informatique"
   }
 ]
