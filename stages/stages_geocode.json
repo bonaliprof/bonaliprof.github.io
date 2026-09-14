@@ -512,14 +512,6 @@
     "lieu_stage_2025_2026": false
   },
   {
-    "nom": "BOULANGER",
-    "categorie": "ciel",
-    "adresse_complete": "BOULANGER, 6bis Avenue des Belges 13100 AIX-EN-PROVENCE CEDEX",
-    "lat": 43.524884,
-    "lng": 5.444275,
-    "lieu_stage_2025_2026": true
-  },
-  {
     "nom": "MC TELECOM",
     "categorie": "telecom / fibre",
     "adresse_complete": "78 rue de rome 13006 Marseille 6e Arrondissement",
@@ -573,14 +565,6 @@
     "adresse_complete": "2 place Gantès 13002 Marseille 2e Arrondissement",
     "lat": 43.308972,
     "lng": 5.368749,
-    "lieu_stage_2025_2026": true
-  },
-  {
-    "nom": "Boulanger",
-    "categorie": "informatique",
-    "adresse_complete": "6 Bis, Avenue des Belges 13080 AIX-EN-PROVENCE",
-    "lat": 43.524884,
-    "lng": 5.444275,
     "lieu_stage_2025_2026": true
   },
   {
@@ -1342,14 +1326,6 @@
     "lat": 43.488053,
     "lng": 5.384805,
     "lieu_stage_2025_2026": false
-  },
-  {
-    "nom": "boulanger",
-    "categorie": "informatique",
-    "adresse_complete": "6 bis avenue des belges 13100 AIX EN PROVENCE",
-    "lat": 43.524884,
-    "lng": 5.444275,
-    "lieu_stage_2025_2026": true
   },
   {
     "nom": "Eleo informatique",
