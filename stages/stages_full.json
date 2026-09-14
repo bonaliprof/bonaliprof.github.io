@@ -1152,24 +1152,6 @@
     "lieu_stage_2025_2026": false
   },
   {
-    "nom": "BOULANGER",
-    "activite_metier": "CIEL",
-    "accepte_stagiaires": true,
-    "adresse": "BOULANGER, 6bis Avenue des Belges",
-    "code_postal": "13100",
-    "ville": "AIX-EN-PROVENCE CEDEX",
-    "telephone": null,
-    "email": "kevin.charle@boulanger.com",
-    "site_web": null,
-    "siret": "34967",
-    "responsable_nom": "ALEDO",
-    "responsable_prenom": "Sandra",
-    "responsable_fonction": "Responsable d'exploitation",
-    "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": null,
-    "lieu_stage_2025_2026": false
-  },
-  {
     "nom": "MC TELECOM",
     "activite_metier": "CIEL",
     "accepte_stagiaires": true,
@@ -1294,24 +1276,6 @@
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
     "commentaire": null,
     "lieu_stage_2025_2026": false
-  },
-  {
-    "nom": "Boulanger",
-    "activite_metier": "Commerce électroménager et Audiovisuel/ RÉPARATION VENTE ORDINATEUR, TABLETTE ET TÉLEPHONE",
-    "accepte_stagiaires": true,
-    "adresse": "6 Bis, Avenue des Belges",
-    "code_postal": "13080",
-    "ville": "AIX-EN-PROVENCE",
-    "telephone": "04 88 71 03 00",
-    "email": "stephanie.gayet@boulanger.com",
-    "site_web": "https://www.boulanger.com/c/robot?at_medium=sl&at_campaign=[marque]&at_platform=google&at_campaign_group=125421483&gclsrc=aw.ds&gad_source=1&gad_campaignid=125421483&gclid=EAIaIQobChMIouzXy_3zjwMVIwMGAB0uxwI-EAAYASAAEgIg4vD_BwE",
-    "siret": "34967",
-    "responsable_nom": "Charle",
-    "responsable_prenom": "Kevin",
-    "responsable_fonction": "DIRECTEUR",
-    "horaires": "Les horaires sont désactivés",
-    "commentaire": "Lieu de stage 2025-2026",
-    "lieu_stage_2025_2026": true
   },
   {
     "nom": "YouOnline",
@@ -3022,24 +2986,6 @@
     "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
     "commentaire": null,
     "lieu_stage_2025_2026": false
-  },
-  {
-    "nom": "boulanger",
-    "activite_metier": "INFORMATIQUE",
-    "accepte_stagiaires": true,
-    "adresse": "6 bis avenue des belges",
-    "code_postal": "13100",
-    "ville": "AIX EN PROVENCE",
-    "telephone": "04 13 54 00 33",
-    "email": "eleoinformatique@gmail.com",
-    "site_web": null,
-    "siret": "34967",
-    "responsable_nom": "ANDRIAMALALA",
-    "responsable_prenom": "LUCAS",
-    "responsable_fonction": "GÉRANT",
-    "horaires": "L--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | M--08h00-12h00-14h00-17h00 | J--08h00-12h00-14h00-17h00 | V--08h00-12h00-14h00-17h00",
-    "commentaire": "Lieu de stage 2025-2026",
-    "lieu_stage_2025_2026": true
   },
   {
     "nom": "Eleo informatique",
