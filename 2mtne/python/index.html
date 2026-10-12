@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="11 exercices progressifs pour découvrir les bases de Python : affichage, variables, calculs, conditions, saisie et boucles.">
+  <meta name="description" content="20 exercices progressifs pour découvrir les bases de Python : affichage, variables, calculs, conditions, saisie et boucles.">
   <title>Exercices Python — Débutant</title>
   <style>
     :root {
@@ -242,6 +242,88 @@
       details.exercise > .exercise-content { display: block; }
       .exercise:not([open]) > .exercise-content { display: block; }
     }
+
+    /* Atelier Python : un volet indépendant sous chaque exercice */
+    .python-workspace {
+      margin-top: 19px;
+      border: 1px solid #c5d5f0;
+      border-radius: 12px;
+      background: #f8fbff;
+      overflow: hidden;
+    }
+    .python-workspace > summary {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 12px 15px;
+      font-weight: 750;
+      color: #173e91;
+      cursor: pointer;
+      list-style: none;
+      font-size: .95rem;
+    }
+    .python-workspace > summary::-webkit-details-marker { display: none; }
+    .python-workspace > summary::after { content: "▾"; font-size: 1.1rem; }
+    .python-workspace[open] > summary::after { content: "▴"; }
+    .python-workspace > summary:hover { background: #eaf1ff; }
+    .python-workspace-body { border-top: 1px solid #d7e4f8; padding: 15px; }
+    .python-workspace .lab-intro { color: var(--muted); margin: 0 0 10px; font-size: .9rem; }
+    .lab-label { display: block; font-size: .86rem; font-weight: 750; margin-bottom: 6px; }
+    .python-editor, .python-stdin {
+      display: block;
+      width: 100%;
+      resize: vertical;
+      border: 1px solid #40506d;
+      border-radius: 9px;
+      padding: 12px;
+      background: var(--code-bg);
+      color: var(--code-text);
+      font: 14px/1.55 Consolas, "Cascadia Code", "Courier New", monospace;
+      tab-size: 4;
+      outline-offset: 2px;
+    }
+    .python-editor { min-height: 165px; }
+    .python-editor:focus, .python-stdin:focus { outline: 2px solid #6292f0; }
+    .lab-input-box { margin-top: 12px; }
+    .lab-input-help { margin: 0 0 7px; font-size: .84rem; color: var(--muted); }
+    .python-stdin { background: #fff; color: var(--text); border-color: #b4c5de; min-height: 65px; }
+    .lab-toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 9px; margin-top: 12px; }
+    .lab-btn {
+      cursor: pointer;
+      background: var(--primary);
+      color: #fff;
+      font: inherit;
+      font-size: .9rem;
+      font-weight: 700;
+      border: 1px solid transparent;
+      border-radius: 8px;
+      padding: 8px 13px;
+    }
+    .lab-btn:hover:not(:disabled) { background: var(--primary-dark); }
+    .lab-btn.secondary { background: #fff; border-color: #c1cfdf; color: #273950; }
+    .lab-btn.secondary:hover:not(:disabled) { background: #eef3fc; }
+    .lab-btn:disabled { opacity: .55; cursor: wait; }
+    .lab-state { color: var(--muted); font-size: .83rem; }
+    .lab-output { margin-top: 12px; }
+    .lab-console {
+      margin: 6px 0 0;
+      padding: 12px;
+      min-height: 55px;
+      max-height: 310px;
+      overflow: auto;
+      border-radius: 9px;
+      border: 1px solid #32405b;
+      background: #121b29;
+      color: #d7f8de;
+      font: 13px/1.6 Consolas, "Cascadia Code", "Courier New", monospace;
+      white-space: pre-wrap;
+      overflow-wrap: anywhere;
+    }
+    .lab-console[data-status="error"] { color: #ffd6ce; }
+    .lab-console[data-status="idle"] { color: #98adc6; }
+    .lab-footnote { color: var(--muted); font-size: .8rem; margin: 9px 0 0; }
+    @media print { .python-workspace { display: none; } }
   </style>
 </head>
 <body>
@@ -256,9 +338,9 @@
     <section class="hero">
       <span class="eyebrow">Python · Niveau débutant</span>
       <h1>Exercices Python</h1>
-      <p>Onze exercices progressifs pour découvrir les bases de Python. Lis l'explication, observe l'exemple, puis réalise le travail demandé sans recopier simplement l'exemple.</p>
+      <p>Vingt exercices progressifs pour découvrir les bases de Python. Lis l'explication, observe l'exemple, puis réalise le travail demandé sans recopier simplement l'exemple.</p>
       <div class="progress-note">
-        <span class="pill">11 exercices</span>
+        <span class="pill">20 exercices</span>
         <span class="pill">Du plus simple au plus complet</span>
         <span class="pill">Affichage · Variables · Conditions · Boucles</span>
       </div>
@@ -307,6 +389,24 @@
           <pre><code>Bonjour
 Je découvre Python !</code></pre>
         </div>
+        <details class="python-workspace" data-exercise="1">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-1">Mon code Python</label>
+            <textarea class="python-editor" id="code-1" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 1"></textarea>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
 
@@ -327,6 +427,24 @@ print(ville)</code></pre>
             <li>Créez une variable <code>age</code> contenant votre âge, puis affichez-la.</li>
           </ol>
         </div>
+        <details class="python-workspace" data-exercise="2">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-2">Mon code Python</label>
+            <textarea class="python-editor" id="code-2" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 2"></textarea>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
 
@@ -354,6 +472,24 @@ b = 5</code></pre>
             <li>la division de <code>a</code> par <code>b</code>.</li>
           </ul>
         </div>
+        <details class="python-workspace" data-exercise="3">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-3">Mon code Python</label>
+            <textarea class="python-editor" id="code-3" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 3"></textarea>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
 
@@ -379,6 +515,24 @@ if x == 3:
           <p>Créez une variable <code>nombre</code> contenant <code>10</code>. Si <code>nombre</code> est égal à <code>10</code>, affichez :</p>
           <pre><code>Le nombre est bien égal à 10</code></pre>
         </div>
+        <details class="python-workspace" data-exercise="4">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-4">Mon code Python</label>
+            <textarea class="python-editor" id="code-4" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 4"></textarea>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
 
@@ -400,6 +554,24 @@ else:
           <pre><code>temperature = 25</code></pre>
           <p>Si la température est strictement supérieure à <code>20</code>, affichez <code>Il fait chaud</code>. Sinon, affichez <code>Il fait froid</code>.</p>
         </div>
+        <details class="python-workspace" data-exercise="5">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-5">Mon code Python</label>
+            <textarea class="python-editor" id="code-5" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 5"></textarea>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
 
@@ -419,6 +591,29 @@ Bonjour Lucas</code></pre>
           <p>Demandez à l'utilisateur son prénom et sa ville. Affichez ensuite une phrase comme celle-ci :</p>
           <pre><code>Bonjour Lucas, tu habites à Gardanne.</code></pre>
         </div>
+        <details class="python-workspace" data-exercise="6">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-6">Mon code Python</label>
+            <textarea class="python-editor" id="code-6" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 6"></textarea>
+            <div class="lab-input-box">
+              <label class="lab-label" for="stdin-6">Réponses aux input() (une par ligne)</label>
+              <p class="lab-input-help">Les réponses sont lues dans l’ordre, une ligne par appel à input(). Exemple : renseigne-les ci-dessous avant d'exécuter le programme.</p>
+              <textarea class="python-stdin" id="stdin-6" rows="3" spellcheck="false" placeholder="Lucas&#10;Gardanne" aria-label="Réponses aux saisies de l'exercice 6"></textarea>
+            </div>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
 
@@ -438,6 +633,29 @@ print(age + 1)</code></pre>
         <pre><code>Premier nombre : 10
 Deuxième nombre : 5
 Résultat : 15</code></pre>
+        <details class="python-workspace" data-exercise="7">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-7">Mon code Python</label>
+            <textarea class="python-editor" id="code-7" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 7"></textarea>
+            <div class="lab-input-box">
+              <label class="lab-label" for="stdin-7">Réponses aux input() (une par ligne)</label>
+              <p class="lab-input-help">Les réponses sont lues dans l’ordre, une ligne par appel à input(). Exemple : renseigne-les ci-dessous avant d'exécuter le programme.</p>
+              <textarea class="python-stdin" id="stdin-7" rows="3" spellcheck="false" placeholder="10&#10;5" aria-label="Réponses aux saisies de l'exercice 7"></textarea>
+            </div>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
 
@@ -459,6 +677,29 @@ if nombre > 10:
             <li>Sinon, affichez <code>Vous êtes mineur.</code></li>
           </ul>
         </div>
+        <details class="python-workspace" data-exercise="8">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-8">Mon code Python</label>
+            <textarea class="python-editor" id="code-8" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 8"></textarea>
+            <div class="lab-input-box">
+              <label class="lab-label" for="stdin-8">Réponses aux input() (une par ligne)</label>
+              <p class="lab-input-help">Les réponses sont lues dans l’ordre, une ligne par appel à input(). Exemple : renseigne-les ci-dessous avant d'exécuter le programme.</p>
+              <textarea class="python-stdin" id="stdin-8" rows="3" spellcheck="false" placeholder="18" aria-label="Réponses aux saisies de l'exercice 8"></textarea>
+            </div>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
 
@@ -486,6 +727,29 @@ else:
             <li>note de 17 à 20 : <strong>Très bien</strong>.</li>
           </ul>
         </div>
+        <details class="python-workspace" data-exercise="9">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-9">Mon code Python</label>
+            <textarea class="python-editor" id="code-9" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 9"></textarea>
+            <div class="lab-input-box">
+              <label class="lab-label" for="stdin-9">Réponses aux input() (une par ligne)</label>
+              <p class="lab-input-help">Les réponses sont lues dans l’ordre, une ligne par appel à input(). Exemple : renseigne-les ci-dessous avant d'exécuter le programme.</p>
+              <textarea class="python-stdin" id="stdin-9" rows="3" spellcheck="false" placeholder="14" aria-label="Réponses aux saisies de l'exercice 9"></textarea>
+            </div>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
 
@@ -517,6 +781,24 @@ Bonjour</code></pre>
 9
 10</code></pre>
         </div>
+        <details class="python-workspace" data-exercise="10">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-10">Mon code Python</label>
+            <textarea class="python-editor" id="code-10" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 10"></textarea>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
 
@@ -542,6 +824,29 @@ Bonjour</code></pre>
 ...
 5 x 10 = 50</code></pre>
         </div>
+        <details class="python-workspace" data-exercise="11">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-11">Mon code Python</label>
+            <textarea class="python-editor" id="code-11" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 11"></textarea>
+            <div class="lab-input-box">
+              <label class="lab-label" for="stdin-11">Réponses aux input() (une par ligne)</label>
+              <p class="lab-input-help">Les réponses sont lues dans l’ordre, une ligne par appel à input(). Exemple : renseigne-les ci-dessous avant d'exécuter le programme.</p>
+              <textarea class="python-stdin" id="stdin-11" rows="3" spellcheck="false" placeholder="5" aria-label="Réponses aux saisies de l'exercice 11"></textarea>
+            </div>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
 
@@ -553,6 +858,29 @@ Bonjour</code></pre>
         <h3>Exemple</h3><pre><code>note = float(input("Quelle est ta note ? "))
 print(note)</code></pre>
         <div class="task"><strong>À faire</strong><p>Demandez à l'utilisateur trois notes, puis calculez et affichez leur moyenne.</p><p>Exemple : pour les notes 12, 14 et 16, la moyenne doit être 14.</p></div>
+        <details class="python-workspace" data-exercise="12">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-12">Mon code Python</label>
+            <textarea class="python-editor" id="code-12" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 12"></textarea>
+            <div class="lab-input-box">
+              <label class="lab-label" for="stdin-12">Réponses aux input() (une par ligne)</label>
+              <p class="lab-input-help">Les réponses sont lues dans l’ordre, une ligne par appel à input(). Exemple : renseigne-les ci-dessous avant d'exécuter le programme.</p>
+              <textarea class="python-stdin" id="stdin-12" rows="3" spellcheck="false" placeholder="12&#10;14&#10;16" aria-label="Réponses aux saisies de l'exercice 12"></textarea>
+            </div>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
     <details class="exercise" id="exercice-13">
@@ -569,6 +897,29 @@ elif temperature &lt;= 30:
 else:
     print("Température élevée")</code></pre>
         <div class="task"><strong>À faire</strong><p>Demandez une note sur 20. Si elle est inférieure à 0 ou supérieure à 20, affichez <code>Note invalide</code>. Sinon, affichez <code>Note valide</code>.</p></div>
+        <details class="python-workspace" data-exercise="13">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-13">Mon code Python</label>
+            <textarea class="python-editor" id="code-13" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 13"></textarea>
+            <div class="lab-input-box">
+              <label class="lab-label" for="stdin-13">Réponses aux input() (une par ligne)</label>
+              <p class="lab-input-help">Les réponses sont lues dans l’ordre, une ligne par appel à input(). Exemple : renseigne-les ci-dessous avant d'exécuter le programme.</p>
+              <textarea class="python-stdin" id="stdin-13" rows="3" spellcheck="false" placeholder="15" aria-label="Réponses aux saisies de l'exercice 13"></textarea>
+            </div>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
     <details class="exercise" id="exercice-14">
@@ -585,6 +936,24 @@ else:
 8
 10</code></pre>
         <div class="task"><strong>À faire</strong><p>Utilisez une boucle pour afficher les nombres pairs de 2 à 20 inclus.</p></div>
+        <details class="python-workspace" data-exercise="14">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-14">Mon code Python</label>
+            <textarea class="python-editor" id="code-14" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 14"></textarea>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
     <details class="exercise" id="exercice-15">
@@ -600,6 +969,24 @@ for i in range(1, 4):
 print(total)</code></pre>
         <div class="output-label">Affiche</div><pre><code>6</code></pre>
         <div class="task"><strong>À faire</strong><p>Calculez et affichez la somme de tous les nombres entiers de 1 à 100.</p><p>Conseil : créez une variable <code>total</code> initialisée à 0, puis ajoutez chaque nombre au total dans la boucle.</p></div>
+        <details class="python-workspace" data-exercise="15">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-15">Mon code Python</label>
+            <textarea class="python-editor" id="code-15" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 15"></textarea>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
     <details class="exercise" id="exercice-16">
@@ -614,6 +1001,29 @@ while reponse != "oui":
 
 print("Merci !")</code></pre>
         <div class="task"><strong>À faire</strong><p>Demandez un mot de passe à l'utilisateur. Tant qu'il ne saisit pas <code>python123</code>, redemandez le mot de passe. Lorsqu'il saisit le bon mot de passe, affichez <code>Accès autorisé</code>.</p><p>Attention : la boucle doit pouvoir se terminer lorsque la bonne réponse est saisie.</p></div>
+        <details class="python-workspace" data-exercise="16">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-16">Mon code Python</label>
+            <textarea class="python-editor" id="code-16" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 16"></textarea>
+            <div class="lab-input-box">
+              <label class="lab-label" for="stdin-16">Réponses aux input() (une par ligne)</label>
+              <p class="lab-input-help">Les réponses sont lues dans l’ordre, une ligne par appel à input(). Exemple : renseigne-les ci-dessous avant d'exécuter le programme.</p>
+              <textarea class="python-stdin" id="stdin-16" rows="3" spellcheck="false" placeholder="incorrect&#10;python123" aria-label="Réponses aux saisies de l'exercice 16"></textarea>
+            </div>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
     <details class="exercise" id="exercice-17">
@@ -626,6 +1036,24 @@ print("Merci !")</code></pre>
 if nombre % 2 == 0:
     print("Nombre pair")</code></pre>
         <div class="task"><strong>À faire</strong><p>Parcourez les nombres de 1 à 20. Comptez combien sont pairs, puis affichez le résultat final.</p><p>Conseil : utilisez une variable <code>compteur</code> initialisée à 0 et augmentez-la de 1 chaque fois que vous trouvez un nombre pair.</p></div>
+        <details class="python-workspace" data-exercise="17">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-17">Mon code Python</label>
+            <textarea class="python-editor" id="code-17" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 17"></textarea>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
     <details class="exercise" id="exercice-18">
@@ -639,6 +1067,24 @@ if nombre % 2 == 0:
 print(double(4))</code></pre>
         <div class="output-label">Affiche</div><pre><code>8</code></pre>
         <div class="task"><strong>À faire</strong><p>Créez une fonction appelée <code>carre</code> qui reçoit un nombre et renvoie son carré. Appelez cette fonction avec le nombre 6, puis affichez le résultat.</p></div>
+        <details class="python-workspace" data-exercise="18">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-18">Mon code Python</label>
+            <textarea class="python-editor" id="code-18" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 18"></textarea>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
     <details class="exercise" id="exercice-19">
@@ -650,6 +1096,24 @@ print(double(4))</code></pre>
 print(fruits[0])</code></pre>
         <div class="output-label">Affiche</div><pre><code>pomme</code></pre>
         <div class="task"><strong>À faire</strong><p>Créez une liste contenant cinq prénoms. Utilisez une boucle pour afficher chaque prénom, un par ligne.</p><p>Ensuite, affichez le nombre de prénoms présents dans la liste avec <code>len()</code>.</p></div>
+        <details class="python-workspace" data-exercise="19">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-19">Mon code Python</label>
+            <textarea class="python-editor" id="code-19" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 19"></textarea>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
     <details class="exercise" id="exercice-20">
@@ -662,6 +1126,29 @@ print(fruits[0])</code></pre>
 Deuxième nombre : 4
 Opération (+, -, *, /) : /
 Résultat : 3.0</code></pre><p>Essayez plusieurs opérations et vérifiez aussi le cas d'une division par zéro.</p>
+        <details class="python-workspace" data-exercise="20">
+          <summary>💻 Essayer mon programme Python</summary>
+          <div class="python-workspace-body">
+            <p class="lab-intro">Écris ton programme puis clique sur <strong>Exécuter</strong>. La solution n'est pas fournie : c'est à toi de la programmer !</p>
+            <label class="lab-label" for="code-20">Mon code Python</label>
+            <textarea class="python-editor" id="code-20" rows="7" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off" placeholder="# Écris ton code Python ici…" aria-label="Éditeur Python de l'exercice 20"></textarea>
+            <div class="lab-input-box">
+              <label class="lab-label" for="stdin-20">Réponses aux input() (une par ligne)</label>
+              <p class="lab-input-help">Les réponses sont lues dans l’ordre, une ligne par appel à input(). Exemple : renseigne-les ci-dessous avant d'exécuter le programme.</p>
+              <textarea class="python-stdin" id="stdin-20" rows="3" spellcheck="false" placeholder="12&#10;4&#10;/" aria-label="Réponses aux saisies de l'exercice 20"></textarea>
+            </div>
+            <div class="lab-toolbar">
+              <button class="lab-btn run-python" type="button">▶ Exécuter</button>
+              <button class="lab-btn secondary clear-python" type="button">Effacer</button>
+              <span class="lab-state" role="status" aria-live="polite"></span>
+            </div>
+            <div class="lab-output">
+              <span class="lab-label">Résultat / Console</span>
+              <pre class="lab-console" data-status="idle" aria-live="polite">Le résultat apparaîtra ici.</pre>
+            </div>
+            <p class="lab-footnote">Python s'exécute dans ton navigateur (connexion Internet requise au premier chargement). Raccourci : Ctrl + Entrée.</p>
+          </div>
+        </details>
       </div>
     </details>
 
@@ -671,5 +1158,200 @@ Résultat : 3.0</code></pre><p>Essayez plusieurs opérations et vérifiez aussi 
   <footer class="site-footer">
     Ressources pédagogiques · Python débutant
   </footer>
+  <script>
+  (() => {
+    "use strict";
+    // Python tourne dans un Web Worker : un "while True" ne fige pas le site.
+    // Pyodide est téléchargé depuis son CDN à la première exécution seulement.
+    const PYODIDE_URL = "https://cdn.jsdelivr.net/pyodide/v0.28.2/full/";
+    const MAX_EXEC_MS = 7000;
+    const MAX_LOAD_MS = 45000;
+    let worker = null;
+    let active = null;
+    let sequence = 0;
+    let timeoutHandle = null;
+
+    const workerSource = `
+      const BASE = ${JSON.stringify(PYODIDE_URL)};
+      let pythonPromise = null;
+      async function getPython() {
+        if (!pythonPromise) {
+          pythonPromise = (async () => {
+            importScripts(BASE + "pyodide.js");
+            return await loadPyodide({ indexURL: BASE });
+          })();
+        }
+        return pythonPromise;
+      }
+      self.onmessage = async (event) => {
+        const { id, code, inputText } = event.data;
+        try {
+          const python = await getPython();
+          self.postMessage({ id, kind: "ready" });
+          const answers = inputText === "" ? [] : inputText.replace(/\\r/g, "").split("\\n");
+          let index = 0;
+          let written = 0;
+          const LIMIT = 14000;
+          const sendOutput = (chunk, isError = false) => {
+            chunk = String(chunk);
+            if (written >= LIMIT) return;
+            const text = chunk.slice(0, LIMIT - written);
+            written += text.length;
+            self.postMessage({ id, kind: "output", text, isError });
+            if (written >= LIMIT) {
+              self.postMessage({ id, kind: "output", text: "\\n[Sortie limitée à 14 000 caractères]\\n" });
+            }
+          };
+          python.setStdin({ stdin: () => index < answers.length ? answers[index++] : null });
+          python.setStdout({ batched: (line) => sendOutput(line + "\\n") });
+          python.setStderr({ batched: (line) => sendOutput(line + "\\n", true) });
+          python.globals.set("_code_exercice_", code);
+          try {
+            await python.runPythonAsync("exec(compile(_code_exercice_, '<exercice>', 'exec'), {'__name__': '__main__'})");
+            self.postMessage({ id, kind: "done" });
+          } finally {
+            python.globals.delete("_code_exercice_");
+          }
+        } catch (err) {
+          self.postMessage({ id, kind: "error", message: String(err && err.message ? err.message : err) });
+        }
+      };
+    `;
+
+    function getWorker() {
+      if (worker) return worker;
+      const blobUrl = URL.createObjectURL(new Blob([workerSource], { type: "application/javascript" }));
+      try { worker = new Worker(blobUrl); }
+      finally { URL.revokeObjectURL(blobUrl); }
+      worker.addEventListener("message", onWorkerMessage);
+      worker.addEventListener("error", onWorkerError);
+      return worker;
+    }
+    function resetWorker() {
+      if (worker) { worker.terminate(); worker = null; }
+    }
+    function setButtons(disabled) {
+      document.querySelectorAll(".run-python").forEach(btn => btn.disabled = disabled);
+    }
+    function finish(stateText, status) {
+      if (!active) return;
+      clearTimeout(timeoutHandle);
+      const { lab, output } = active;
+      lab.querySelector(".lab-state").textContent = stateText;
+      if (status) output.dataset.status = status;
+      active = null;
+      setButtons(false);
+    }
+    function onWorkerMessage(e) {
+      const m = e.data;
+      if (!active || m.id !== active.id) return;
+      const { output } = active;
+      if (m.kind === "ready") {
+        clearTimeout(timeoutHandle);
+        output.textContent = "";
+        output.dataset.status = "running";
+        timeoutHandle = setTimeout(() => {
+          resetWorker();
+          output.textContent += "\n⏱ Temps d'exécution dépassé (7 secondes). Vérifie tes boucles.\n";
+          finish("Exécution interrompue", "error");
+        }, MAX_EXEC_MS);
+        active.lab.querySelector(".lab-state").textContent = "Programme en cours…";
+      } else if (m.kind === "output") {
+        if (output.dataset.status === "idle") output.textContent = "";
+        output.textContent += m.text;
+        if (m.isError) output.dataset.status = "error";
+      } else if (m.kind === "done") {
+        if (!output.textContent.trim() || output.dataset.status === "idle") {
+          output.textContent = "Programme terminé (aucun texte affiché). Pense à print() !";
+        }
+        finish("Exécution terminée", "ok");
+      } else if (m.kind === "error") {
+        if (output.dataset.status === "idle") output.textContent = "";
+        output.textContent += "\n" + m.message + "\n";
+        if (m.message.includes("EOFError")) {
+          output.textContent += "Astuce : remplis la zone « Réponses aux input() », une réponse par ligne.\n";
+        }
+        finish("Erreur dans le programme", "error");
+      }
+      output.scrollTop = output.scrollHeight;
+    }
+    function onWorkerError(e) {
+      if (!active) return;
+      const output = active.output;
+      output.textContent = "Impossible de démarrer Python. Vérifie la connexion Internet puis réessaie.\n" + (e.message || "");
+      resetWorker();
+      finish("Erreur de chargement", "error");
+    }
+    function run(lab) {
+      if (active) return;
+      const code = lab.querySelector(".python-editor").value;
+      const output = lab.querySelector(".lab-console");
+      if (!code.trim()) {
+        output.dataset.status = "idle";
+        output.textContent = "Écris d'abord quelques lignes de Python dans l'éditeur.";
+        return;
+      }
+      output.dataset.status = "idle";
+      output.textContent = "Chargement de Python… (le premier lancement peut prendre quelques secondes)";
+      const inputBox = lab.querySelector(".python-stdin");
+      active = { id: ++sequence, lab, output };
+      setButtons(true);
+      lab.querySelector(".lab-state").textContent = "Préparation de Python…";
+      timeoutHandle = setTimeout(() => {
+        resetWorker();
+        output.textContent = "Chargement trop long. Vérifie ta connexion Internet puis relance.";
+        finish("Chargement interrompu", "error");
+      }, MAX_LOAD_MS);
+      try {
+        getWorker().postMessage({ id: active.id, code, inputText: inputBox ? inputBox.value : "" });
+      } catch (err) {
+        output.textContent = "Ce navigateur ne permet pas de lancer Python ici : " + err.message;
+        resetWorker();
+        finish("Navigateur non compatible", "error");
+      }
+    }
+    // Sauvegarde locale uniquement : chaque exercice conserve son code sur cet appareil.
+    document.querySelectorAll(".python-workspace").forEach(lab => {
+      const n = lab.dataset.exercise;
+      const code = lab.querySelector(".python-editor");
+      const input = lab.querySelector(".python-stdin");
+      const key = "bonaliprof-python-exercice-" + n;
+      try {
+        const saved = localStorage.getItem(key);
+        if (saved !== null) code.value = saved;
+        if (input) input.value = localStorage.getItem(key + "-input") || "";
+      } catch (_) { /* stockage privé indisponible : aucun blocage */ }
+      code.addEventListener("input", () => {
+        try { localStorage.setItem(key, code.value); } catch (_) {}
+      });
+      if (input) input.addEventListener("input", () => {
+        try { localStorage.setItem(key + "-input", input.value); } catch (_) {}
+      });
+      code.addEventListener("keydown", event => {
+        if (event.key === "Tab") {
+          event.preventDefault();
+          const pos = code.selectionStart;
+          code.setRangeText("    ", pos, code.selectionEnd, "end");
+          code.dispatchEvent(new Event("input"));
+        }
+        if (event.key === "Enter" && (event.ctrlKey || event.metaKey)) {
+          event.preventDefault();
+          run(lab);
+        }
+      });
+      lab.querySelector(".run-python").addEventListener("click", () => run(lab));
+      lab.querySelector(".clear-python").addEventListener("click", () => {
+        if (active && active.lab === lab) return;
+        code.value = "";
+        if (input) input.value = "";
+        lab.querySelector(".lab-console").textContent = "Le résultat apparaîtra ici.";
+        lab.querySelector(".lab-console").dataset.status = "idle";
+        lab.querySelector(".lab-state").textContent = "";
+        try { localStorage.removeItem(key); localStorage.removeItem(key + "-input"); } catch (_) {}
+        code.focus();
+      });
+    });
+  })();
+  </script>
 </body>
 </html>
