@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="11 exercices progressifs pour découvrir les bases de Python : affichage, variables, calculs, conditions, saisie et boucles.">
+  <title>Exercices Python — Débutant</title>
+  <style>
+    :root {
+      --bg: #f4f7fb;
+      --surface: #ffffff;
+      --text: #182230;
+      --muted: #5b6878;
+      --primary: #2457c5;
+      --primary-dark: #173e91;
+      --border: #dce4ef;
+      --code-bg: #101827;
+      --code-text: #e7edf7;
+      --accent: #e8efff;
+      --warning-bg: #fff7df;
+      --warning-border: #e7b94b;
+      --shadow: 0 8px 28px rgba(25, 45, 80, .07);
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font: 16px/1.65 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    a { color: var(--primary); }
+    .site-header {
+      background: linear-gradient(135deg, #153779, #2866d8);
+      color: #fff;
+      padding: 18px 22px;
+    }
+    .header-inner, main, .site-footer {
+      width: min(100% - 32px, 960px);
+      margin-inline: auto;
+    }
+    .header-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+    .brand {
+      color: #fff;
+      text-decoration: none;
+      font-weight: 750;
+      letter-spacing: .2px;
+    }
+    .back-link {
+      color: #fff;
+      border: 1px solid rgba(255,255,255,.55);
+      border-radius: 999px;
+      padding: 7px 13px;
+      text-decoration: none;
+      font-size: .92rem;
+      white-space: nowrap;
+    }
+    .back-link:hover { background: rgba(255,255,255,.12); }
+    .hero {
+      padding: 44px 0 30px;
+    }
+    .eyebrow {
+      display: inline-block;
+      background: var(--accent);
+      color: var(--primary-dark);
+      border-radius: 999px;
+      padding: 4px 11px;
+      font-size: .82rem;
+      font-weight: 750;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+    }
+    h1 {
+      margin: 12px 0 8px;
+      font-size: clamp(2rem, 5vw, 3rem);
+      line-height: 1.12;
+      letter-spacing: -.04em;
+    }
+    .hero p { max-width: 680px; color: var(--muted); margin: 0; font-size: 1.08rem; }
+    .progress-note {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 22px;
+    }
+    .pill {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 6px 12px;
+      color: var(--muted);
+      font-size: .9rem;
+    }
+    .contents {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 20px;
+      box-shadow: var(--shadow);
+      margin-bottom: 26px;
+    }
+    .contents h2 { margin: 0 0 12px; font-size: 1.1rem; }
+    .contents-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+      gap: 8px 20px;
+      margin: 0;
+      padding-left: 20px;
+    }
+    .contents-list li { padding: 2px 0; }
+    .contents-list a { text-decoration: none; }
+    .contents-list a:hover { text-decoration: underline; }
+    .section-heading {
+      margin: 34px 0 14px;
+      font-size: 1.5rem;
+      letter-spacing: -.02em;
+    }
+    .exercise {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      box-shadow: var(--shadow);
+      margin: 14px 0;
+      overflow: hidden;
+      scroll-margin-top: 16px;
+    }
+    .exercise summary {
+      display: flex;
+      align-items: center;
+      gap: 13px;
+      padding: 18px 20px;
+      cursor: pointer;
+      list-style: none;
+      font-size: 1.08rem;
+      font-weight: 750;
+    }
+    .exercise summary::-webkit-details-marker { display: none; }
+    .exercise summary::after {
+      content: "+";
+      margin-left: auto;
+      color: var(--primary);
+      font-size: 1.5rem;
+      font-weight: 500;
+      line-height: 1;
+    }
+    .exercise[open] summary::after { content: "−"; }
+    .exercise summary:hover { background: #f8faff; }
+    .number {
+      display: inline-grid;
+      place-items: center;
+      flex: 0 0 38px;
+      width: 38px;
+      height: 38px;
+      border-radius: 12px;
+      background: var(--accent);
+      color: var(--primary-dark);
+      font-size: .95rem;
+    }
+    .exercise-content {
+      border-top: 1px solid var(--border);
+      padding: 20px;
+    }
+    .usage {
+      display: inline-block;
+      color: var(--primary-dark);
+      background: #eef3ff;
+      border-radius: 7px;
+      padding: 3px 9px;
+      font-size: .9rem;
+      font-weight: 700;
+      margin-bottom: 10px;
+    }
+    p { margin: 9px 0 13px; }
+    h3 { margin: 20px 0 8px; font-size: 1rem; }
+    pre {
+      overflow-x: auto;
+      background: var(--code-bg);
+      color: var(--code-text);
+      border-radius: 10px;
+      padding: 14px 16px;
+      margin: 10px 0 16px;
+      font: .93rem/1.6 Consolas, "Cascadia Code", "Courier New", monospace;
+      tab-size: 4;
+    }
+    code {
+      font-family: Consolas, "Cascadia Code", "Courier New", monospace;
+      font-size: .94em;
+    }
+    p code, li code {
+      background: #edf1f7;
+      border-radius: 4px;
+      padding: 2px 5px;
+      color: #26364d;
+    }
+    .task {
+      margin-top: 17px;
+      padding: 15px 17px;
+      background: #f4f8ff;
+      border-left: 4px solid var(--primary);
+      border-radius: 0 10px 10px 0;
+    }
+    .task strong { display: block; margin-bottom: 5px; }
+    .task p:last-child, .task ul:last-child { margin-bottom: 0; }
+    .warning {
+      background: var(--warning-bg);
+      border-left-color: var(--warning-border);
+    }
+    .output-label {
+      font-size: .82rem;
+      font-weight: 750;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .05em;
+      margin: 4px 0;
+    }
+    .site-footer {
+      color: var(--muted);
+      text-align: center;
+      padding: 34px 0 42px;
+      font-size: .9rem;
+    }
+    @media (max-width: 560px) {
+      .header-inner { align-items: flex-start; flex-direction: column; }
+      .hero { padding-top: 32px; }
+      .exercise summary { padding: 15px; gap: 10px; }
+      .exercise-content { padding: 16px; }
+      .contents { padding: 16px; }
+    }
+    @media print {
+      body { background: #fff; }
+      .site-header, .back-link, .contents, .site-footer { display: none; }
+      main { width: 100%; }
+      .hero { padding: 10px 0 20px; }
+      .exercise { box-shadow: none; break-inside: avoid; }
+      .exercise summary::after { display: none; }
+      details.exercise > .exercise-content { display: block; }
+      .exercise:not([open]) > .exercise-content { display: block; }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="../index.html">BonaliProf · Ressources pédagogiques</a>
+      <a class="back-link" href="../index.html">← Retour au site</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <span class="eyebrow">Python · Niveau débutant</span>
+      <h1>Exercices Python</h1>
+      <p>Onze exercices progressifs pour découvrir les bases de Python. Lis l'explication, observe l'exemple, puis réalise le travail demandé sans recopier simplement l'exemple.</p>
+      <div class="progress-note">
+        <span class="pill">11 exercices</span>
+        <span class="pill">Du plus simple au plus complet</span>
+        <span class="pill">Affichage · Variables · Conditions · Boucles</span>
+      </div>
+    </section>
+
+    <nav class="contents" aria-label="Sommaire des exercices">
+      <h2>Sommaire</h2>
+      <ol class="contents-list">
+        <li><a href="#exercice-1">Afficher du texte</a></li>
+        <li><a href="#exercice-2">Les variables</a></li>
+        <li><a href="#exercice-3">Faire des calculs</a></li>
+        <li><a href="#exercice-4">Tester une valeur</a></li>
+        <li><a href="#exercice-5">Sinon</a></li>
+        <li><a href="#exercice-6">Demander une information</a></li>
+        <li><a href="#exercice-7">Demander un nombre</a></li>
+        <li><a href="#exercice-8">Comparer des nombres</a></li>
+        <li><a href="#exercice-9">Plusieurs possibilités</a></li>
+        <li><a href="#exercice-10">Répéter une instruction</a></li>
+        <li><a href="#exercice-11">Table de multiplication</a></li>
+      </ol>
+    </nav>
+
+    <h2 class="section-heading">Les exercices</h2>
+
+    <details class="exercise" id="exercice-1" open>
+      <summary><span class="number">1</span> Afficher du texte</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : <code>print()</code></span>
+        <p>La commande <code>print()</code> permet d'afficher quelque chose à l'écran.</p>
+        <h3>Exemple</h3>
+        <pre><code>print("Salut")</code></pre>
+        <div class="output-label">Affiche</div>
+        <pre><code>Salut</code></pre>
+        <div class="task">
+          <strong>À faire</strong>
+          <p>Écrivez un programme qui affiche exactement les deux lignes suivantes :</p>
+          <pre><code>Bonjour
+Je découvre Python !</code></pre>
+        </div>
+      </div>
+    </details>
+
+    <details class="exercise" id="exercice-2">
+      <summary><span class="number">2</span> Les variables</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : une variable</span>
+        <p>Une variable permet de stocker une information pour pouvoir la réutiliser.</p>
+        <h3>Exemple</h3>
+        <pre><code>ville = "Marseille"
+print(ville)</code></pre>
+        <div class="output-label">Affiche</div>
+        <pre><code>Marseille</code></pre>
+        <div class="task">
+          <strong>À faire</strong>
+          <ol>
+            <li>Créez une variable <code>prenom</code> contenant votre prénom, puis affichez-la.</li>
+            <li>Créez une variable <code>age</code> contenant votre âge, puis affichez-la.</li>
+          </ol>
+        </div>
+      </div>
+    </details>
+
+    <details class="exercise" id="exercice-3">
+      <summary><span class="number">3</span> Faire des calculs</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : <code>+</code>, <code>-</code>, <code>*</code> et <code>/</code></span>
+        <p>Python peut effectuer des calculs avec des nombres stockés dans des variables.</p>
+        <h3>Exemple</h3>
+        <pre><code>a = 8
+b = 2
+print(a + b)</code></pre>
+        <div class="output-label">Affiche</div>
+        <pre><code>10</code></pre>
+        <div class="task">
+          <strong>À faire</strong>
+          <p>Créez les deux variables suivantes :</p>
+          <pre><code>a = 20
+b = 5</code></pre>
+          <p>Affichez ensuite :</p>
+          <ul>
+            <li>l'addition de <code>a</code> et <code>b</code> ;</li>
+            <li>la soustraction de <code>b</code> à <code>a</code> ;</li>
+            <li>la multiplication de <code>a</code> par <code>b</code> ;</li>
+            <li>la division de <code>a</code> par <code>b</code>.</li>
+          </ul>
+        </div>
+      </div>
+    </details>
+
+    <details class="exercise" id="exercice-4">
+      <summary><span class="number">4</span> Tester une valeur</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : <code>if</code> et <code>==</code></span>
+        <p><code>if</code> permet d'exécuter une instruction seulement si une condition est vraie. L'opérateur <code>==</code> vérifie si deux valeurs sont égales.</p>
+        <h3>Exemple</h3>
+        <pre><code>x = 3
+
+if x == 3:
+    print("Bravo")</code></pre>
+        <div class="output-label">Affiche</div>
+        <pre><code>Bravo</code></pre>
+        <div class="task warning">
+          <strong>Attention à la différence</strong>
+          <p><code>x = 3</code> donne la valeur 3 à la variable <code>x</code>.</p>
+          <p><code>x == 3</code> vérifie si la valeur de <code>x</code> est égale à 3.</p>
+        </div>
+        <div class="task">
+          <strong>À faire</strong>
+          <p>Créez une variable <code>nombre</code> contenant <code>10</code>. Si <code>nombre</code> est égal à <code>10</code>, affichez :</p>
+          <pre><code>Le nombre est bien égal à 10</code></pre>
+        </div>
+      </div>
+    </details>
+
+    <details class="exercise" id="exercice-5">
+      <summary><span class="number">5</span> Sinon</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : <code>if</code> et <code>else</code></span>
+        <p><code>else</code> permet d'indiquer ce qui doit se passer lorsque la condition du <code>if</code> est fausse.</p>
+        <h3>Exemple</h3>
+        <pre><code>age = 20
+
+if age >= 18:
+    print("Majeur")
+else:
+    print("Mineur")</code></pre>
+        <div class="task">
+          <strong>À faire</strong>
+          <p>Créez une variable :</p>
+          <pre><code>temperature = 25</code></pre>
+          <p>Si la température est strictement supérieure à <code>20</code>, affichez <code>Il fait chaud</code>. Sinon, affichez <code>Il fait froid</code>.</p>
+        </div>
+      </div>
+    </details>
+
+    <details class="exercise" id="exercice-6">
+      <summary><span class="number">6</span> Demander une information</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : <code>input()</code></span>
+        <p><code>input()</code> permet de demander à l'utilisateur de saisir une information au clavier. La réponse est récupérée sous forme de texte.</p>
+        <h3>Exemple</h3>
+        <pre><code>prenom = input("Quel est ton prénom ? ")
+print("Bonjour", prenom)</code></pre>
+        <div class="output-label">Exemple d'affichage</div>
+        <pre><code>Quel est ton prénom ? Lucas
+Bonjour Lucas</code></pre>
+        <div class="task">
+          <strong>À faire</strong>
+          <p>Demandez à l'utilisateur son prénom et sa ville. Affichez ensuite une phrase comme celle-ci :</p>
+          <pre><code>Bonjour Lucas, tu habites à Gardanne.</code></pre>
+        </div>
+      </div>
+    </details>
+
+    <details class="exercise" id="exercice-7">
+      <summary><span class="number">7</span> Demander un nombre</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : <code>int()</code> et <code>input()</code></span>
+        <p><code>input()</code> récupère du texte. Pour obtenir un nombre entier que l'on peut utiliser dans un calcul, on peut convertir la réponse avec <code>int()</code>.</p>
+        <h3>Exemple</h3>
+        <pre><code>age = int(input("Quel âge as-tu ? "))
+print(age + 1)</code></pre>
+        <div class="task">
+          <strong>À faire</strong>
+          <p>Demandez deux nombres à l'utilisateur, puis affichez leur addition.</p>
+        </div>
+        <div class="output-label">Exemple de saisie et de résultat</div>
+        <pre><code>Premier nombre : 10
+Deuxième nombre : 5
+Résultat : 15</code></pre>
+      </div>
+    </details>
+
+    <details class="exercise" id="exercice-8">
+      <summary><span class="number">8</span> Comparer des nombres</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : <code>&gt;</code>, <code>&lt;</code>, <code>&gt;=</code>, <code>&lt;=</code></span>
+        <p>Ces opérateurs permettent de comparer des nombres : supérieur à, inférieur à, supérieur ou égal à, inférieur ou égal à.</p>
+        <h3>Exemple</h3>
+        <pre><code>nombre = 15
+
+if nombre > 10:
+    print("Plus grand que 10")</code></pre>
+        <div class="task">
+          <strong>À faire</strong>
+          <p>Demandez l'âge de l'utilisateur.</p>
+          <ul>
+            <li>S'il a <strong>18 ans ou plus</strong>, affichez <code>Vous êtes majeur.</code></li>
+            <li>Sinon, affichez <code>Vous êtes mineur.</code></li>
+          </ul>
+        </div>
+      </div>
+    </details>
+
+    <details class="exercise" id="exercice-9">
+      <summary><span class="number">9</span> Plusieurs possibilités</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : <code>if</code>, <code>elif</code> et <code>else</code></span>
+        <p><code>elif</code> permet de tester une autre condition lorsque les précédentes sont fausses.</p>
+        <h3>Exemple</h3>
+        <pre><code>nombre = 5
+
+if nombre > 5:
+    print("Grand")
+elif nombre == 5:
+    print("Égal à 5")
+else:
+    print("Petit")</code></pre>
+        <div class="task">
+          <strong>À faire</strong>
+          <p>Demandez une note sur 20, puis affichez le résultat correspondant :</p>
+          <ul>
+            <li>note inférieure à 10 : <strong>Insuffisant</strong> ;</li>
+            <li>note de 10 à 13 inclus : <strong>Moyen</strong> ;</li>
+            <li>note de 14 à 16 inclus : <strong>Bien</strong> ;</li>
+            <li>note de 17 à 20 : <strong>Très bien</strong>.</li>
+          </ul>
+        </div>
+      </div>
+    </details>
+
+    <details class="exercise" id="exercice-10">
+      <summary><span class="number">10</span> Répéter une instruction</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : <code>for</code> et <code>range()</code></span>
+        <p>Une boucle <code>for</code> permet de répéter des instructions. Avec <code>range(5)</code>, la boucle se répète cinq fois.</p>
+        <h3>Exemple</h3>
+        <pre><code>for i in range(5):
+    print("Bonjour")</code></pre>
+        <div class="output-label">Affiche cinq fois</div>
+        <pre><code>Bonjour
+Bonjour
+Bonjour
+Bonjour
+Bonjour</code></pre>
+        <div class="task">
+          <strong>À faire</strong>
+          <p>Utilisez une boucle pour afficher les nombres de 1 à 10, un nombre par ligne :</p>
+          <pre><code>1
+2
+3
+4
+5
+6
+7
+8
+9
+10</code></pre>
+        </div>
+      </div>
+    </details>
+
+    <details class="exercise" id="exercice-11">
+      <summary><span class="number">11</span> Table de multiplication</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : <code>for</code>, <code>range()</code> et <code>*</code></span>
+        <p>On peut utiliser la variable de la boucle dans un calcul. Avec <code>range(1, 4)</code>, la boucle prend successivement les valeurs 1, 2 et 3.</p>
+        <h3>Exemple</h3>
+        <pre><code>for i in range(1, 4):
+    print(i * 2)</code></pre>
+        <div class="output-label">Affiche</div>
+        <pre><code>2
+4
+6</code></pre>
+        <div class="task">
+          <strong>À faire</strong>
+          <p>Demandez un nombre à l'utilisateur, puis affichez sa table de multiplication de <strong>1 à 10</strong>.</p>
+          <p>Pour le nombre <code>5</code>, le programme devra afficher :</p>
+          <pre><code>5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+...
+5 x 10 = 50</code></pre>
+        </div>
+      </div>
+    </details>
+
+    <p style="text-align:center; margin:30px 0 0; color:var(--muted);">Conseil : teste ton programme après chaque modification et vérifie que l'affichage correspond à la consigne.</p>
+  </main>
+
+  <footer class="site-footer">
+    Ressources pédagogiques · Python débutant
+  </footer>
+</body>
+</html>
