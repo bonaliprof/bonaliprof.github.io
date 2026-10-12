@@ -278,6 +278,15 @@
         <li><a href="#exercice-9">Plusieurs possibilités</a></li>
         <li><a href="#exercice-10">Répéter une instruction</a></li>
         <li><a href="#exercice-11">Table de multiplication</a></li>
+        <li><a href="#exercice-12">Calculer une moyenne</a></li>
+        <li><a href="#exercice-13">Vérifier une plage de valeurs</a></li>
+        <li><a href="#exercice-14">Compter avec un pas différent</a></li>
+        <li><a href="#exercice-15">Additionner plusieurs nombres</a></li>
+        <li><a href="#exercice-16">Répéter jusqu’à obtenir une bonne réponse</a></li>
+        <li><a href="#exercice-17">Compter les nombres pairs</a></li>
+        <li><a href="#exercice-18">Créer une fonction</a></li>
+        <li><a href="#exercice-19">Utiliser une liste</a></li>
+        <li><a href="#exercice-20">Mini-projet — Calculatrice simple</a></li>
       </ol>
     </nav>
 
@@ -533,6 +542,126 @@ Bonjour</code></pre>
 ...
 5 x 10 = 50</code></pre>
         </div>
+      </div>
+    </details>
+
+    <details class="exercise" id="exercice-12">
+      <summary><span class="number">12</span> Calculer une moyenne</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : variables, <code>input()</code>, <code>float()</code> et calculs</span>
+        <p>La fonction <code>float()</code> permet de convertir une saisie en nombre décimal, par exemple <code>12.5</code>.</p>
+        <h3>Exemple</h3><pre><code>note = float(input("Quelle est ta note ? "))
+print(note)</code></pre>
+        <div class="task"><strong>À faire</strong><p>Demandez à l'utilisateur trois notes, puis calculez et affichez leur moyenne.</p><p>Exemple : pour les notes 12, 14 et 16, la moyenne doit être 14.</p></div>
+      </div>
+    </details>
+    <details class="exercise" id="exercice-13">
+      <summary><span class="number">13</span> Vérifier une plage de valeurs</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : <code>if</code>, <code>elif</code>, <code>else</code>, <code>&lt;</code> et <code>&gt;</code></span>
+        <p>Une condition peut permettre de vérifier qu'une valeur reste dans un intervalle donné.</p>
+        <h3>Exemple</h3><pre><code>temperature = 22
+
+if temperature &lt; 0:
+    print("Température négative")
+elif temperature &lt;= 30:
+    print("Température habituelle")
+else:
+    print("Température élevée")</code></pre>
+        <div class="task"><strong>À faire</strong><p>Demandez une note sur 20. Si elle est inférieure à 0 ou supérieure à 20, affichez <code>Note invalide</code>. Sinon, affichez <code>Note valide</code>.</p></div>
+      </div>
+    </details>
+    <details class="exercise" id="exercice-14">
+      <summary><span class="number">14</span> Compter avec un pas différent</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : <code>for</code> et <code>range()</code></span>
+        <p>La fonction <code>range()</code> peut recevoir un troisième paramètre qui indique le pas entre deux valeurs.</p>
+        <h3>Exemple</h3><pre><code>for i in range(0, 11, 2):
+    print(i)</code></pre>
+        <div class="output-label">Affiche</div><pre><code>0
+2
+4
+6
+8
+10</code></pre>
+        <div class="task"><strong>À faire</strong><p>Utilisez une boucle pour afficher les nombres pairs de 2 à 20 inclus.</p></div>
+      </div>
+    </details>
+    <details class="exercise" id="exercice-15">
+      <summary><span class="number">15</span> Additionner plusieurs nombres</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : variable, <code>for</code>, <code>range()</code> et <code>+</code></span>
+        <p>Une variable peut conserver un total qui évolue au fil d'une boucle.</p>
+        <h3>Exemple</h3><pre><code>total = 0
+
+for i in range(1, 4):
+    total = total + i
+
+print(total)</code></pre>
+        <div class="output-label">Affiche</div><pre><code>6</code></pre>
+        <div class="task"><strong>À faire</strong><p>Calculez et affichez la somme de tous les nombres entiers de 1 à 100.</p><p>Conseil : créez une variable <code>total</code> initialisée à 0, puis ajoutez chaque nombre au total dans la boucle.</p></div>
+      </div>
+    </details>
+    <details class="exercise" id="exercice-16">
+      <summary><span class="number">16</span> Répéter jusqu’à obtenir une bonne réponse</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : <code>while</code>, <code>input()</code> et <code>if</code></span>
+        <p>La boucle <code>while</code> répète des instructions tant qu'une condition est vraie.</p>
+        <h3>Exemple</h3><pre><code>reponse = ""
+
+while reponse != "oui":
+    reponse = input("Écris oui pour continuer : ")
+
+print("Merci !")</code></pre>
+        <div class="task"><strong>À faire</strong><p>Demandez un mot de passe à l'utilisateur. Tant qu'il ne saisit pas <code>python123</code>, redemandez le mot de passe. Lorsqu'il saisit le bon mot de passe, affichez <code>Accès autorisé</code>.</p><p>Attention : la boucle doit pouvoir se terminer lorsque la bonne réponse est saisie.</p></div>
+      </div>
+    </details>
+    <details class="exercise" id="exercice-17">
+      <summary><span class="number">17</span> Compter les nombres pairs</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : boucle, <code>%</code>, <code>if</code> et compteur</span>
+        <p>L'opérateur <code>%</code> donne le reste d'une division. Un nombre est pair si le reste de sa division par 2 est égal à 0.</p>
+        <h3>Exemple</h3><pre><code>nombre = 8
+
+if nombre % 2 == 0:
+    print("Nombre pair")</code></pre>
+        <div class="task"><strong>À faire</strong><p>Parcourez les nombres de 1 à 20. Comptez combien sont pairs, puis affichez le résultat final.</p><p>Conseil : utilisez une variable <code>compteur</code> initialisée à 0 et augmentez-la de 1 chaque fois que vous trouvez un nombre pair.</p></div>
+      </div>
+    </details>
+    <details class="exercise" id="exercice-18">
+      <summary><span class="number">18</span> Créer une fonction</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : <code>def</code> et <code>return</code></span>
+        <p>Une fonction regroupe des instructions que l'on peut réutiliser. <code>return</code> renvoie le résultat calculé.</p>
+        <h3>Exemple</h3><pre><code>def double(nombre):
+    return nombre * 2
+
+print(double(4))</code></pre>
+        <div class="output-label">Affiche</div><pre><code>8</code></pre>
+        <div class="task"><strong>À faire</strong><p>Créez une fonction appelée <code>carre</code> qui reçoit un nombre et renvoie son carré. Appelez cette fonction avec le nombre 6, puis affichez le résultat.</p></div>
+      </div>
+    </details>
+    <details class="exercise" id="exercice-19">
+      <summary><span class="number">19</span> Utiliser une liste</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : liste, indices, <code>for</code> et <code>len()</code></span>
+        <p>Une liste permet de stocker plusieurs valeurs dans une seule variable. Le premier élément se trouve à l'indice 0.</p>
+        <h3>Exemple</h3><pre><code>fruits = ["pomme", "poire", "banane"]
+print(fruits[0])</code></pre>
+        <div class="output-label">Affiche</div><pre><code>pomme</code></pre>
+        <div class="task"><strong>À faire</strong><p>Créez une liste contenant cinq prénoms. Utilisez une boucle pour afficher chaque prénom, un par ligne.</p><p>Ensuite, affichez le nombre de prénoms présents dans la liste avec <code>len()</code>.</p></div>
+      </div>
+    </details>
+    <details class="exercise" id="exercice-20">
+      <summary><span class="number">20</span> Mini-projet — Calculatrice simple</summary>
+      <div class="exercise-content">
+        <span class="usage">À utiliser : variables, <code>input()</code>, <code>float()</code>, conditions et calculs</span>
+        <p>Pour ce dernier exercice, vous allez combiner plusieurs notions vues précédemment afin de réaliser un petit programme complet.</p>
+        <div class="task"><strong>À faire</strong><ol><li>Demandez à l'utilisateur un premier nombre.</li><li>Demandez un deuxième nombre.</li><li>Demandez l'opération à effectuer : <code>+</code>, <code>-</code>, <code>*</code> ou <code>/</code>.</li><li>Utilisez <code>if</code>, <code>elif</code> et <code>else</code> pour choisir le calcul à effectuer.</li><li>Affichez le résultat du calcul.</li><li>Si l'utilisateur choisit la division et que le deuxième nombre vaut 0, affichez un message d'erreur au lieu d'effectuer la division.</li></ol></div>
+        <div class="output-label">Exemple d'utilisation</div><pre><code>Premier nombre : 12
+Deuxième nombre : 4
+Opération (+, -, *, /) : /
+Résultat : 3.0</code></pre><p>Essayez plusieurs opérations et vérifiez aussi le cas d'une division par zéro.</p>
       </div>
     </details>
 
