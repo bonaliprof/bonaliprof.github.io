@@ -1,162 +1,139 @@
 <!DOCTYPE html>
-
-<html data-section="stages" lang="fr">
+<html lang="fr" data-section="stages">
 <head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1" name="viewport"/>
-<title>Stages — BAC Pro CIEL</title>
-<meta content="Portail de ressources pour les élèves du BAC Pro CIEL." name="description"/>
-<link href="../assets/img/favicon.svg" rel="icon" type="image/svg+xml"/>
-<link href="../assets/css/style.css" rel="stylesheet"/>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Stages (PFMP) — BAC Pro CIEL</title>
+  <meta name="description" content="Conventions de stage, calendrier des PFMP et carte des entreprises qui ont déjà accueilli des élèves de BAC Pro CIEL." />
+  <link rel="icon" href="../assets/img/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" />
+  <link rel="stylesheet" href="../assets/css/style.css" />
 </head>
 <body>
 <header class="site-header">
-<div class="header-inner">
-<a aria-label="Retour à l'accueil" class="brand" href="../index.html">
-<span class="brand-mark">CIEL</span>
-<span>
-<strong>BAC Pro CIEL</strong>
-<small>Ressources élèves — Lycée Marie-Madeleine Fourcade</small>
-</span>
-</a>
-<nav aria-label="Navigation principale" class="site-nav">
-<a data-section="accueil" href="../index.html">Accueil</a>
-<a data-section="2mtne" href="../2mtne/index.html">2MTNE</a>
-<a data-section="premiere" href="../premiere/index.html">Première</a>
-<a data-section="terminale" href="../terminale/index.html">Terminale</a>
-<a data-section="stages" href="../stages/index.html">Stages</a>
-<a data-section="administratif" href="../administratif/index.html">Administratif</a>
-</nav>
-</div>
+  <div class="header-inner">
+    <a class="brand" href="../index.html">
+      <img src="../assets/img/favicon.svg" alt="" />
+      <span>
+        <strong>BAC Pro CIEL</strong>
+        <small>Lycée Marie-Madeleine Fourcade</small>
+      </span>
+    </a>
+    <nav class="site-nav" aria-label="Menu principal">
+      <a href="../index.html" data-section="accueil">Accueil</a>
+      <a href="../2mtne/index.html" data-section="2mtne">2MTNE</a>
+      <a href="../premiere/index.html" data-section="premiere">Première</a>
+      <a href="../terminale/index.html" data-section="terminale">Terminale</a>
+      <a href="../stages/index.html" data-section="stages">Stages</a>
+      <a href="../administratif/index.html" data-section="administratif">Administratif</a>
+    </nav>
+  </div>
 </header>
-<main class="page-shell">
-<section class="page-title">
-<div class="eyebrow">PFMP &amp; entreprises</div>
-<h1>Stages</h1>
-<p>Carte des lieux de stage connus, documents utiles et conseils pour préparer les demandes de PFMP.</p>
-</section>
-<div class="split">
-<section class="resource-section">
-<h2>Carte des lieux de stage</h2>
-<p>La carte permet de chercher par ville, entreprise ou domaine. Les lieux de stage 2025-2026 peuvent être filtrés directement depuis la carte.</p>
-<div class="hero-actions">
-<a class="btn primary" href="carte.html">Ouvrir la carte en plein écran</a>
-<a class="btn" href="documents/">Dossier documents stage</a>
-</div>
-<div class="notice"><strong>Attention :</strong> la carte est publique. Les numéros mobiles et données personnelles ne doivent pas être publiés ici.</div>
-</section>
-<section class="resource-section">
-    <h2>Documents de stage</h2>
-    <p>Documents utiles pour les périodes de formation en milieu professionnel.</p>
+<main>
+  <section class="page-head lvl-stage">
+    <div>
+      <h1>Stages</h1>
+      <p class="subtitle">Périodes de formation en milieu professionnel (PFMP)</p>
+      <p>Ici tu trouves ta convention de stage, les dates des PFMP et une carte des entreprises qui ont déjà accueilli des élèves.</p>
+    </div>
+  </section>
 
-    <div class="ressource-card">
-        <h3>Calendrier PFMP 2026-2027</h3>
-        <a href="../administratif/Documents/Calendrier_PFMP_2026-27.pdf"
-           target="_blank"
-           class="download-btn">
-            Ouvrir le PDF
-        </a>
-    </div>
+  <div class="stage-layout">
+    <section class="shelf" id="conventions">
+      <h2>Ma convention de stage</h2>
+      <p class="shelf-note">Choisis ta classe, puis ouvre la convention de ta PFMP. Imprime-la et fais-la signer par l’entreprise.</p>
+      <div class="class-picker" role="group" aria-label="Choisir ma classe">
+        <button type="button" data-class="all" style="--band: var(--muted)">Toutes</button>
+        <button type="button" data-class="2mtne" class="lvl-2">2MTNE</button>
+        <button type="button" data-class="premiere" class="lvl-1">Première</button>
+        <button type="button" data-class="terminale" class="lvl-3">Terminale</button>
+      </div>
+        <div class="conv-group" data-class="2mtne">
+          <h3>2MTNE</h3>
+      <a class="doc" href="../administratif/Documents/Convention_2026-27_2MTNE1_PFMP1.pdf" target="_blank" rel="noopener">
+        <span class="doc-type pdf">PDF</span>
+        <span class="doc-text"><strong>2MTNE1 — PFMP 1</strong><span>Convention 2026-2027</span></span>
+        <span class="doc-action">Ouvrir</span>
+      </a>
+      <a class="doc" href="../administratif/Documents/Convention_2026-27_2MTNE2_PFMP1.pdf" target="_blank" rel="noopener">
+        <span class="doc-type pdf">PDF</span>
+        <span class="doc-text"><strong>2MTNE2 — PFMP 1</strong><span>Convention 2026-2027</span></span>
+        <span class="doc-action">Ouvrir</span>
+      </a>
+      <a class="doc" href="../administratif/Documents/Convention_2026-27_2MTNE_PFMP2.pdf" target="_blank" rel="noopener">
+        <span class="doc-type pdf">PDF</span>
+        <span class="doc-text"><strong>2MTNE — PFMP 2</strong><span>Convention 2026-2027, les deux groupes</span></span>
+        <span class="doc-action">Ouvrir</span>
+      </a>
+        </div>
+        <div class="conv-group" data-class="premiere">
+          <h3>Première CIEL</h3>
+      <a class="doc" href="../administratif/Documents/Convention_2026-27_1CIEL1_PFMP3.pdf" target="_blank" rel="noopener">
+        <span class="doc-type pdf">PDF</span>
+        <span class="doc-text"><strong>1CIEL1 — PFMP 3</strong><span>Convention 2026-2027</span></span>
+        <span class="doc-action">Ouvrir</span>
+      </a>
+      <a class="doc" href="../administratif/Documents/Convention_2026-27_1CIEL2_PFMP3.pdf" target="_blank" rel="noopener">
+        <span class="doc-type pdf">PDF</span>
+        <span class="doc-text"><strong>1CIEL2 — PFMP 3</strong><span>Convention 2026-2027</span></span>
+        <span class="doc-action">Ouvrir</span>
+      </a>
+      <a class="doc" href="../administratif/Documents/Convention_2026-27_1CIEL_PFMP4.pdf" target="_blank" rel="noopener">
+        <span class="doc-type pdf">PDF</span>
+        <span class="doc-text"><strong>1CIEL — PFMP 4</strong><span>Convention 2026-2027, les deux groupes</span></span>
+        <span class="doc-action">Ouvrir</span>
+      </a>
+        </div>
+        <div class="conv-group" data-class="terminale">
+          <h3>Terminale CIEL</h3>
+      <a class="doc" href="../administratif/Documents/Convention_2026-27_TCIEL_PFMP5.pdf" target="_blank" rel="noopener">
+        <span class="doc-type pdf">PDF</span>
+        <span class="doc-text"><strong>TCIEL — PFMP 5</strong><span>Convention 2026-2027</span></span>
+        <span class="doc-action">Ouvrir</span>
+      </a>
+      <a class="doc" href="../administratif/Documents/Convention_2026-27_TCIEL_PFMP6.pdf" target="_blank" rel="noopener">
+        <span class="doc-type pdf">PDF</span>
+        <span class="doc-text"><strong>TCIEL — PFMP 6</strong><span>Convention 2026-2027</span></span>
+        <span class="doc-action">Ouvrir</span>
+      </a>
+        </div>
+    </section>
 
-    <div class="ressource-card">
-        <h3>Fiche de recherche de PFMP</h3>
-        <a href="../administratif/Documents/Fiche_de_recherche_de_PFMP_.pdf"
-           target="_blank"
-           class="download-btn">
-            Ouvrir le PDF
-        </a>
-    </div>
-</section>
-<section class="resource-section">
-    <h2>Convention de stage 2MTNE</h2>
-    <div class="ressource-card">
-        <h3>Convention 2MTNE1 - PFMP1</h3>
-        <a href="../administratif/Documents/Convention_2026-27_2MTNE1_PFMP1.pdf"
-           target="_blank"
-           class="download-btn">
-            Ouvrir le PDF
-        </a>
-    </div>
+    <section class="shelf" id="preparer">
+      <h2>Préparer mon stage</h2>
+      <p class="shelf-note">Les dates à connaître et la fiche pour noter tes démarches auprès des entreprises.</p>
+      <div class="docs">
+      <a class="doc" href="../administratif/Documents/Calendrier_PFMP_2026-27.pdf" target="_blank" rel="noopener">
+        <span class="doc-type pdf">PDF</span>
+        <span class="doc-text"><strong>Calendrier des PFMP 2026-2027</strong><span>Les dates de stage de chaque classe.</span></span>
+        <span class="doc-action">Ouvrir</span>
+      </a>
+      <a class="doc" href="../administratif/Documents/Fiche_de_recherche_de_PFMP_.pdf" target="_blank" rel="noopener">
+        <span class="doc-type pdf">PDF</span>
+        <span class="doc-text"><strong>Fiche de recherche de stage</strong><span>Pour garder la trace des entreprises contactées.</span></span>
+        <span class="doc-action">Ouvrir</span>
+      </a>
+      </div>
+    </section>
+  </div>
 
-    <div class="ressource-card">
-        <h3>Convention 2MTNE2 - PFMP1</h3>
-        <a href="../administratif/Documents/Convention_2026-27_2MTNE2_PFMP1.pdf"
-           target="_blank"
-           class="download-btn">
-            Ouvrir le PDF
-        </a>
+  <section class="shelf" id="carte" style="margin-top:40px">
+    <h2>Trouver une entreprise</h2>
+    <p class="shelf-note">La carte montre les entreprises qui ont déjà accueilli des élèves. Tu peux chercher par ville, par entreprise ou par domaine.</p>
+    <div class="actions" style="margin-bottom:14px">
+      <a class="btn primary" href="carte.html">Ouvrir la carte en plein écran</a>
     </div>
-
-    <div class="ressource-card">
-        <h3>Convention 2MTNE - PFMP2</h3>
-        <a href="../administratif/Documents/Convention_2026-27_2MTNE_PFMP2.pdf"
-           target="_blank"
-           class="download-btn">
-            Ouvrir le PDF
-        </a>
-    </div>
-</section>
-<section class="resource-section">
-    <h2>Convention de stage 1CIEL</h2>
-    <div class="ressource-card">
-        <h3>Convention 1CIEL1 - PFMP3</h3>
-        <a href="../administratif/Documents/Convention_2026-27_1CIEL1_PFMP3.pdf"
-           target="_blank"
-           class="download-btn">
-            Ouvrir le PDF
-        </a>
-    </div>
-
-    <div class="ressource-card">
-        <h3>Convention 1CIEL2 - PFMP3</h3>
-        <a href="../administratif/Documents/Convention_2026-27_1CIEL2_PFMP3.pdf"
-           target="_blank"
-           class="download-btn">
-            Ouvrir le PDF
-        </a>
-    </div>
-
-    <div class="ressource-card">
-        <h3>Convention 1CIEL - PFMP4</h3>
-        <a href="../administratif/Documents/Convention_2026-27_1CIEL_PFMP4.pdf"
-           target="_blank"
-           class="download-btn">
-            Ouvrir le PDF
-        </a>
-    </div>
-</section>
-<section class="resource-section">
-    <h2>Convention de stage TCIEL</h2>
-    <div class="ressource-card">
-        <h3>Convention TCIEL - PFMP5</h3>
-        <a href="../administratif/Documents/Convention_2026-27_TCIEL_PFMP5.pdf"
-           target="_blank"
-           class="download-btn">
-            Ouvrir le PDF
-        </a>
-    </div>
-
-    <div class="ressource-card">
-        <h3>Convention TCIEL - PFMP6</h3>
-        <a href="../administratif/Documents/Convention_2026-27_TCIEL_PFMP6.pdf"
-           target="_blank"
-           class="download-btn">
-            Ouvrir le PDF
-        </a>
-    </div>
-</section>
-</div>
-<section class="resource-section" style="margin-top:18px;">
-<h2>Aperçu de la carte</h2>
-<iframe class="map-preview" src="carte.html" title="Carte des lieux de stage"></iframe>
-</section>
+    <!-- Rappel : la carte est publique, ne jamais y mettre de numéro de portable ni de donnée personnelle. -->
+    <iframe class="map-frame" src="carte.html" title="Carte des lieux de stage" loading="lazy"></iframe>
+  </section>
 </main>
 <footer class="site-footer">
-<div>
-<strong>BAC Pro CIEL</strong><br/>
-<span>Site statique GitHub Pages — documents publics uniquement.</span>
-</div>
-<a href="../administratif/index.html">Documents utiles</a>
+  <div class="footer-inner">
+    <span>BAC Pro CIEL — Lycée Marie-Madeleine Fourcade</span>
+    <span>Un lien ne marche pas ? Préviens ton professeur.</span>
+  </div>
 </footer>
 <script src="../assets/js/site.js"></script>
 </body>

@@ -1,78 +1,115 @@
 <!DOCTYPE html>
-
-<html data-section="premiere" lang="fr">
+<html lang="fr" data-section="premiere">
 <head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1" name="viewport"/>
-<title>Première CIEL — BAC Pro CIEL</title>
-<meta content="Portail de ressources pour les élèves du BAC Pro CIEL." name="description"/>
-<link href="../assets/img/favicon.svg" rel="icon" type="image/svg+xml"/>
-<link href="../assets/css/style.css" rel="stylesheet"/>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Première CIEL — BAC Pro CIEL</title>
+  <meta name="description" content="Cours, TP, exercices et corrections pour la classe de Première CIEL du BAC Pro CIEL." />
+  <link rel="icon" href="../assets/img/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" />
+  <link rel="stylesheet" href="../assets/css/style.css" />
 </head>
 <body>
 <header class="site-header">
-<div class="header-inner">
-<a aria-label="Retour à l'accueil" class="brand" href="../index.html">
-<span class="brand-mark">CIEL</span>
-<span>
-<strong>BAC Pro CIEL</strong>
-<small>Ressources élèves — Lycée Marie-Madeleine Fourcade</small>
-</span>
-</a>
-<nav aria-label="Navigation principale" class="site-nav">
-<a data-section="accueil" href="../index.html">Accueil</a>
-<a data-section="2mtne" href="../2mtne/index.html">2MTNE</a>
-<a data-section="premiere" href="../premiere/index.html">Première</a>
-<a data-section="terminale" href="../terminale/index.html">Terminale</a>
-<a data-section="stages" href="../stages/index.html">Stages</a>
-<a data-section="administratif" href="../administratif/index.html">Administratif</a>
-</nav>
-</div>
+  <div class="header-inner">
+    <a class="brand" href="../index.html">
+      <img src="../assets/img/favicon.svg" alt="" />
+      <span>
+        <strong>BAC Pro CIEL</strong>
+        <small>Lycée Marie-Madeleine Fourcade</small>
+      </span>
+    </a>
+    <nav class="site-nav" aria-label="Menu principal">
+      <a href="../index.html" data-section="accueil">Accueil</a>
+      <a href="../2mtne/index.html" data-section="2mtne">2MTNE</a>
+      <a href="../premiere/index.html" data-section="premiere">Première</a>
+      <a href="../terminale/index.html" data-section="terminale">Terminale</a>
+      <a href="../stages/index.html" data-section="stages">Stages</a>
+      <a href="../administratif/index.html" data-section="administratif">Administratif</a>
+    </nav>
+  </div>
 </header>
-<main class="page-shell">
-<section class="page-title">
-<div class="eyebrow">Première professionnelle</div>
-<h1>Première CIEL</h1>
-<p>Cours et TP pour consolider les bases en réseaux, systèmes informatiques, électronique, maintenance et cybersécurité.</p>
-</section>
-<section class="teacher-resource-title" id="ressources-bonali">
-<div class="eyebrow">Ressources</div>
-<h2>BONALI</h2>
-<p>Cours, TP, exercices, évaluations et fiches méthode disponibles sur le portail.</p>
-</section>
-<section class="section-grid">
-<article class="resource-section">
-<h2>Cours</h2>
-<p>Supports de cours, synthèses et fiches élèves.</p>
-<div class="file-list"><p class="empty-message">En attente de document.</p></div>
-</article>
-<article class="resource-section">
-<h2>TP</h2>
-<p>Activités pratiques, consignes et ressources techniques.</p>
-<a class="file-card" href="https://freecad.lachiver.fr/v1.1/guideW/co/ParcoursWeb.html" target="_blank" rel="noopener">
-  <span><strong>Apprendre à modéliser en 3d</strong></span>
-  <span class="tag">PDF</span>
-</a>
-</article><article class="resource-section"><h2>Exercices</h2><p>Exercices d’entraînement et ressources associées.</p><div class="file-list"><p class="empty-message">En attente de document.</p></div></article>
-<article class="resource-section">
-<h2>Évaluations / corrections</h2>
-<p>Sujets, corrections et documents de révision quand ils sont publiables.</p>
-<div class="file-list"><p class="empty-message">En attente de document.</p></div>
-</article>
-<article class="resource-section">
-<h2>Fiches méthode</h2>
-<p>Commandes utiles, procédures, rappels de câblage, réseau ou sécurité.</p>
-<div class="file-list"><p class="empty-message">En attente de document.</p></div>
-</article>
-</section>
+<main>
+  <section class="page-head lvl-1">
+    <div>
+      <h1>Première CIEL</h1>
+      <p class="subtitle">Première Cybersécurité, informatique et réseaux, électronique</p>
+      <p>On consolide les bases : réseaux, systèmes informatiques, électronique, maintenance et cybersécurité.</p>
+      <p class="teacher">Ressources de M. Bonali</p>
+    </div>
+  </section>
 
+  <div class="toolbar">
+    <label class="search">
+      <span class="visually-hidden">Chercher un document</span>
+      <input type="search" placeholder="Chercher un document…" autocomplete="off" />
+    </label>
+    <nav class="jumps" aria-label="Aller à une rubrique"></nav>
+  </div>
+
+  <p class="no-result" hidden></p>
+
+  <!-- Pour ajouter un document : copier un bloc <a class="doc"> dans la bonne rubrique (voir README.md).
+       Les rubriques vides sont masquées automatiquement. -->
+  <div class="shelves" data-auto>
+
+    <section class="shelf" id="cours">
+      <h2>Cours</h2>
+      <p class="shelf-note">Supports de cours et synthèses.</p>
+      <div class="docs">
+      </div>
+    </section>
+
+    <section class="shelf" id="tp">
+      <h2>TP</h2>
+      <p class="shelf-note">Les sujets de travaux pratiques à faire en classe.</p>
+      <div class="docs">
+      <a class="doc" href="https://freecad.lachiver.fr/v1.1/guideW/co/ParcoursWeb.html" target="_blank" rel="noopener">
+        <span class="doc-type web">WEB</span>
+        <span class="doc-text"><strong>Apprendre à modéliser en 3D avec FreeCAD</strong><span>Parcours guidé en ligne (site externe).</span></span>
+        <span class="doc-action">Ouvrir le site</span>
+      </a>
+      </div>
+    </section>
+
+    <section class="shelf" id="exercices">
+      <h2>Exercices</h2>
+      <p class="shelf-note">Pour t’entraîner en classe ou à la maison.</p>
+      <div class="docs">
+      </div>
+    </section>
+
+    <section class="shelf" id="methodes">
+      <h2>Fiches méthode</h2>
+      <p class="shelf-note">Les rappels à garder sous la main pendant un TP ou un exercice.</p>
+      <div class="docs">
+      </div>
+    </section>
+
+    <section class="shelf" id="evaluations">
+      <h2>Évaluations et corrections</h2>
+      <p class="shelf-note">Sujets d’évaluation et corrigés, une fois publiés.</p>
+      <div class="docs">
+      </div>
+    </section>
+
+    <section class="shelf" id="logiciels">
+      <h2>Logiciels</h2>
+      <p class="shelf-note">Les programmes à installer pour suivre les cours et les TP.</p>
+      <div class="docs">
+      </div>
+    </section>
+  </div>
+
+  <p class="empty-summary"></p>
 </main>
 <footer class="site-footer">
-<div>
-<strong>BAC Pro CIEL</strong><br/>
-<span>Site statique GitHub Pages — documents publics uniquement.</span>
-</div>
-<a href="../administratif/index.html">Documents utiles</a>
+  <div class="footer-inner">
+    <span>BAC Pro CIEL — Lycée Marie-Madeleine Fourcade</span>
+    <span>Un lien ne marche pas ? Préviens ton professeur.</span>
+  </div>
 </footer>
 <script src="../assets/js/site.js"></script>
 </body>

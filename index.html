@@ -3,61 +3,101 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Accueil — BAC Pro CIEL</title>
-  <meta name="description" content="Portail de ressources pour les élèves du BAC Pro CIEL." />
+  <title>BAC Pro CIEL — Lycée Marie-Madeleine Fourcade</title>
+  <meta name="description" content="Cours, TP, exercices et documents de stage pour les élèves du BAC Pro CIEL du lycée Marie-Madeleine Fourcade." />
   <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" />
   <link rel="stylesheet" href="assets/css/style.css" />
 </head>
 <body>
-  <header class="site-header">
+<header class="site-header">
   <div class="header-inner">
-    <a class="brand" href="index.html" aria-label="Retour à l'accueil">
-      <span class="brand-mark">CIEL</span>
+    <a class="brand" href="index.html">
+      <img src="assets/img/favicon.svg" alt="" />
       <span>
         <strong>BAC Pro CIEL</strong>
-        <small>Ressources élèves — Lycée Marie-Madeleine Fourcade</small>
+        <small>Lycée Marie-Madeleine Fourcade</small>
       </span>
     </a>
-    
-<nav class="site-nav" aria-label="Navigation principale">
-  <a href="index.html" data-section="accueil">Accueil</a>
-  <a href="2mtne/index.html" data-section="2mtne">2MTNE</a>
-  <a href="premiere/index.html" data-section="premiere">Première</a>
-  <a href="terminale/index.html" data-section="terminale">Terminale</a>
-  <a href="stages/index.html" data-section="stages">Stages</a>
-  <a href="administratif/index.html" data-section="administratif">Administratif</a>
-</nav>
+    <nav class="site-nav" aria-label="Menu principal">
+      <a href="index.html" data-section="accueil">Accueil</a>
+      <a href="2mtne/index.html" data-section="2mtne">2MTNE</a>
+      <a href="premiere/index.html" data-section="premiere">Première</a>
+      <a href="terminale/index.html" data-section="terminale">Terminale</a>
+      <a href="stages/index.html" data-section="stages">Stages</a>
+      <a href="administratif/index.html" data-section="administratif">Administratif</a>
+    </nav>
   </div>
 </header>
-  <main class="page-shell">
-    
-<section class="hero">
-  <div class="hero-card">
-    <div class="eyebrow">Portail élèves</div>
-    <h1>BAC Pro CIEL</h1>
-    <p>Un point d’entrée unique pour les cours, les TP, les documents de stage et les ressources administratives. Pour l’instant, le site est une base propre prête à remplir.</p>
-    <div class="hero-actions">
-      <a class="btn primary" href="stages/index.html">Accéder aux stages</a>
-      <a class="btn" href="administratif/index.html">Documents administratifs</a>
-    </div>
-  </div>
-</section>
+<main>
+  <section class="welcome">
+    <h1>Tes cours, tes TP et tes stages, au même endroit.</h1>
+    <p>Choisis ta classe pour retrouver tes documents, ou va directement à ce que tu cherches.</p>
+  </section>
 
-<section class="grid-cards" aria-label="Accès rapides">
-  <a class="quick-card" href="2mtne/index.html"><div class="icon-bubble">🔌</div><strong>2MTNE</strong><span>Découverte, bases techniques, premiers TP.</span></a>
-  <a class="quick-card" href="premiere/index.html"><div class="icon-bubble">💻</div><strong>Première CIEL</strong><span>Réseaux, électronique, systèmes numériques.</span></a>
-  <a class="quick-card" href="terminale/index.html"><div class="icon-bubble">🛠️</div><strong>Terminale CIEL</strong><span>Révisions, projets, CCF et autonomie.</span></a>
-  <a class="quick-card" href="stages/index.html"><div class="icon-bubble">🗺️</div><strong>Stages</strong><span>Carte des lieux de stage et documents PFMP.</span></a>
-  <a class="quick-card" href="administratif/index.html"><div class="icon-bubble">📄</div><strong>Administratif</strong><span>Documents utiles et liens importants.</span></a>
-</section>
-
-  </main>
-  <footer class="site-footer">
-  <div>
-    <strong>BAC Pro CIEL</strong><br>
-    <span>Site statique GitHub Pages — documents publics uniquement.</span>
+  <h2 class="block-title">Tu es en quelle classe ?</h2>
+  <div class="classes">
+    <a class="class-card lvl-2" href="2mtne/index.html">
+      <span>
+        <strong>2MTNE</strong>
+        <span class="class-full">Seconde</span>
+        <span class="class-what">Premiers TP d’électronique, mallette Pico W, Python.</span>
+        <span class="class-go">Voir mes documents</span>
+      </span>
+    </a>
+    <a class="class-card lvl-1" href="premiere/index.html">
+      <span>
+        <strong>Première CIEL</strong>
+        <span class="class-full">Première</span>
+        <span class="class-what">Réseaux, électronique, systèmes numériques, modélisation 3D.</span>
+        <span class="class-go">Voir mes documents</span>
+      </span>
+    </a>
+    <a class="class-card lvl-3" href="terminale/index.html">
+      <span>
+        <strong>Terminale CIEL</strong>
+        <span class="class-full">Terminale</span>
+        <span class="class-what">Projets, révisions et préparation des épreuves.</span>
+        <span class="class-go">Voir mes documents</span>
+      </span>
+    </a>
   </div>
-  <a href="administratif/index.html">Documents utiles</a>
+
+  <h2 class="block-title">Tu cherches…</h2>
+  <div class="shortcuts">
+    <a class="shortcut" href="stages/index.html#conventions">
+      <span class="ico" aria-hidden="true">📝</span>
+      <span><strong>Ma convention de stage</strong><small>Rangées par classe</small></span>
+    </a>
+    <a class="shortcut" href="administratif/Documents/Calendrier_PFMP_2026-27.pdf" target="_blank" rel="noopener">
+      <span class="ico" aria-hidden="true">📅</span>
+      <span><strong>Les dates de stage</strong><small>Calendrier des PFMP 2026-2027</small></span>
+    </a>
+    <a class="shortcut" href="stages/carte.html">
+      <span class="ico" aria-hidden="true">🗺️</span>
+      <span><strong>Une entreprise pour mon stage</strong><small>Carte des lieux de stage</small></span>
+    </a>
+    <a class="shortcut" href="administratif/Documents/Fiche_de_recherche_de_PFMP_.pdf" target="_blank" rel="noopener">
+      <span class="ico" aria-hidden="true">🔎</span>
+      <span><strong>La fiche de recherche de stage</strong><small>À remplir pendant tes démarches</small></span>
+    </a>
+    <a class="shortcut" href="2mtne/python/index.html">
+      <span class="ico" aria-hidden="true">🐍</span>
+      <span><strong>Les exercices Python</strong><small>20 exercices pour débuter</small></span>
+    </a>
+    <a class="shortcut" href="https://drive.google.com/file/d/1B8GFGrKEMv5twzOvvanOxWzRN96jrfq1/view?usp=sharing" target="_blank" rel="noopener">
+      <span class="ico" aria-hidden="true">⚡</span>
+      <span><strong>Le logiciel CRUMB</strong><small>Simulateur de circuits</small></span>
+    </a>
+  </div>
+</main>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <span>BAC Pro CIEL — Lycée Marie-Madeleine Fourcade</span>
+    <span>Un lien ne marche pas ? Préviens ton professeur.</span>
+  </div>
 </footer>
 <script src="assets/js/site.js"></script>
 </body>
