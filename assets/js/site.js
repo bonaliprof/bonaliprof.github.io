@@ -2,7 +2,11 @@
 (function () {
   // Lien actif dans le menu
   var section = document.documentElement.getAttribute('data-section');
+  var group = document.documentElement.getAttribute('data-group') || section;
   document.querySelectorAll('.site-nav a').forEach(function (a) {
+    if (a.getAttribute('data-section') === group) a.setAttribute('aria-current', 'page');
+  });
+  document.querySelectorAll('.sub-nav a').forEach(function (a) {
     if (a.getAttribute('data-section') === section) a.setAttribute('aria-current', 'page');
   });
 
@@ -47,7 +51,8 @@
     var filled = shelves.filter(function (s) { return !s.dataset.empty; });
     if (filled.length === 1) shelvesWrap.classList.add('single');
     if (filled.length === 0 && emptyBox) {
-      emptyBox.textContent = 'Aucun document n’est encore publié pour cette classe. Reviens bientôt !';
+      emptyBox.textContent = shelvesWrap.getAttribute('data-empty-msg') ||
+        'Aucun document n’est encore publié pour cette classe. Reviens bientôt !';
     }
 
     var input = document.querySelector('.search input');

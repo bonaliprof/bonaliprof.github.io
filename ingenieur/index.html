@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="fr" data-section="ingenieur" data-group="ingenieur">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>École d’ingénieurs — M. Bonali</title>
+  <meta name="description" content="Cours, TP, exercices et corrections — École d’ingénieurs, M. Bonali." />
+  <link rel="icon" href="../assets/img/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" />
+  <link rel="stylesheet" href="../assets/css/style.css" />
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="../index.html">
+      <img src="../assets/img/favicon.svg" alt="" />
+      <span>
+        <strong>M. Bonali</strong>
+        <small>Cours et ressources</small>
+      </span>
+    </a>
+    <nav class="site-nav" aria-label="Menu principal">
+      <a href="../index.html" data-section="accueil">Accueil</a>
+      <a href="../bacpro/index.html" data-section="bacpro">Bac Pro CIEL</a>
+      <a href="../ingenieur/index.html" data-section="ingenieur">Ingénieur</a>
+    </nav>
+  </div>
+</header>
+<main>
+  <section class="page-head lvl-ing">
+    <div>
+      <h1>École d’ingénieurs</h1>
+      <p class="subtitle">Enseignement supérieur</p>
+      <p>Supports de cours, sujets de TD et de TP, projets et corrigés.</p>
+      
+    </div>
+  </section>
+
+  <div class="toolbar">
+    <label class="search">
+      <span class="visually-hidden">Chercher un document</span>
+      <input type="search" placeholder="Chercher un document…" autocomplete="off" />
+    </label>
+    <nav class="jumps" aria-label="Aller à une rubrique"></nav>
+  </div>
+
+  <p class="no-result" hidden></p>
+
+  <!-- Pour ajouter un document : copier un bloc <a class="doc"> dans la bonne rubrique (voir README.md).
+       Les rubriques vides sont masquées automatiquement. -->
+  <div class="shelves" data-auto data-empty-msg="Les premiers documents seront publiés ici dès le début des cours.">
+
+    <section class="shelf" id="cours">
+      <h2>Cours</h2>
+      <p class="shelf-note">Supports de cours et diaporamas.</p>
+      <div class="docs">
+      </div>
+    </section>
+
+    <section class="shelf" id="td">
+      <h2>TD</h2>
+      <p class="shelf-note">Sujets de travaux dirigés.</p>
+      <div class="docs">
+      </div>
+    </section>
+
+    <section class="shelf" id="tp">
+      <h2>TP</h2>
+      <p class="shelf-note">Sujets de travaux pratiques et fichiers fournis.</p>
+      <div class="docs">
+      </div>
+    </section>
+
+    <section class="shelf" id="projets">
+      <h2>Projets</h2>
+      <p class="shelf-note">Cahiers des charges et ressources de projet.</p>
+      <div class="docs">
+      </div>
+    </section>
+
+    <section class="shelf" id="examens">
+      <h2>Examens et corrigés</h2>
+      <p class="shelf-note">Annales et corrigés, une fois publiés.</p>
+      <div class="docs">
+      </div>
+    </section>
+
+    <section class="shelf" id="logiciels">
+      <h2>Logiciels et outils</h2>
+      <p class="shelf-note">Ce qu’il faut installer pour les TP.</p>
+      <div class="docs">
+      </div>
+    </section>
+  </div>
+
+  <p class="empty-summary"></p>
+</main>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <span>Site de M. Bonali — cours et ressources</span>
+    <span>Un lien ne marche pas ? Merci de me prévenir.</span>
+  </div>
+</footer>
+<script src="../assets/js/site.js"></script>
+</body>
+</html>

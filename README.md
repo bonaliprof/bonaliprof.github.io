@@ -1,8 +1,11 @@
-# Site BAC Pro CIEL — mode d'emploi
+# Site de M. Bonali — mode d'emploi
+
+Deux espaces : **Bac Pro CIEL** (`bacpro/`, `2mtne/`, `premiere/`, `terminale/`, `stages/`, `administratif/`)
+et **École d'ingénieurs** (`ingenieur/`, rubriques : `cours`, `td`, `tp`, `projets`, `examens`, `logiciels`).
 
 ## Ajouter un document dans une page de classe
 
-Dans `2mtne/index.html`, `premiere/index.html` ou `terminale/index.html`, repère la rubrique
+Dans `2mtne/index.html`, `premiere/index.html`, `terminale/index.html` ou `ingenieur/index.html`, repère la rubrique
 (`id="cours"`, `id="tp"`, `id="exercices"`, `id="methodes"`, `id="evaluations"`, `id="logiciels"`)
 et colle un bloc dans son `<div class="docs">`.
 
@@ -45,7 +48,7 @@ La ligne de description (`<span>…</span>` après le titre) est facultative.
 ## Code couleur des classes
 
 Comme le code des résistances : 2MTNE = rouge (2), Première = marron (1), Terminale = orange (3).
-Classes CSS : `lvl-2`, `lvl-1`, `lvl-3`, plus `lvl-stage` (vert) et `lvl-admin` (violet).
+Classes CSS : `lvl-2`, `lvl-1`, `lvl-3`, plus `lvl-stage` (vert), `lvl-admin` (violet) et `lvl-ing` (bleu canard, école d'ingénieurs).
 
 ## Liens utiles (Pronote, ENT…)
 
