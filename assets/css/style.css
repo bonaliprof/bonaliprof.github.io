@@ -542,6 +542,34 @@ main {
 }
 @media (max-width: 600px) { .map-frame { height: 420px; } }
 
+/* ---------- Projet : une case par classe ---------- */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+  align-items: start;
+}
+@media (max-width: 860px) { .project-grid { grid-template-columns: 1fr; } }
+.project-box {
+  padding: 20px 22px 22px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-top: 8px solid var(--band, var(--blue));
+  border-radius: var(--radius-l);
+}
+.project-box h2 { font-size: 1.7rem; color: var(--band, var(--blue)); }
+.project-box .project-class { margin: 2px 0 0; color: var(--muted); font-weight: 700; font-size: .95rem; }
+.project-box .shelf-note { margin-top: 10px; }
+.project-box .docs .doc { background: var(--bg); }
+.project-empty {
+  margin: 0;
+  padding: 14px 16px;
+  border: 1px dashed var(--line);
+  border-radius: var(--radius-s);
+  color: var(--muted);
+  font-size: .95rem;
+}
+
 /* ---------- Anciennes classes (compatibilité) ---------- */
 .file-card {
   display: flex; align-items: center; justify-content: space-between; gap: 14px;

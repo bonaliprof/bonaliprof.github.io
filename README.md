@@ -1,6 +1,6 @@
 # Site de M. Bonali — mode d'emploi
 
-Deux espaces : **Bac Pro CIEL** (`bacpro/`, `2mtne/`, `premiere/`, `terminale/`, `stages/`, `administratif/`)
+Deux espaces : **Bac Pro CIEL** (`bacpro/`, `2mtne/`, `premiere/`, `terminale/`, `projet/`, `stages/`, `administratif/`)
 et **École d'ingénieurs** (`ingenieur/`, rubriques : `cours`, `td`, `tp`, `projets`, `examens`, `logiciels`).
 
 ## Ajouter un document dans une page de classe
@@ -44,6 +44,13 @@ se mettent à jour tout seuls. La recherche de la page trouve aussi les nouveaux
 
 Types d'icône disponibles : `pdf` (rouge), `zip` (violet), `web` (bleu), `app` (vert, logiciels).
 La ligne de description (`<span>…</span>` après le titre) est facultative.
+
+## Page Projet (1CIEL / TCIEL)
+
+`projet/index.html` contient une case par classe : `id="premiere"` (1CIEL) et `id="terminale"` (TCIEL).
+Range les fichiers dans `projet/documents/1ciel/` ou `projet/documents/tciel/`, puis colle un bloc
+`<a class="doc">` (modèles plus haut) dans le `<div class="docs">` de la bonne case.
+Quand une case reçoit son premier document, supprime son paragraphe `<p class="project-empty">`.
 
 ## Code couleur des classes
 
